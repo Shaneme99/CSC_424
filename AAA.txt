@@ -1,0 +1,516 @@
+Delivered-To: shaneme99@gmail.com
+Received: by 2002:a05:7022:2520:b0:79:8d84:8d47 with SMTP id ds32csp593630dlb;
+        Wed, 10 Apr 2024 14:10:37 -0700 (PDT)
+X-Google-Smtp-Source: AGHT+IHRCD2ftn0VyRKAQHaKP9HU+p74LUODO/5KNvFOQW1XuxaO/WGYDhOFSfHT2w9OVR+vRWRk
+X-Received: by 2002:a05:6830:44a2:b0:6ea:3924:c1af with SMTP id r34-20020a05683044a200b006ea3924c1afmr1971774otv.4.1712783436992;
+        Wed, 10 Apr 2024 14:10:36 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1712783436; cv=none;
+        d=google.com; s=arc-20160816;
+        b=TpQMsxYNADZeyMG0p9pyp1MkE3vgox3bCwtxI2SWs3f+v4n0vrHLxiityKCcYtBDJ+
+         XexpYYz6IRLWwvYI8/qqrb6Krgq1mgvSuErAPrTXGJn1hKqE6CeJtsVeLT5GG/Lx1E5k
+         +NmdRHmVoiphN/TkwX+e4EvCF4yKoNalMBQzsyGiPUaCnUuFtclHSrdoaTwCUgsF3ci0
+         rYyw7ddEKjUtOr4fVRl0gBLPsbxyKeiJsx2h//A44Q2xmltE218i3nADbrD0WnNBMRJH
+         lA8PXPRzBU2TdvtYIMt309V6P1AKQKsboSNMEKYcvJ1C566NniTkp0ilO3L6lp/uDX+q
+         FMGQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=feedback-id:message-id:list-id:reply-to:mime-version
+         :list-unsubscribe-post:list-unsubscribe:date:subject:to:from
+         :dkim-signature;
+        bh=g5db2o5DGn/H5Y4PEETYHp0GjRIQR5QAULTAtMkOXrM=;
+        fh=xbkV1RgBUdlWF0j9PVGuiA2yl/yLltpKTi4keFYyRAQ=;
+        b=wmIRk/SWgPcyR36HTVaVIUNgmCWF0zaolDB5Sw4C4ukY0NT2ZWjAuPfiOgyaBDwTqG
+         Xp2aSdhogXUPs0CLwZdW1DTseybIRRM3VgxZFBCaKQeu6geY71sNZ+vaiQtlgHR3ywKZ
+         kZpOUy6osgusUZDhYKZuvaIxpl6rRc455UhFNjH355DfHNUccjB6omx4C5HxIZZECqn/
+         pC+WWbhO1/pujOswDWUKbilbbAdWIXWvpTjvzn4taRvuQz/p8Ap3x9W4FfYpRWQe9jfz
+         l/tLCzyaz1j+p7AlHvj0tgOhLLFhw4dBNgxvkLn+H1mgKfEFufXQS5yPmN+IAtLKlnlv
+         fH/g==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@email.acg.aaa.com header.s=200608 header.b=ENKJ91Gp;
+       spf=pass (google.com: domain of bounce-227_html-126767656-584301-524002652-673@bounce.email.acg.aaa.com designates 136.147.142.180 as permitted sender) smtp.mailfrom=bounce-227_HTML-126767656-584301-524002652-673@bounce.email.acg.aaa.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=email.acg.aaa.com
+Return-Path: <bounce-227_HTML-126767656-584301-524002652-673@bounce.email.acg.aaa.com>
+Received: from mta.email.acg.aaa.com (mta.email.acg.aaa.com. [136.147.142.180])
+        by mx.google.com with ESMTPS id ye24-20020a05620a3b9800b0078d73c8b3b8si85036qkn.587.2024.04.10.14.10.36
+        for <shaneme99@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 10 Apr 2024 14:10:36 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-227_html-126767656-584301-524002652-673@bounce.email.acg.aaa.com designates 136.147.142.180 as permitted sender) client-ip=136.147.142.180;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@email.acg.aaa.com header.s=200608 header.b=ENKJ91Gp;
+       spf=pass (google.com: domain of bounce-227_html-126767656-584301-524002652-673@bounce.email.acg.aaa.com designates 136.147.142.180 as permitted sender) smtp.mailfrom=bounce-227_HTML-126767656-584301-524002652-673@bounce.email.acg.aaa.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=email.acg.aaa.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=200608; d=email.acg.aaa.com;
+ h=From:To:Subject:Date:List-Unsubscribe:List-Unsubscribe-Post:MIME-Version:
+ Reply-To:List-ID:Message-ID:Content-Type; i=info@email.acg.aaa.com;
+ bh=g5db2o5DGn/H5Y4PEETYHp0GjRIQR5QAULTAtMkOXrM=;
+ b=ENKJ91GpoTresnodODo7isQ855UAjycunhyErPNDbp8WM9zZFcD9Qh7fHE+HsepbtfwvP19n80Yw
+   5n0dyMrhPjLbvkd7rcvoMh6t0oo61ISXBy49MCv6lxWfKDFb5HCFrbEv2eJ/NACv5wtpEoHYzZ/G
+   VGEOlcMGsKQmKVqcAyY=
+Received: by mta.email.acg.aaa.com id h2s04o2fmd41 for <shaneme99@gmail.com>; Wed, 10 Apr 2024 21:07:59 +0000 (envelope-from <bounce-227_HTML-126767656-584301-524002652-673@bounce.email.acg.aaa.com>)
+From: "AAA Carolinas" <info@email.acg.aaa.com>
+To: <shaneme99@gmail.com>
+Subject: =?UTF-8?B?8J+RnCBBQUEgV09XISBXZWRuZXNkYXlzIOKAkyBTYXZlIEJpZyBv?=
+ =?UTF-8?B?biBLYXRlIFNwYWRlLCBMdWNreSBCcmFuZCwgSGVydHosIEhvbWUgRGVwb3Qg?=
+ =?UTF-8?B?YW5kIG1vcmUh?=
+Date: Wed, 10 Apr 2024 15:07:58 -0600
+List-Unsubscribe: <https://click.email.acg.aaa.com/subscription_center.aspx?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtaWQiOiI1MjQwMDI2NTIiLCJzIjoiMTI2NzY3NjU2IiwibGlkIjoiMjI3IiwiaiI6IjU4NDMwMSIsImpiIjoiNjczIiwiZCI6IjEwMTg5In0.TSG6VqHOdl0OK8C5uG08d75cZCLPorBoAa-4Vmmve2o>, <mailto:leave-fd501672720b5c392848-fe2115727363027a731176-feca11787167047c-fe3511727164047f731172-ff5f127776@leave.email.acg.aaa.com>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+MIME-Version: 1.0
+Reply-To: "AAA Carolinas" <reply-584301-227_HTML-126767656-524002652-673@email.acg.aaa.com>
+List-ID: <524002538.xt.local>
+X-SFMC-Stack: 1
+x-job: 524002652_584301
+Message-ID: <dfc9e986-eb6b-4dc9-be01-ace941518ed4@ind1s01mta1376.xt.local>
+Feedback-ID: 524002652:584301:136.147.142.180:sfmktgcld
+Content-Type: multipart/alternative;
+	boundary="0MP8XAB4oWqy=_?:"
+
+This is a multi-part message in MIME format.
+
+--0MP8XAB4oWqy=_?:
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+ To view this email as a web page, go to the link below, or copy and paste it into your browser's address window.
+https://view.email.acg.aaa.com/?qs=c82540739c4251b05a059e4e45821e18d0fa935acaa9324ac01e58476d56d3891b7c0b4381c4e5812291984abd9bccc83f2bd7787701866a1a689796f0b2689735473b9863d9a1060cf2934c703dcf1c
+ 
+
+ 
+
+
+
+
+
+
+
+WEEKLY LIMITED-TIME WOW-WORTHY DEALS!
+
+
+https://click.email.acg.aaa.com/?qs=58e1fb34650e56962e3760c0def793c97119f8e4dc3b8e5a721a86ae51630394341a45db62d90f49d61a41ece0a83a8b9c92e39cbf68cbd4 
+
+
+https://click.email.acg.aaa.com/?qs=58e1fb34650e56962e3760c0def793c97119f8e4dc3b8e5a721a86ae51630394341a45db62d90f49d61a41ece0a83a8b9c92e39cbf68cbd4 
+
+
+Spring Sale
+Start the season with fresh style and big savings.
+
+
+https://click.email.acg.aaa.com/?qs=58e1fb34650e56962e3760c0def793c97119f8e4dc3b8e5a721a86ae51630394341a45db62d90f49d61a41ece0a83a8b9c92e39cbf68cbd4 
+GET DEAL NOW
+
+
+
+https://click.email.acg.aaa.com/?qs=58e1fb34650e56968efbf2056a509a813e18eb1c31dd0e72f7089bd75324f680175689971efcd477da030c76a3373a6732e32af04fa8bc09 
+
+
+https://click.email.acg.aaa.com/?qs=58e1fb34650e56968efbf2056a509a813e18eb1c31dd0e72f7089bd75324f680175689971efcd477da030c76a3373a6732e32af04fa8bc09 
+
+
+
+ AAA Members save up to 35% off the base rate of daily, weekly and weekend rentals. Reserve by 4/19.
+
+
+https://click.email.acg.aaa.com/?qs=58e1fb34650e56968efbf2056a509a813e18eb1c31dd0e72f7089bd75324f680175689971efcd477da030c76a3373a6732e32af04fa8bc09 
+RESERVE TODAY
+
+
+
+https://click.email.acg.aaa.com/?qs=58e1fb34650e56967705474f3bf29b9fd59d3a479c6bd8af48f96f2c806a50bab3a45a41af57a9310f02b976dcdb653f70375830ba48b5d3 
+
+
+https://click.email.acg.aaa.com/?qs=58e1fb34650e56967705474f3bf29b9fd59d3a479c6bd8af48f96f2c806a50bab3a45a41af57a9310f02b976dcdb653f70375830ba48b5d3 
+
+
++ an Extra 30% Off! Save BIG on your new favorites with this Limited-Time Extra 30% Off Sale. Offer ends 4/17.
+
+
+https://click.email.acg.aaa.com/?qs=58e1fb34650e56967705474f3bf29b9fd59d3a479c6bd8af48f96f2c806a50bab3a45a41af57a9310f02b976dcdb653f70375830ba48b5d3 
+GET DEAL NOW
+
+
+
+https://click.email.acg.aaa.com/?qs=8150bd7bc6228d098afa84efe445b8d667a2ce634f83ddacc5466b272c20909b92558c2bd631c6983a6375eb8cc2a908c957e10c885040d8 
+
+
+https://click.email.acg.aaa.com/?qs=8150bd7bc6228d098afa84efe445b8d667a2ce634f83ddacc5466b272c20909b92558c2bd631c6983a6375eb8cc2a908c957e10c885040d8 
+
+
+
+Brighten up the whole house with 25% off interior & exterior lighting!
+
+
+https://click.email.acg.aaa.com/?qs=8150bd7bc6228d098afa84efe445b8d667a2ce634f83ddacc5466b272c20909b92558c2bd631c6983a6375eb8cc2a908c957e10c885040d8 
+GET DEAL NOW
+
+
+
+
+CHECK OUT 2,000+ EVERYDAY OFFERS
+
+EXCLUSIVELY FOR AAA MEMBERS.
+
+
+https://click.email.acg.aaa.com/?qs=8150bd7bc6228d09dcac292e0ce7caae343d2bebb35a0522647c7fd629055e52b044474b405e8f461347232486b35756b3c52525b2ffce57 
+SEE DEALS
+
+
+ Never miss a deal!
+
+
+ Get the newly updated AAA Discounts extension and receive AAA deal alerts when you shop!**
+
+Now available on Safari, including iOS mobile devices!
+
+
+https://click.email.acg.aaa.com/?qs=8150bd7bc6228d09e3ca0db98549558bf8d33b746eca51e42af867ba78241c2f82e84d8cf9a9853d220db09e8167010e3c3ac3fb87986c62 
+ADD NOW — IT'S FREE!
+
+
+
+ 
+
+VISIT OR CALL 
+
+https://click.email.acg.aaa.com/?qs=58e1fb34650e5696af562b4d8eb4862a9860edb01ba3288b26affc23c63d9b918d2de40f8a30a2e0677f0437e1cdfde3d9aa30c60d3618759d33e50ca78abf62 
+Find a Location 
+
+tel:+18002224357 
+1-800-AAA-HELP 
+
+
+  
+
+CONNECT 
+
+https://click.email.acg.aaa.com/?qs=58e1fb34650e5696558b6f3de0b815b5bbb05b51e56c500b0ce0a6a529cb7f3a481f1d74a90bf5d36c3ca38110b01bbff68ebf6e2183809a1694e8031f585000 
+
+https://click.email.acg.aaa.com/?qs=58e1fb34650e5696dfcbe7a139c6d69b570b0f30b2ce44d48b8814e29fcff1118ccefd300935a781482d7d617cdb55bacb68403df9fd37c95f792fde8d14d554 
+
+https://click.email.acg.aaa.com/?qs=58e1fb34650e5696047b31027e359ccebd14e9c8c7fe63746aafd0c2fa21cdbeece8ba2c2cc9246d02327e2b887b4609d461d7c84ecbc8f3ca695130527c072c 
+
+
+ 
+
+MOBILE APP 
+
+https://click.email.acg.aaa.com/?qs=58e1fb34650e56961e83342c22772ab829cee98908a96697087c67d12736ea1c4a540f13c986d415a526bcc993f6633127e797301eb89c2064c0f42a6edf473b 
+
+
+
+
+
+ * Purchases earn AAA Dollars  that can be redeemed for cash back. Visit 
+https://click.email.acg.aaa.com/?qs=8150bd7bc6228d099b5a2f992091b1198642afb501e3ab3e9120a96167c529d85cea915fe445ece0873bd455b9f6f2eb4582ec0004639693 
+AAA.com/Dollars  for details and restrictions.
+
+
+ ** AAA Discounts Extension is only available to active members of AAA - The Auto Club Group. For more information, please review our 
+https://click.email.acg.aaa.com/?qs=8150bd7bc6228d0920d5226074e78c5de2b6b319b0503a6612948f5fffafb978ecbc233565c21917e9fd7c34d8aef37e468d2d2f1bba22d4 
+privacy policy. 
+
+
+ 
+ 
+
+
+ ----------------------------------------
+	
+	This email was sent by:
+	The Auto Club Group
+	1 Auto Club Dr
+	Dearborn, MI, 48126-4229, US
+	
+	We respect your right to privacy - visit the following URL to view our policy.
+	( https://click.email.acg.aaa.com/?qs=8150bd7bc6228d099cf0358d62917a2a8533c43f9d85eab2ca8e1924ed14395603470f5f9e5b0694ec9dcd82a117caf90548482d4f845a65 )
+	
+	----------------------------------------
+	
+	Visit the following URL to manage your subscriptions.
+	( https://click.email.acg.aaa.com/subscription_center.aspx?qs=47a546cf5d81091bc71ffd05dbdb38cb394835b5caf72f924d9d216cef56e18f66fb04eb11615a57cdf0296d55b499c16fe5bb3d00526e4fea03ad2466ea550ee79a98c785420d0e )
+	
+	Visit the following URL to update your profile.
+	( https://click.email.acg.aaa.com/profile_center.aspx?qs=47a546cf5d81091bb9147597d8b76d757348a90beea0723623d5bd2ab48303f4c296f62c403fb20236482d26e717307c5e38892ba9a059f17ac7d1f3ace7585c9bbb76bdc9cef094 )
+	
+	Visit the following URL to unsubscribe.
+	( https://click.email.acg.aaa.com/unsub_center.aspx?qs=47a546cf5d81091bc71ffd05dbdb38cb394835b5caf72f924d9d216cef56e18feacc04d8cef4b763fcc3b8f23ec239967233654f9c2f9f5e14983808d7b9d3dc0ca55861574e7394 )
+	
+ 
+
+
+--0MP8XAB4oWqy=_?:
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <style type="text/css">
+      ReadMsgBody{ width: 100%;}
+      .ExternalClass {width: 100%;}
+      .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+      body {-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;margin:0 !important;}
+      p { margin: 1em 0;}
+      table td { border-collapse: collapse;}
+      img {outline:0;}
+      a img {border:none;}
+      @-ms-viewport{ width: device-width;}
+    </style>
+    <style type="text/css">
+      @media only screen and (max-width: 480px) {
+        .container {width: 100% !important;}
+        .footer { width:auto !important; margin-left:0; }
+        .mobile-hidden { display:none !important; }
+        .logo { display:block !important; padding:0 !important; }
+        img { max-width:100% !important; height:auto !important; max-height:auto !important;}
+        .header img{max-width:100% !important;height:auto !important; max-height:auto !important;}
+        .photo img { width:100% !important; max-width:100% !important; height:auto !important;}
+        .drop { display:block !important; width: 100% !important; float:left; clear:both;}
+        .footerlogo { display:block !important; width: 100% !important; padding-top:15px; float:left; clear:both;}
+        .nav4, .nav5, .nav6 { display: none !important; }
+        .tableBlock {width:100% !important;}
+        .responsive-td {width:100% !important; display:block !important; padding:0 !important; }
+        .fluid, .fluid-centered {
+          width: 100% !important;
+          max-width: 100% !important;
+          height: auto !important;
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+        .fluid-centered {
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+        /* MOBILE GLOBAL STYLES - DO NOT CHANGE */
+        body { padding: 0px !important; font-size: 16px !important; line-height: 150% !important;}
+        h1 { font-size: 22px !important; line-height: normal !important;}
+        h2 { font-size: 20px !important; line-height: normal !important;}
+        h3 { font-size: 18px !important; line-height: normal !important;}
+        .buttonstyles {
+          font-family:arial,helvetica,sans-serif !important;
+          font-size: 16px !important;
+          color: #FFFFFF !important;
+          padding: 10px !important;
+        }
+        /* END OF MOBILE GLOBAL STYLES - DO NOT CHANGE */
+      }
+      @media only screen and (max-width: 640px) {
+        .container { width:100% !important; }
+        .mobile-hidden { display:none !important; }
+        .logo { display:block !important; padding:0 !important; }
+        .photo img { width:100% !important; height:auto !important;}
+        .nav5, .nav6 { display: none !important;}
+        .fluid, .fluid-centered {
+          width: 100% !important;
+          max-width: 100% !important;
+          height: auto !important;
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+        .fluid-centered {
+          margin-left: auto !important;
+          margin-right: auto !important;
+        }
+      }
+    </style>
+    <!--[if mso]>       <style type="text/css">           /* Begin Outlook Font Fix */           body, table, td {               font-family: Arial, Helvetica, sans-serif ;               font-size:16px;               color:#000000;               line-height:1;           }           /* End Outlook Font Fix */       </style>     <![endif]-->
+  </head>
+  <body bgcolor="#ffffff" text="#000000" style="background-color: #ffffff; color: #000000; padding: 0px; -webkit-text-size-adjust:none; font-size: 16px; font-family:arial,helvetica,sans-serif;"><style type="text/css">
+div.preheader 
+{ display: none !important; } 
+</style>
+<div class="preheader" style="font-size: 1px; display: none !important;">Weekly Limited-Time Wow-Worthy Deals!</div>
+    <div style="font-size:0; line-height:0;"><img src="https://click.email.acg.aaa.com/open.aspx?ffcb10-feca11787167047c-fe241570736201757c1478-fe3511727164047f731172-ff64167272-fe2115727363027a731176-ff5f127776&d=10189&bmt=0" width="1" height="1" alt=""></div>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+      <tr>
+        <td align="center" valign="top">
+          <div style="margin:18px 0;"><!--   To view this email as a web page, click on the link below,  or copy and paste it into your browser's address window.  https://view.email.acg.aaa.com/?qs=c82540739c4251b05a059e4e45821e18d0fa935acaa9324ac01e58476d56d3891b7c0b4381c4e5812291984abd9bccc83f2bd7787701866a7cb3623138af06d4  .//-->
+<font face="verdana" size="1" color="#444444">To view this email as a web page, go <a href="https://view.email.acg.aaa.com/?qs=c82540739c4251b05a059e4e45821e18d0fa935acaa9324ac01e58476d56d3891b7c0b4381c4e5812291984abd9bccc83f2bd7787701866a1a689796f0b2689775831f6085a40cc37c928ab590c10da1" >here.</a></font></div>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <table cellspacing="0" cellpadding="0" border="0" width="600" class="container" align="center">
+            <tr>
+              <td>
+                <table class="tb_properties border_style" style="background-color:#FFFFFF;" cellspacing="0" cellpadding="0" bgcolor="#ffffff" width="100%">
+                  <tr>
+                    <td align="center" valign="top">
+                      <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                          <!-- added padding here -->
+                          <td class="content_padding" style="">
+                            <!-- end of comment -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                              <tr> <!-- top slot -->
+                                <td align="center" class="header" valign="top">
+                                  <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody>
+                                        <tr>
+                                          <td align="left" valign="top">
+                                            <table cellspacing="0" cellpadding="0" style="width:100%">
+                                              <tbody>
+                                              <tr>
+                                                <td class="responsive-td" valign="top" style="width: 100%;">
+                                                  <div style="display: none; max-height: 0px; overflow: hidden;">
+
+
+<!-- notes: utmSource = {email type, e.g. marketing,newsletter,journey} utmMedium = email utmCampaign = {lob}_{campaign name} utmTerm = call to action used in email that generated a session (e.g. quote banner, hero image,etc.), prefixed by dynamic date utmContent = Differeniates on-going campaign month and/or audience segments.  -->
+
+
+</div>
+
+
+
+<!-- example UTM string: ?se_ca=email&se_ac=click&se_la=&se_pr=0034X000034HLh8QAG&uid=0034X000034HLh8QAG&utm_source=marketing&utm_medium=email&utm_campaign=d_r_cmc_eNL&utm_content=04102024&utm_term=20240410-###CTA_HERE### --><table cellpadding="0" cellspacing="0" width="100%" role="presentation" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 20px 0px 0px; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 15px 0px 10px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center">
+<img data-assetid="39213" src="https://image.email.acg.aaa.com/lib/fe3511727164047f731172/m/1/446f9ef2-9326-4de5-b630-027c2b9722ff.jpg" alt="AAA logo with tagline that reads " height="55" width="485" style="display: block; padding: 10px 0px; text-align: center; width: 485px; height: 55px;" expect="" something="" more""=""></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 30px 0px 0px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center">
+<img data-assetid="39211" src="https://image.email.acg.aaa.com/lib/fe3511727164047f731172/m/1/2f965bd3-8536-47b7-9e8a-dcb517238bd6.jpg" alt="WOW Wednesdays Header Image" height="190" width="600" style="display: block; padding: 0px; text-align: center; height: 190px; width: 600px; border: 0px;"></td></tr></table></td></tr>
+</table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 15px; " class="stylingblock-content-wrapper camarker-inner"><div style="font-family: Arial, Helvetica, sans-serif; font-size: 11.25pt; line-height: 1.3em; color: #58595B; text-align: center;">
+	<p style="color: #003893; font-size: 18pt; font-weight: bold;">
+		WEEKLY LIMITED-TIME WOW-WORTHY DEALS!</p></div></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 10px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><img data-assetid="53823" src="https://image.email.acg.aaa.com/lib/fe3511727164047f731172/m/1/2e42fa6e-126b-45b0-9e9a-f6b63bac73d4.png" alt="Chevron Divider" height="22" width="660" style="display: block; padding: 0px; text-align: center; height: 22px; width: 660px;"></td></tr></table></td></tr>
+</table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><a href="https://click.email.acg.aaa.com/?qs=58e1fb34650e5696f448857a3253ad2dad12d3d347b2b36594a9f5778459641a3d2bdaa89bf65dc6f890896a1730432e9d3e3507681ff1a2" title="KATE SPADE - DEALS"   data-linkto="https://">
+<img data-assetid="57259" src="https://image.email-autoclubgroup.aaa.com/lib/fe2f11727164047f731079/m/1/91140928-d1b7-4c50-ab6e-0a7a46094dd5.jpg" alt="Image of 2 Kate Spade handbags" width="660" style="display: block; padding: 0px; text-align: center; height: auto; width: 100%; border: 0px;"></a></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 5px 0px 0px; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center">
+<a href="https://click.email.acg.aaa.com/?qs=58e1fb34650e56967e814c3edf0a09f00a00423c51ed01456cacde72da33f03fed74b74a25e58bb4e4e1ebee32da14efec59dd5c4c2288b8" title="KATE SPADE LOGO"   data-linkto="https://">
+<img data-assetid="57256" src="https://image.email-autoclubgroup.aaa.com/lib/fe2f11727164047f731079/m/1/47fc900e-cc48-40bc-99e0-be3f2415bf99.png" alt="KATE SPADE LOGO" height="70" width="600" style="display: block; padding: 10px 0px; text-align: center; height: 70px; width: 600px; border: 0px;"></a></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 0px 10px; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px 6px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td>
+<table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr>
+<td valign="top" class="responsive-td" style="width: 50%; padding-right: 5px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 15px 0px 0px; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 15px 0px 0px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center">
+<img data-assetid="57251" src="https://image.email-autoclubgroup.aaa.com/lib/fe2f11727164047f731079/m/1/768cd9fd-6d72-4cc0-b0ca-92e8208b5113.png" alt="40% OFF + 5.2% CASH BACK*" height="250" width="300" style="display: block; padding: 0px; text-align: center; height: 250px; width: 300px; border: 0px;"></td></tr></table></td></tr></table></td></tr></table></td><td valign="top" class="responsive-td" style="width: 50%; padding-left: 5px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 0px 15px; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 10px; " class="stylingblock-content-wrapper camarker-inner"><div style="text-align: center; padding:15px 35px;">
+	<p style="color: #003893; font-family: Arial, Helvetica, sans-serif; font-size: 20pt; letter-spacing: -1.5px; line-height: 135%; font-weight: bold; margin: 20px 0px 0px;">
+		<b>Spring Sale</b></p><span style="color: #003893; font-family: Arial, Helvetica, sans-serif; font-size: 18pt; line-height: 135%; margin: 10px 0px 20px; letter-spacing: -1.10px;">Start the season with fresh style and big savings.</span></div></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px 0px 10px 25px; " class="stylingblock-content-wrapper camarker-inner"><div style="text-align: center;">
+  <a  href="https://click.email.acg.aaa.com/?qs=58e1fb34650e56960e756d4b18e87369ab2832599956577cbb7163b244fb4cdac46f8903e32146f774b047592426e3877d1788875520bfc4" style="background-color: #D81E05; font-size: 16px; font-family: 'Arial Black', sans-serif; font-weight: normal; text-decoration: none; text-transform: uppercase; padding: 15px 25px; color: white; border-radius: 5px; display: inline-block; mso-padding-alt: 0;" target="_blank" title="GET DEAL NOW"><!--[if mso]> <i style="letter-spacing: 25px; mso-font-width: -100%; mso-text-raise: 30pt;">&nbsp;</i> <![endif]--> <span style="mso-text-raise: 20px;">GET DEAL NOW</span> <!--[if mso]> <i style="letter-spacing: 25px; mso-font-width: -100%;">&nbsp;</i> <![endif]--> </a>
+</div></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 10px 0px 0px; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 10px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center">
+<img data-assetid="53823" src="https://image.email.acg.aaa.com/lib/fe3511727164047f731172/m/1/2e42fa6e-126b-45b0-9e9a-f6b63bac73d4.png" alt="Chevron Divider" height="22" width="660" style="display: block; padding: 0px; text-align: center; height: 22px; width: 660px;"></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><a href="https://click.email.acg.aaa.com/?qs=58e1fb34650e56963500a16240245df02feb121133b43ae3fbf04b8b0c111979bbba22db642404a5650a63d03fbc41940dd22f0a2f60f997" title="HERTZ - DEALS"   data-linkto="http://">
+<img data-assetid="57254" src="https://image.email-autoclubgroup.aaa.com/lib/fe2f11727164047f731079/m/1/44a4b43f-7800-4ba2-92b3-e84750156c2a.jpg" alt="Image of two people looking at a Hertz rental car." width="660" style="display: block; padding: 0px; text-align: center; height: auto; width: 100%; border: 0px;"></a></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><a href="https://click.email.acg.aaa.com/?qs=58e1fb34650e56967c1e10eea33290fd6cd6eaad93190038d6cacecea68af4a5a9f4384d6a2eae9a2e9509f23378ca0540e96214560a813c" title="HERTZ LOGO"   data-linkto="http://">
+<img data-assetid="57250" src="https://image.email-autoclubgroup.aaa.com/lib/fe2f11727164047f731079/m/1/d8a9c2d5-9a6d-40d2-a946-395620d6d684.png" alt="HERTZ LOGO" width="600" style="display: block; padding: 0px; text-align: center; height: auto; width: 100%; border: 0px;"></a></td></tr></table>
+</td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 0px 10px; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px 6px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr>
+<td valign="top" class="responsive-td" style="width: 50%; padding-right: 5px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 15px 0px 0px; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 15px 0px 0px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center">
+<img data-assetid="57252" src="https://image.email-autoclubgroup.aaa.com/lib/fe2f11727164047f731079/m/1/d4ab3e42-33b5-4cbf-b445-d1546ab1a0d3.png" alt="SAVE UP TO 35% OFF" height="250" width="300" style="display: block; padding: 0px; text-align: center; height: 250px; width: 300px; border: 0px;"></td></tr></table></td></tr></table></td></tr></table></td><td valign="top" class="responsive-td" style="width: 50%; padding-left: 5px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 0px 15px; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 10px; " class="stylingblock-content-wrapper camarker-inner"><div style="padding: 0px 20px 10px;">
+ <p style="color:#003893; font-weight:normal; line-height: 125%; font-family: Arial, helvetica, sans-serif; font-size: 18pt; text-align: center; letter-spacing: -1.10px;">
+  AAA Members save up to 35% off the base rate of <b>daily, weekly and weekend rentals.</b> Reserve by 4/19.</p></div></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px 0px 10px 25px; " class="stylingblock-content-wrapper camarker-inner"><div style="text-align: center;">
+  <a  href="https://click.email.acg.aaa.com/?qs=58e1fb34650e56960b7ae1e8a4f0cd20b02bb96bdbd1bc475df1970da84d7806bbea5909dac690e42cc76cfe0379217d501dceca515daed0" style="background-color: #D81E05; font-size: 16px; font-family: 'Arial Black', sans-serif; font-weight: normal; text-decoration: none; text-transform: uppercase; padding: 15px 25px; color: white; border-radius: 5px; display: inline-block; mso-padding-alt: 0;" target="_blank" title="RESERVE TODAY"><!--[if mso]> <i style="letter-spacing: 25px; mso-font-width: -100%; mso-text-raise: 30pt;">&nbsp;</i> <![endif]--> <span style="mso-text-raise: 20px;">RESERVE TODAY</span> <!--[if mso]> <i style="letter-spacing: 25px; mso-font-width: -100%;">&nbsp;</i> <![endif]--> </a>
+</div></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 10px 0px 0px; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 10px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center">
+<img data-assetid="53823" src="https://image.email.acg.aaa.com/lib/fe3511727164047f731172/m/1/2e42fa6e-126b-45b0-9e9a-f6b63bac73d4.png" alt="Chevron Divider" height="22" width="660" style="display: block; padding: 0px; text-align: center; height: 22px; width: 660px;"></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><a href="https://click.email.acg.aaa.com/?qs=58e1fb34650e56961f0e12b1980bfc0d5fdd7593f4619ec6fd56d9af6bb2d9816a5c60e74dc14a3f89cdea55cf880b2fb8cb86bae2abbd83" title="LUCKY BRAND - DEALS"   data-linkto="https://">
+<img data-assetid="57260" src="https://image.email-autoclubgroup.aaa.com/lib/fe2f11727164047f731079/m/1/6c7d8f24-73c5-49a8-87b6-64003cc8db2c.jpg" alt="Image of two people wearing Lucky Brand clothing" width="660" style="display: block; padding: 0px; text-align: center; height: auto; width: 100%; border: 0px;"></a></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><a href="https://click.email.acg.aaa.com/?qs=58e1fb34650e5696e31197dadb038d8a1a677271d9b29b00a4d64bc8e80375e3a9c331a35e87e92f4f32ed9bdaa751bb3e88e63d3c02a082" title="LUCKY BRAND LOGO"   data-linkto="https://">
+<img data-assetid="57257" src="https://image.email-autoclubgroup.aaa.com/lib/fe2f11727164047f731079/m/1/3e67fd29-d44d-449e-81ca-27171f06eb8c.png" alt="LUCKY BRAND LOGO" height="70" width="600" style="display: block; padding: 0px; text-align: center; height: 70px; width: 600px; border: 0px;"></a></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 0px 10px; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px 6px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr>
+<td valign="top" class="responsive-td" style="width: 50%; padding-right: 5px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 15px 0px 0px; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 15px 0px 0px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center">
+<img data-assetid="57253" src="https://image.email-autoclubgroup.aaa.com/lib/fe2f11727164047f731079/m/1/7e939f38-095b-4089-b6ff-33900424cfb4.png" alt="SAVE UP TO 50% OFF + 2.6% CASH BACK*" height="250" width="300" style="display: block; padding: 0px; text-align: center; height: 250px; width: 300px; border: 0px;"></td></tr></table></td></tr></table></td></tr></table></td><td valign="top" class="responsive-td" style="width: 50%; padding-left: 5px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 0px 15px; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 10px; " class="stylingblock-content-wrapper camarker-inner"><div style="padding: 0px 35px 10px;">
+ <p style="color:#003893; font-weight:normal; line-height: 125%; font-family: Arial, helvetica, sans-serif; font-size: 18pt; text-align: center; letter-spacing: -1.10px;">
+  <b>+ an Extra 30% Off!</b> Save BIG on your new favorites with this Limited-Time Extra 30% Off Sale. Offer ends 4/17.</p></div></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px 0px 10px 25px; " class="stylingblock-content-wrapper camarker-inner"><div style="text-align: center;">
+  <a  href="https://click.email.acg.aaa.com/?qs=58e1fb34650e56969fc20610bd54ca1fca0c5cff02315c962a0835a842f5da8bdfeb75baed7f6ab1173e07f5a09e0a489070616c0d47854f" style="background-color: #D81E05; font-size: 16px; font-family: 'Arial Black', sans-serif; font-weight: normal; text-decoration: none; text-transform: uppercase; padding: 15px 25px; color: white; border-radius: 5px; display: inline-block; mso-padding-alt: 0;" target="_blank" title="GET DEAL NOW"><!--[if mso]> <i style="letter-spacing: 25px; mso-font-width: -100%; mso-text-raise: 30pt;">&nbsp;</i> <![endif]--> <span style="mso-text-raise: 20px;">GET DEAL NOW</span> <!--[if mso]> <i style="letter-spacing: 25px; mso-font-width: -100%;">&nbsp;</i> <![endif]--> </a>
+</div></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 10px 0px 0px; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 10px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center">
+<img data-assetid="53823" src="https://image.email.acg.aaa.com/lib/fe3511727164047f731172/m/1/2e42fa6e-126b-45b0-9e9a-f6b63bac73d4.png" alt="Chevron Divider" height="22" width="660" style="display: block; padding: 0px; text-align: center; height: 22px; width: 660px;"></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><a href="https://click.email.acg.aaa.com/?qs=58e1fb34650e5696cf815d87105d6e80e2689d00532c367923145b24469a47d3122e1379b637f8f68043275628ab4518eaa35aefe6008852" title="THE HOME DEPOT - DEALS"   data-linkto="https://">
+<img data-assetid="57261" src="https://image.email-autoclubgroup.aaa.com/lib/fe2f11727164047f731079/m/1/19cb5b00-0a90-431b-b4e7-26260a94007b.jpg" alt="Two panels displaying a variety of home products from The Home Depot." width="660" style="display: block; padding: 0px; text-align: center; height: auto; width: 100%; border: 0px;"></a></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 10px 0px 0px; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 0px 20px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center">
+<a href="https://click.email.acg.aaa.com/?qs=58e1fb34650e56960948528bce71189c252a5df9d53336ecc76143123a9177b7c8b494efbd3cff4499a360192bb6f2246a5de692fb728218" title="HOME DEPOT LOGO"   data-linkto="https://">
+<img data-assetid="53781" src="https://image.email-autoclubgroup.aaa.com/lib/fe2f11727164047f731079/m/1/7f33b72c-bed5-4b52-a1b3-59fa18b168c6.png" alt="HOME DEPOT LOGO" height="70" width="600" style="display: block; padding: 6px 0px 0px; text-align: center; height: 70px; width: 600px; border: 0px;"></a></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 0px 15px; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px 20px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td>
+<table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr>
+<td valign="top" class="responsive-td" style="width: 50%; padding-right: 2.5px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center"><img data-assetid="57255" src="https://image.email-autoclubgroup.aaa.com/lib/fe2f11727164047f731079/m/1/257f3d3c-f6f6-4b3d-ad51-60eae1e81f04.png" alt="25% OFF + UP TO 5.2% CASH BACK*" height="250" width="300" style="display: block; padding: 0px; text-align: center; height: 250px; width: 300px; border: 0px;"></td></tr></table></td></tr>
+</table></td><td valign="top" class="responsive-td" style="width: 50%; padding-left: 2.5px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 0px 25px; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 15px; " class="stylingblock-content-wrapper camarker-inner"><div style="padding: 0px 0px 10px;">
+	<p style="color:#003893; font-weight:normal; line-height: 125%; font-family: Arial, helvetica, sans-serif; font-size: 18pt; text-align: center; letter-spacing: -1.10px;">
+		Brighten up the whole house with 25% off <b>interior &amp; exterior lighting!</b></p></div></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px 25px; " class="stylingblock-content-wrapper camarker-inner"><div style="text-align: center;">
+  <a  href="https://click.email.acg.aaa.com/?qs=58e1fb34650e56968e1e56a664089f7bcca5b3734588c37240df39480790e6266cc3c2fe53b606f3e69ac0db9ef8ad69f1100fcffd7d4e1e" style="background-color: #D81E05; font-size: 16px; font-family: 'Arial Black', sans-serif; font-weight: normal; text-decoration: none; text-transform: uppercase; padding: 15px 25px; color: white; border-radius: 5px; display: inline-block; mso-padding-alt: 0;" target="_blank" title="GET DEAL NOW"><!--[if mso]> <i style="letter-spacing: 25px; mso-font-width: -100%; mso-text-raise: 30pt;">&nbsp;</i> <![endif]--> <span style="mso-text-raise: 20px;">GET DEAL NOW</span> <!--[if mso]> <i style="letter-spacing: 25px; mso-font-width: -100%;">&nbsp;</i> <![endif]--> </a>
+</div></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 10px 0px 0px; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 10px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center">
+<img data-assetid="53823" src="https://image.email.acg.aaa.com/lib/fe3511727164047f731172/m/1/2e42fa6e-126b-45b0-9e9a-f6b63bac73d4.png" alt="Chevron Divider" height="22" width="660" style="display: block; padding: 0px; text-align: center; height: 22px; width: 660px;"></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 15px; " class="stylingblock-content-wrapper camarker-inner"><div style="font-family: Arial, Helvetica, sans-serif; font-size: 11.25pt; color: #58595B; text-align: center; line-height: 1.5em;">
+	<p style="color: #003893; font-size: 18pt; font-weight: bold; line-height: 1.2em;">
+		CHECK OUT 2,000+ EVERYDAY OFFERS<br>
+		EXCLUSIVELY FOR AAA MEMBERS.</p></div></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px 0px 10px 25px; " class="stylingblock-content-wrapper camarker-inner"><div style="text-align: center;">
+  <a  href="https://click.email.acg.aaa.com/?qs=58e1fb34650e56968e60e83f2ae1789bc7d17b6955c1428f822321c0bf5302805ce4131c1cfb2fa69fb5ed6ae7664bb7c7380ea8ffb4a949" style="background-color: #D81E05; font-size: 16px; font-family: 'Arial Black', sans-serif; font-weight: normal; text-decoration: none; text-transform: uppercase; padding: 15px 25px; color: white; border-radius: 5px; display: inline-block; mso-padding-alt: 0;" target="_blank" title="SEE DEALS"><!--[if mso]> <i style="letter-spacing: 25px; mso-font-width: -100%; mso-text-raise: 30pt;">&nbsp;</i> <![endif]--> <span style="mso-text-raise: 20px;">SEE DEALS</span> <!--[if mso]> <i style="letter-spacing: 25px; mso-font-width: -100%;">&nbsp;</i> <![endif]--> </a>
+</div></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px 10px 20px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td valign="top" class="responsive-td" style="width: 100%;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #DFE8F0; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 15px 0px 0px; " class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" role="presentation"><tr><td align="center">
+<img data-assetid="33161" src="https://image.email-autoclubgroup.aaa.com/lib/fe2f11727164047f731079/m/5/4862e7c8-0216-4c32-b64e-3950fb976d62.png" alt="WebExtension Icon. Text reads " height="90" width="600" style="display: block; padding: 0px; text-align: center; height: 90px; width: 600px; border: 0px;" never="" miss="" a="" deal!="" get="" the="" aaa="" discounts="" browser="" extension="" and="" receive="" deal="" alerts="" when="" you="" shop!**"="" button="" reads="" "add="" now="" -="" it's="" free""=""></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #DFE8F0; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 25px; " class="stylingblock-content-wrapper camarker-inner"><div style="padding: 0px 0px 10px;">
+ <p style="color:#003893; text-transform: uppercase; font-size: 18pt; font-weight: bold; line-height: 125%; font-family: Arial, helvetica, sans-serif; text-align: center; margin-bottom: 5px;">
+  Never miss a deal!</p><p style="color:#003893; font-weight:normal; line-height: 125%; font-family: Arial, helvetica, sans-serif; font-size: 15pt; text-align: center;">
+  Get the newly updated AAA Discounts extension and receive AAA deal alerts when you shop!**</p><p style="line-height: 125%; text-align: center; font-weight:bold; font-family: Arial, helvetica, sans-serif; font-size: 16pt;">
+  <i><span style="color:#D81E05;">Now available on Safari, including iOS mobile devices!</span></i></p></div></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: #DFE8F0; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px 25px 30px; " class="stylingblock-content-wrapper camarker-inner"><div style="text-align: center;">
+  <a  href="https://click.email.acg.aaa.com/?qs=58e1fb34650e569637f646e1b59fa6098da7de7773e0bd39a3c17d40798f37d827214894e4aecd0f37fe2450d5f5d4d7ca977f1f95ef1ca4" style="background-color: #003893; font-size: 16px; font-family: 'Arial Black', sans-serif; font-weight: normal; text-decoration: none; text-transform: uppercase; padding: 15px 25px; color: white; border-radius: 5px; display: inline-block; mso-padding-alt: 0;" target="_blank" title="ADD NOW — IT'S FREE!"><!--[if mso]> <i style="letter-spacing: 25px; mso-font-width: -100%; mso-text-raise: 30pt;">&nbsp;</i> <![endif]--> <span style="mso-text-raise: 20px;">ADD NOW — IT'S FREE!</span> <!--[if mso]> <i style="letter-spacing: 25px; mso-font-width: -100%;">&nbsp;</i> <![endif]--> </a>
+</div></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" class="stylingblock-content-wrapper" style="min-width: 100%; "><tr><td class="stylingblock-content-margin-cell" style="padding: 20px 0px; "><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; border-top: 1px solid #000000; border-right: 0px; border-bottom: 1px solid #000000; border-left: 0px; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px 10px 20px; " class="stylingblock-content-wrapper camarker-inner"><table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td>
+<table cellspacing="0" cellpadding="0" role="presentation" style="width: 100%;"><tr><td valign="top" style="width: 33%; padding-right: 4px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto;" width="100%">
+	
+		<tr>
+			<td height="21" style="font-family: Arial Black, Gotham, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; text-align: center;" valign="top">
+				&nbsp;</td></tr><tr>
+			<td align="center" style="font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif;" valign="top">
+				<p style="text-align: center;">
+					<span style="font-size:14px; font-weight:bold; color:#58595b;font-family:Arial Black, Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif;"><font face="arial black, gadget, sans-serif">VISIT OR CALL </font></span></p><div style="text-align: center;">
+					<a href="https://click.email.acg.aaa.com/?qs=58e1fb34650e5696af562b4d8eb4862a9860edb01ba3288b26affc23c63d9b918d2de40f8a30a2e0677f0437e1cdfde3d9aa30c60d3618759d33e50ca78abf62" style="color:#00529c; text-decoration:none; font-size:14px;">Find a Location</a><br>
+					<span style="color:#676767; text-decoration:none; font-size:14px; font-weight:normal: important; -webkit-font-smoothing: antialiased !important; -moz-osx-font-smoothing: grayscale !important;"><a href="tel:+18002224357" style="color:#676767; text-decoration:none; line-height:22px;">1-800-AAA-HELP</a></span></div></td></tr></table></td></tr></table></td><td valign="top" style="width: 33%; padding-left: 2px; padding-right: 2px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto;" width="100%">
+ 
+  <tr>
+   <td align="center" height="21" style="font-family:Arial Black, Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif;" valign="top">
+    &nbsp;</td></tr><tr>
+   <td align="center" style="font-family:Arial Black, Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif;" valign="top">
+    <p>
+     <span style="font-size:14px; font-weight:bold; color:#58595b;font-family:Arial Black, Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif;"><font face="arial black, gadget, sans-serif">CONNECT </font></span></p><table align="center" border="0" cellpadding="0" cellspacing="0" class="w100pad44bottom" style="max-width:192px !important;" width="192">
+     
+      <tr>
+       <td style="font-family: Arial Black, Gotham, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 2px; text-align: center;" valign="top">
+        <a href="https://click.email.acg.aaa.com/?qs=58e1fb34650e5696558b6f3de0b815b5bbb05b51e56c500b0ce0a6a529cb7f3a481f1d74a90bf5d36c3ca38110b01bbff68ebf6e2183809a1694e8031f585000"><img alt="" border="0" class="mobile-icon" height="44" src="https://image.aaacarolinas-mail.com/lib/fe3e15707564047c7c1171/m/3/be79a3b6-c7ea-4b0d-af55-b14e32b38f80.png" width="44"></a></td><td style="font-family: Arial Black, Gotham, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 2px; text-align: center;" valign="top">
+        <a href="https://click.email.acg.aaa.com/?qs=58e1fb34650e5696dfcbe7a139c6d69b570b0f30b2ce44d48b8814e29fcff1118ccefd300935a781482d7d617cdb55bacb68403df9fd37c95f792fde8d14d554"><img alt="" border="0" class="mobile-icon" height="44" src="https://image.email.acg.aaa.com/lib/fe3511727164047f731172/m/1/eb17836c-03a1-409c-a65e-d85e2c389fd9.png" width="44"></a></td><td style="font-family: Arial Black, Gotham, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; padding: 2px; text-align: center;" valign="top">
+        <a href="https://click.email.acg.aaa.com/?qs=58e1fb34650e5696047b31027e359ccebd14e9c8c7fe63746aafd0c2fa21cdbeece8ba2c2cc9246d02327e2b887b4609d461d7c84ecbc8f3ca695130527c072c"><img alt="" border="0" class="mobile-icon" height="44" src="https://image.aaacarolinas-mail.com/lib/fe3e15707564047c7c1171/m/3/cb77fe6f-d6b9-4464-b75b-bb315ee95537.png" width="44"></a></td></tr></table></td></tr></table><!-- example UTM string: ?se_ca=email&se_ac=click&se_la=&se_pr=0034X000034HLh8QAG&uid=0034X000034HLh8QAG&utm_source=marketing&utm_medium=email&utm_campaign=d_r_cmc_eNL&utm_content=04102024&utm_term=20240410-###CONTENT_HERE### --></td></tr></table></td><td valign="top" style="width: 33%; padding-left: 4px;"><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto;" width="100%">
+	
+		<tr>
+			<td style="font-family: Arial Black, Gotham, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; text-align: center;" valign="top">
+				&nbsp;</td></tr><tr>
+			<td align="center" style="font-family:Arial Black, Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif;" valign="top">
+				<p style="text-align: center;">
+					<span style="font-size:14px; font-weight:bold; color:#58595b;"><font face="arial black, gadget, sans-serif">MOBILE APP </font></span></p><div style="text-align: center;">
+					<a href="https://click.email.acg.aaa.com/?qs=58e1fb34650e56961e83342c22772ab829cee98908a96697087c67d12736ea1c4a540f13c986d415a526bcc993f6633127e797301eb89c2064c0f42a6edf473b"><img alt="" height="44" src="https://image.aaacarolinas-mail.com/lib/fe3e15707564047c7c1171/m/3/72366bcc-64df-422f-83ae-ce036c7f8d39.png" style="padding-top:5px;" width="44"> </a></div></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 10px; " class="stylingblock-content-wrapper camarker-inner"><div style="font-family: Arial, Helvetica, sans-serif; font-size: 8pt; line-height: 1.3em; color: #58595B; text-align: justify;">
+ <p>
+  * Purchases earn <i>AAA Dollars </i> that can be redeemed for cash back. Visit <a   data-linkto="https://" href="https://click.email.acg.aaa.com/?qs=58e1fb34650e5696a83b15de64e8842df081b79dba8d8369e3a21d3cd2eeb7fbac95096bfcb6a5c351463f97ef83e2318e42771196ea49f9" style="color:#003893;text-decoration:underline;" title="AAA.com/Dollars">AAA.com/Dollars</a> for details and restrictions.</p><p>
+  ** AAA Discounts Extension is only available to active members of AAA - The Auto Club Group. For more information, please review our <a   data-linkto="https://" href="https://click.email.acg.aaa.com/?qs=58e1fb34650e56968233cb76dbd3841735ffdd21fbcdcbccad254a3d57b1247b1a8f531b748adc720ec3da6d8b5cca6f09856bbff95aeb5b" style="color:#003893;text-decoration:underline;" title="Privacy Policy">privacy policy.</a></p></div></td></tr></table>
+												  
+                                                </td>
+                                              </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">
+           
+
+<table width="600" bgcolor="#ffffff" border="0" align="center" cellpadding="0" cellspacing="0" class="w100pad20leftright"  valign="top" style="font-size:11px; font-family:Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:0px 0px 44px 0px;">
+    <tr> 
+        <td align="center" valign="top" style="font-size:11px; line-height:16px; color:#58595b; -webkit-font-smoothing: antialiased !important; -moz-osx-font-smoothing: grayscale !important;">
+            <span style="font-size:11px; -webkit-font-smoothing: antialiased !important; -moz-osx-font-smoothing: grayscale !important;">To view this email as a web page, click <a style="color:#00529b; font-weight:bold; text-decoration:none;" href="https://view.email.acg.aaa.com/?qs=c82540739c4251b05a059e4e45821e18d0fa935acaa9324ac01e58476d56d3891b7c0b4381c4e5812291984abd9bccc83f2bd7787701866a1a689796f0b2689735473b9863d9a1060cf2934c703dcf1c">here</a>.<br />
+			Forward this information to <a style="color:#00529b; font-weight:bold; text-decoration:none;" href="https://view.email.acg.aaa.com/ftaf.aspx?qs=c82540739c4251b05a059e4e45821e18d0fa935acaa9324ac01e58476d56d389b3859c823f0e2a56bce253642135d1f7">a friend</a>.</span> 
+			<br /><br />
+			If you have a comment or question about this information, please <a href="https://click.email.acg.aaa.com/?qs=58e1fb34650e5696713147a277fc94feab16dda8e8395e85b838ea3a0f9801cc8576ba1c76654da7087dc2144e8567a5501438f2ae0e9b1c" style="color:#00529b;; font-weight:bold; text-decoration:none;">contact us</a> for customer service. <br />
+			Use <a href="https://click.email.acg.aaa.com/?qs=58e1fb34650e56966c70e9df61ab1e7557ca51b76ca57b2f67722f8c2736dfd1aeb257fba55ef11219a168241cd682b78e563cc68f8288f4849697b2868ac6a4" target="_blank"alias="Update Profile" style="color:#00529b; text-decoration:none; font-weight:bold;">this link</a> to update your email preferences or to unsubscribe. <br />
+			Read our <a href="https://click.email.acg.aaa.com/?qs=58e1fb34650e56969619845a673eb2b631054e967a326d837a221974f68baaa79928cddef1bf4f3dd54a05d9574d2504163699f006aafe4a" style="color:#00529b; text-decoration:none; font-weight:bold;">Privacy Promise</a>. <br />
+			<br />
+			<strong>Grow with us! <a href="https://click.email.acg.aaa.com/?qs=58e1fb34650e56961bd66bf7452f456eec29efeea6e5a0b96db860dbe548a48e986a3b669898fb5a07bcab301a6b8aeb1d219e8067bf019a" style="color:#00529b; text-decoration:none; font-weight:bold;">Join our team.</a></strong> <br />
+			<br />
+			This email was sent by: <span class="appleLinksFooter"><strong>The Auto Club Group</strong> 1 Auto Club Dr Dearborn, MI, 48126-4229, US &copy; 2024 AAA Carolinas</span> All rights reserved. 
+		</td>
+    </tr>
+</table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+--0MP8XAB4oWqy=_?:--
+
