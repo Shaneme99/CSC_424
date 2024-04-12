@@ -1,0 +1,1001 @@
+Return-Path: <m.mashood@khi.iba.edu.pk>
+Delivered-To: untroubl8492-bruce@untroubled.org
+Received: (qmail 265605 invoked from network); 9 Apr 2024 17:58:51 -0000
+Received: from EUR02-VI1-obe.outbound.protection.outlook.com (mail-vi1eur02on2129.outbound.protection.outlook.com [40.107.241.129])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 09 Apr 2024 17:58:51 -0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=VhTUnLaYFSU+g6ZLckNRgCSSNcJYuHEhSP3XYlsdsXZXhFxF+pt+Z+QgmomjYdZ74EMha64TsoCn4xUZTli8I8XH/XM2Y9jHKFOSrr8C9bjeKqo1qRx0PHL8s0aqyfmhdn5JbdzMUyuKh2YPLsL32mHYl8d9JKS/FHhjxogku5DzTTMOs71lhLhtULHDxVM0IdwzgXWj5EF+WdEpCP5CVQOWiqLyip3pb8mdOezcFQJOSw+2hawyyRJVPWURbO4uIhtqDntkPBiE3/b+gP6f1TtPqZPJ+3ESMx+eSCrlbjc26nFKNzHxi7j9WV7bPzMRivOpl0cWMIsrW4nnN7p2/Q==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=pWN12RqQrHDt5ESXyUB80BPj4EaxdqMos+Cxdj/GmlI=;
+ b=EnPV65h/so3vtL27CXAgyrNmOFNAub4jlCFtl1eCZmZUF3uib49SuiFV6x2r/WsFvf8bgjIZZGtdJ9eOPnUfSV8C8dyvAj104ojCQ30/I20XUIaxRV2yyQz+fmGlbgumu3EFC6efViTZMwhfmmr4HCclOhiosmgDR9LgPv78aLi83e5rIYM9WjMzkA9AH9D32PX8qe/lX9VSdJ4Fu4uERSa7ejwo8GXgy/Z/Ue8F8aWLgfdG+yaRl1UlDUoPtwHKeBozdmRBhd7mMshm/48OpkUZ6eke33rA+s9sBWy/06Xl/N9G0jjqNCebbiHcdgw8VXOXVMik8oy5UbPwrDYRJw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=khi.iba.edu.pk; dmarc=pass action=none
+ header.from=khi.iba.edu.pk; dkim=pass header.d=khi.iba.edu.pk; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=khiibaedu.onmicrosoft.com; s=selector2-khiibaedu-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=pWN12RqQrHDt5ESXyUB80BPj4EaxdqMos+Cxdj/GmlI=;
+ b=TgVAHI7vLijo7HtZ0WZrBWUI8SqHqvC7z/6/9ZkFv7dVl+yzyhDd4HEJx/a27ChvcOeo1ju1Kgn5kPB5bIOP7699zFN8LriXgu5eRAQHPUMXtdU0DTNJNO6AKwtN53shPYnNx9qClxAApgyD4XnU+MzszTEvAgDOKm7S7ZS1Hmw=
+Received: from VI0PR05MB11332.eurprd05.prod.outlook.com (2603:10a6:800:203::8)
+ by PAXPR05MB9099.eurprd05.prod.outlook.com (2603:10a6:102:2b2::17) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7409.46; Tue, 9 Apr
+ 2024 17:58:47 +0000
+Received: from VI0PR05MB11332.eurprd05.prod.outlook.com
+ ([fe80::4e40:3e69:f20d:c822]) by VI0PR05MB11332.eurprd05.prod.outlook.com
+ ([fe80::4e40:3e69:f20d:c822%3]) with mapi id 15.20.7409.042; Tue, 9 Apr 2024
+ 17:58:46 +0000
+From: Alexandra <m.mashood@khi.iba.edu.pk>
+To: bruce@untroubled.org
+Subject: 📢 📢 He lost HOW much!?  😱  😱
+Content-Type: multipart/mixed; boundary="===============1777653210=="
+Date: Tue, 9 Apr 2024 17:58:46 +0000
+X-ClientProxiedBy: FR2P281CA0072.DEUP281.PROD.OUTLOOK.COM
+ (2603:10a6:d10:9a::11) To VI0PR05MB11332.eurprd05.prod.outlook.com
+ (2603:10a6:800:203::8)
+Return-Path: m.mashood@khi.iba.edu.pk
+Message-ID:
+ <VI0PR05MB11332D7D5A1063F351B8E625A8B072@VI0PR05MB11332.eurprd05.prod.outlook.com>
+MIME-Version: 1.0
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: VI0PR05MB11332:EE_|PAXPR05MB9099:EE_
+X-MS-Exchange-SenderADCheck: 1
+X-MS-Exchange-AntiSpam-Relay: 0
+X-Microsoft-Antispam: BCL:0;
+X-Microsoft-Antispam-Message-Info:
+	ohAqQKRTVzV3L2ot3tB523Eav5i4KkfYPCrm4HGGmYTbBnGf3eW95DPSX3hVEln5cvpJwTBVGsYAwmYEmZvigcntvb806UEE2yTKGJO1qAhCapEyxRd/5CMAHOLLWbdOXrfhsDoUM0cGAN2SFB/YaC8+Ex/iRxJmlWJsSM+1FDu5yivgnN5+qZoM0tKznexX5dVuG+I80pn9DOme/qhg4rMpVnGQnXLgpxyak7QSd/W9pJszHmXElJPUoRKNk7zOUZ4XRm9xJfmwlxSDeMKomj0WFajOwj920oL0od/KzexvlliamALVfvV1GjdMHr6kOz/0Hln+HyLowohv+6ejbjsahnJGVhaP+QM1Z/PbrHUyZo198tZUmTciQyz7cx+zf8768mrFtrSiWpWC8nIZmojEvV1InWt0GAFx3NGZLO4G5YSgmrDbV1fPkugeKCfzrr4sOZGkbgrFeExp6I+rBAmwSfpnxd1SbRYeSwxMsZD9uFMtujDXi5btZ9vV9QXHl1Zp/a/pfpsyUSltnx0fwOv9uge1LW+7L+9Nqoghun2WnG4UuuNteP23j88/qnH1EAwxqOFMhpeNHoQ1cq2Nh9XP/F9N0NiXL92zIWUfZgo=
+X-Forefront-Antispam-Report:
+	CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:VI0PR05MB11332.eurprd05.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230031)(366007)(1800799015)(376005)(41320700004)(52116005);DIR:OUT;SFP:1102;
+X-MS-Exchange-AntiSpam-MessageData-ChunkCount: 1
+X-MS-Exchange-AntiSpam-MessageData-0:
+	=?us-ascii?Q?LvrTBkummPSDyht7PZUko0SaKFPuLNOJOhllGvJTUvH59St8B2nmpoodrzDQ?=
+ =?us-ascii?Q?X8osyNE7kqMm4JO07Y9E2MNWMVoTi7O0tONmTybNQm//k+x0beSHNLCx6fyF?=
+ =?us-ascii?Q?lVrKIEYvcdL9x/WpRHSAU7nS8+SZFaKk8XUNrnPVG2ZQqzBREKIhSca22XPs?=
+ =?us-ascii?Q?kSMW2xwwVoXbZJGYl6fzr5I5Mfhf0mi5Z4tGfB3Hk+uMYv8v7yoEKa9YV/fX?=
+ =?us-ascii?Q?/zJ9n8rT0HephFZgS3ECmOM/Nacfg+CSBOXCxK9YmDBjNxYnEaLMKQeqS2Sw?=
+ =?us-ascii?Q?jwHxG4urw+rk0+V0yysV23lg2hjtxnZ+rn6GvbczoqecOS3MUvIaXNLHSwEs?=
+ =?us-ascii?Q?Gsd+EkQaaTS5Qf6Qa3wdLyXko91Ie0e0+CwRZaXtpiORhTSyyfvkC1Qv7Ewk?=
+ =?us-ascii?Q?BMW1KxeUTD/3VjG5M0psVm1qgVPBNDBXYpSQKr7015YoDUJ+QldfG9+u82xe?=
+ =?us-ascii?Q?4RiV1VM4Mj1ODoGyPmWYOJaGaS0c06A+AIUCztpBbsx4CDutqDf2mgoJKpoW?=
+ =?us-ascii?Q?nQtkWZHey9y09CVReJTXfe2i1iZ1yL07ZIrfPlYlXIJ7X1eoWGIc58qSLXHr?=
+ =?us-ascii?Q?4QDpSAWtUbdxbLzwwyZNU68orbqUQc0uPkCI1B+vKYNyX8Us0C77L3JaGsz7?=
+ =?us-ascii?Q?pI+2KZ7r+ViTa4SP9Kc2Dw7khNSLxyk9FPxhs1DGeoG1/fAeTXXb46NG00xu?=
+ =?us-ascii?Q?qQ0nCI9GqqRV7EasoQBtxdy2Q9CbEKktbQRPRURWl4hE8mzn2DNjdszT5mxx?=
+ =?us-ascii?Q?n1UXfMlBH64fJPnNhLnQlTvniU96UKBHVzyRVImKBxYg+phFCP4GqRJA4nxG?=
+ =?us-ascii?Q?cE83rebzIrJOXz1JeIFcre3mAp1K2lc+3RQH2B5Ves2TE+zEu661n0v4vKwd?=
+ =?us-ascii?Q?sgUdaB70NqnkK9zn10lgxy1iAlR55c9+zfs8127dmUC5p0jTeKmE7E3rbbZL?=
+ =?us-ascii?Q?ItK98lrRD6qJE6GBGE5GGwiLW5dfdmClrGDGQ5hbiOzTORI1cYMP3DpXsPjb?=
+ =?us-ascii?Q?S7kju8qdPnXbvZ8GFIKCz1rZ43FBYa0gvjXtIAXwRLr8VxHm1wLvJ7nDBdv5?=
+ =?us-ascii?Q?qGs1Q926JCjX428g76S1+iUwgciW46W6h8JPZakPvhbFudNjX8tdr+BNvlF8?=
+ =?us-ascii?Q?CtGvBSinDc3L+aAREzVoae8+mihLYamTwiT2nHOt7d8+AKW0+b9ujUteSqmz?=
+ =?us-ascii?Q?DFat74Pd/Igep88aQCZGBNu97m5Vip92XbUqdhpyDVDeSdRuV6bUx138e+87?=
+ =?us-ascii?Q?jG4UeYEiAI8d83ORAIT38YJyGw4khB50+RHcymXjecB3cl1PmCb+St7f3MUN?=
+ =?us-ascii?Q?CSRUwoFVfqLhYw7XRccvpKwpLutYimkEuICJr/O/eWlKNtvPdVNuhtBme4Yg?=
+ =?us-ascii?Q?XLBG9QhABUMp5s1YuuYH9hyNiFah+XxzOvWYZHEMP6X2oVA6JNis0h3RKBF/?=
+ =?us-ascii?Q?/0nvcUQPVBA4JortNdHYQTIYSMh/OvYQeG2oJ4AnUTf0w/wfWk9SvdWGBga4?=
+ =?us-ascii?Q?1Z9BqJEETR6TpatNkhnPx1lfF8emzevcuiWwSTw4yZ3L1xzdQFK6zc3VDPO/?=
+ =?us-ascii?Q?bZjknFvuqFTjvlT7fwW+kgCyJV52bne1xSBJ+JMyxH93HwFNkC2+bUxLXL0z?=
+ =?us-ascii?Q?8kQOh5L9mavQA9tPODxOBavk+EFFeql5QjBNCGt7w6JrizOQqnLJOCOd3zYy?=
+ =?us-ascii?Q?clP4bQ=3D=3D?=
+X-OriginatorOrg: khi.iba.edu.pk
+X-MS-Exchange-CrossTenant-Network-Message-Id: 57591ce9-c2cc-42b5-bf62-08dc58beb3ca
+X-MS-Exchange-CrossTenant-AuthSource: VI0PR05MB11332.eurprd05.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 09 Apr 2024 17:58:46.4069
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: fee3b916-01c1-4987-a646-e193432b9eaa
+X-MS-Exchange-CrossTenant-MailboxType: HOSTED
+X-MS-Exchange-CrossTenant-UserPrincipalName: t4tUipYv27PziDzgOm5aDcy/MjWuXvxLq2h1uS5qYW8nb7wN6ewn8FFC+VU1rj9edtxiq9NZqehj9mlhvuJ62zxO5ujGEIluqC/873aJ3Hw=
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: PAXPR05MB9099
+Content-Length: 34140
+
+--===============1777653210==
+Content-Type: text/HTML; charset="us-ascii"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+	<title></title>
+</head>
+<body>
+<style type="3D">body {width: 600px;margin: 0 auto;}
+      table {border-collapse: collapse;}
+      table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+      img {-ms-interpolation-mode: bicubic;}
+</style>
+<!--[endif]---->
+<style type="3D">body, p, div {
+        font-family: arial;
+        font-size: 14px;
+      }
+      body {
+        color: #000000;
+      }
+      body a {
+        color: #000000;
+        text-decoration: none;
+      }
+      p { margin: 0; padding: 0; }
+      table.wrapper {
+        width:100% !important;
+        table-layout: fixed;
+        -webkit-font-smoothing: antialiased;
+        -webkit-text-size-adjust: 100%;
+        -moz-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+      }
+      img.max-width {
+        max-width: 100% !important;
+      }
+      .column.of-2 {
+        width: 50%;
+      }
+      .column.of-3 {
+        width: 33.333%;
+      }
+      .column.of-4 {
+        width: 25%;
+      }
+      @media screen and (max-width:480px) {
+        .preheader .rightColumnContent,
+        .footer .rightColumnContent {
+            text-align: left !important;
+        }
+        .preheader .rightColumnContent div,
+        .preheader .rightColumnContent span,
+        .footer .rightColumnContent div,
+        .footer .rightColumnContent span {
+          text-align: left !important;
+        }
+        .preheader .rightColumnContent,
+        .preheader .leftColumnContent {
+          font-size: 80% !important;
+          padding: 5px 0;
+        }
+        table.wrapper-mobile {
+          width: 100% !important;
+          table-layout: fixed;
+        }
+        img.max-width {
+          height: auto !important;
+          max-width: 480px !important;
+        }
+        a.bulletproof-button {
+          display: block !important;
+          width: auto !important;
+          font-size: 80%;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+        }
+        .columns {
+          width: 100% !important;
+        }
+        .column {
+          display: block !important;
+          width: 100% !important;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+          margin-left: 0 !important;
+          margin-right: 0 !important;
+        }
+      }
+</style>
+Did you know that making one small change to your morning routine can help you shrink fat cells and flatten your stomach faster than doing crunches or cardio.
+<p><br />
+This s<strong>imple tweak </strong>just takes a few seconds every morning, and it will?  <strong>help your body shrink belly fat all hours of the day</strong></p>
+<br />
+<a href="https://c8b7ebtxy8k6m4res8is2k3y1w.hop.clickbank.net/?tid=9">>> Try This "Harvard Backed" 3 Step Morning Routine For Yourself</a><br />
+<br />
+To your amazing health
+<style type="3D">@media screen and (min-width: 480px) {
+     =20
+    .list-one-two-left-item-card .list-one-two-product-name {
+      font-size: 18px !important;
+      line-height: 22px !important;
+    }
+    .list-one-two-left-item-card .list-one-two-item-card-text {
+      border-left: 1px solid #FFFFFF;
+      border-right: 1px solid #FFFFFF;
+      border-top: 1px solid #FFFFFF;
+      padding: 15px 23px 0px;
+    }
+    .list-one-two-left-item-card .list-one-two-price {
+      border-top: 1px solid #FFFFFF !important;
+      padding-top: 0px !important;
+      font-size: 24px !important;
+      line-height: 32px !important;
+    }
+    .list-one-two-left-item-card .list-one-two-split {
+      height: 16px !important;
+      font-size: 15px !important;
+      line-height: 15px !important;
+    }
+    .list-one-two-left-item-card .list-one-two-ori-price {
+      font-size: 15px !important;
+      line-height: 19px !important;
+    }
+    .list-one-two-left-item-card .list-one-two-product-price-off {
+      font-size: 15px !important;
+      line-height: 19px !important;
+    }
+    .list-one-two-right-item-card .list-one-two-product-name {
+      font-size: 15px !important;
+      line-height: 19px !important;
+    }
+    .list-one-two-right-item-card .list-one-two-price {
+      font-size: 20px !important;
+      line-height: 24px !important;
+    }
+    .list-one-two-right-item-card .list-one-two-ori-price {
+      font-size: 15px !important;
+      line-height: 19px !important;
+    }
+    .list-one-two-title div {
+      font-size: 20px !important;
+      font-weight: 700 !important;
+      line-height: 24px !important;
+    }
+ =20
+    .free-shipping-icon {
+        width: 20px !important;
+        height: 20px !important;
+    }
+    .free-shipping-text {
+        font-weight: 400 !important;
+        font-size: 15px !important;
+        line-height: 19px !important;
+        color: #009966 !important;
+    }
+    .logistics-timeliness-icon {
+        width: 14px !important;
+        height: 14px !important;
+    }
+    .logistics-timeliness-text {
+        font-weight: 400 !important;
+        font-size: 15px !important;
+        line-height: 19px !important;
+        color: #009966 !important;
+    }
+    .reverse-return-text {
+        font-size: 15px !important;
+        line-height: 19px !important;
+        color: #009966 !important;
+    }
+    .selling-point-text {
+        font-size: 12px !important;
+        line-height: 16px !important;
+    }
+    .sales-text {
+        font-size: 15px !important;
+        line-height: 19px !important;
+        color: #191919 !important;
+    }
+    .product-rating-icon {
+        width: 15px !important;
+        height: 15px !important;
+    }
+    .product-rating-text {
+        font-size: 15px !important;
+        line-height: 19px !important;
+        color: #191919 !important;
+    }
+
+    .edm-item-list-three-columns-item-card .edm-item-list-three-columns-ite=
+m-card-text .edm-item-list-three-columns-product-name {
+      font-size: 15px !important;
+      line-height: 19px !important;
+    }
+    .edm-item-list-three-columns-item-card .edm-item-list-three-columns-ite=
+m-card-text .edm-item-list-three-columns-price {
+      font-size: 20px !important;
+      line-height: 24px !important;
+    }
+    .edm-item-list-three-columns-item-card .edm-item-list-three-columns-ite=
+m-card-text .edm-item-list-three-columns-ori-price {
+      font-size: 15px !important;
+      line-height: 19px !important;
+    }
+    .edm-item-list-three-columns-title div {
+      font-size: 20px !important;
+      font-weight: 700 !important;
+      line-height: 24px !important;
+    }
+ =20
+    .module-title div {
+      font-size: 20px !important;
+      font-weight: 700 !important;
+      line-height: 24px !important;
+      color: #191919 !important;
+    }
+ =20
+    }
+</style>
+</body>
+<link href="3D" />
+<style type="3D">x
+            @import url(https://fonts.googleapis.com/css?family=3DOpen+Sans=
+:300,400,500,700);
+</style>
+<link href="3D" />
+<link href="3D" />
+<style type="3D">@import url(https://fonts.googleapis.com/css?family=3DOpen+Sans:3=
+00,400,500,700);
+@import url(https://fonts.googleapis.com/css?family=3DUbuntu:300,400,500,70=
+0);
+</style>
+<style type="3D">.mj-column-per-100 { width:100% !important; max-width: 100%; }
+</style>
+<style edm-style="" type="3D">=20
+       =20
+</style>
+<link href="3D" />
+<style type="3D">@import url(https://fonts.googleapis.com/css?family=3DOpen+Sans:3=
+00,400,500,700);
+</style>
+<style type="3D">.mj-column-per-100 { width:100% !important; max-width: 100%; }
+</style>
+<style edm-style="" type="3D">=20
+       =20
+</style>
+<link href="3D" />
+<link href="3D" />
+<style type="3D">@import url(https://fonts.googleapis.com/css?family=3DOpen+Sans:3=
+00,400,500,700);
+@import url(https://fonts.googleapis.com/css?family=3DUbuntu:300,400,500,70=
+0);
+</style>
+<style type="3D">.mj-column-per-100 { width:100% !important; max-width: 100%; }
+</style>
+<style edm-style="" type="3D">=20
+       =20
+</style>
+<link href="3D" />
+<style type="3D">@import url(https://fonts.googleapis.com/css?family=3DOpen+Sans:3=
+00,400,500,700);
+</style>
+<style type="3D">.mj-column-per-100 { width:100% !important; max-width: 100%; }
+</style>
+<style edm-style="" type="3D">=20
+       =20
+</style>
+<link href="3D" />
+<link href="3D" />
+<style type="3D">@import url(https://fonts.googleapis.com/css?family=3DOpen+Sans:3=
+00,400,500,700);
+@import url(https://fonts.googleapis.com/css?family=3DUbuntu:300,400,500,70=
+0);
+</style>
+<style type="3D">.mj-column-per-100 { width:100% !important; max-width: 100%; }
+</style>
+<style edm-style="" type="3D">=20
+       =20
+</style>
+<center><a href=""> <img src="" /></a><br />
+<br />
+<br />
+ </center>
+
+<div>
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p> </p>
+
+<blockquote id="gmail-isReplyContent" style="padding-left:1ex;margin:0px 0px 0px 0.8ex;border-left:1px solid rgb(0,0,0)">
+<div dir="ltr"> 
+<div class="gmail_quote">
+<div class="gmail_attr" dir="ltr"><br />
+<br />
+<br />
+<br />
+ </div>
+ 
+
+<div dir="ltr"> </div>
+ 
+
+<div class="gmail_quote">
+<div>
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p> </p>
+
+<blockquote id="gmail-isReplyContent" style="padding-left:1ex;margin:0px 0px 0px 0.8ex;border-left:1px solid rgb(0,0,0)">
+<div dir="ltr"> 
+<div class="gmail_quote">
+<div class="gmail_attr" dir="ltr"><br />
+<br />
+<br />
+<br />
+ </div>
+ 
+
+<div dir="ltr"> </div>
+ 
+
+<div class="gmail_quote">
+<div>
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p> </p>
+
+<blockquote id="gmail-isReplyContent" style="padding-left:1ex;margin:0px 0px 0px 0.8ex;border-left:1px solid rgb(0,0,0)">
+<div dir="ltr"> 
+<div class="gmail_quote">
+<div class="gmail_attr" dir="ltr"><br />
+<br />
+<br />
+<br />
+ </div>
+ 
+
+<div dir="ltr"> </div>
+ 
+
+<div class="gmail_quote">
+<div>
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p> </p>
+
+<blockquote id="gmail-isReplyContent" style="padding-left:1ex;margin:0px 0px 0px 0.8ex;border-left:1px solid rgb(0,0,0)">
+<div dir="ltr"> 
+<div class="gmail_quote">
+<div class="gmail_attr" dir="ltr"><br />
+<br />
+<br />
+<br />
+ </div>
+ 
+
+<div dir="ltr"> </div>
+ 
+
+<div class="gmail_quote">
+<div>
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p> </p>
+
+<blockquote id="gmail-isReplyContent" style="padding-left:1ex;margin:0px 0px 0px 0.8ex;border-left:1px solid rgb(0,0,0)">
+<div dir="ltr"> 
+<div class="gmail_quote">
+<div class="gmail_attr" dir="ltr"><br />
+<br />
+<br />
+<br />
+ </div>
+ 
+
+<div dir="ltr"> </div>
+ 
+
+<div class="gmail_quote">
+<div>
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p style="margin:0px"> </p>
+
+<p> </p>
+
+<blockquote id="gmail-isReplyContent" style="padding-left:1ex;margin:0px 0px 0px 0.8ex;border-left:1px solid rgb(0,0,0)">
+<div dir="ltr"> 
+<div class="gmail_quote">
+<div class="gmail_attr" dir="ltr"><br />
+<br />
+<br />
+<br />
+ </div>
+ 
+
+<div dir="ltr"> </div>
+ 
+
+<div class="gmail_quote"><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+ 
+<div style="display:none">******************************************************************************************************************************************************************************* ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- ******************************************************************************************************************************************************************************* ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- ******************************************************************************************************************************************************************************* ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- ******************************************************************************************************************************************************************************* ******************************************************************************************************************************************************************************* <o colspan="5" style="height: 24px; width: 583333%;" valign="top"> If you found something confusing or need more information before registering, ----7fHWrI5m;WCnGIT----PyMTVPum;pnbKJA ---qsdmmm??----ppqsmmw??----qsdwxkcjwxc----?? Can't click on the link? Copy and paste it in to your web browser
+<p>Vous venez de créer un espace personnel sur Crédit Agricole Immobilier<br />
+Toute l’équipe vous remercie de votre confiance et vous souhaite la bienvenue</p>
+Si no puedes ver el botón sobre estas líneas, haz clic en este enlace Try adding a long-stay discount <g width="11%">
+<p>Bonjour finshj arlond,</p>
+Thanks for your help! <g style="width: 127315%; height: 43px;" valign="top"> </g></g>
+
+<table border="0px" cellpadding="0" cellspacing="0" id="GridViewTable">
+</table>
+
+<p>Thanks again and we're excited to have you on board!<br />
+<br />
+AUWaMqsc YtURp<br />
+???//??\YvUpL//??\????</p>
+
+<p> </p>
+<i class="GenLabelBold" style="width: 891204%;" valign="top"> </i>
+
+<p><i class="GenLabelBold" style="width: 891204%;" valign="top">The Amazon CloudFront distribution is configured to block access from your country We can't connect to the server for this app or website at this time There might be too much traffic or a configuration error Try again later, or contact the app or website owner<br clear="all" />
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation</i></p>
+<i class="GenLabelBold" style="width: 891204%;" valign="top"> <img alt="NEXON" src="" style="height:31px; width:102px" /> <r style="width: 300926%;"> <w class="TitleMessageTableStyle" colspan="6" style="height: 15px; width: 565972%;">Voter Information Nous vous remercions et vous prions d'agréer nos salutations distinguées <w nowrap="nowrap" style="width: 196759%; height: 43px;" valign="top"> <z style="height: 12px; width: 371528%;" valign="top"> <o align="left" style="width: 104167%;" valign="top"> <t style="width: 127315%;" valign="top"> ( ) R 2 ( ) R 3 ( ) R
+<p><br />
+Thanks,<br />
+????yhEcn????? Customer Services</p>
+<s style="height: 15px; width: 300926%;"> <!-- end of code--> </s>
+
+<p> </p>
+<s style="height: 15px; width: 300926%;"> por registrarte en Garmin Colombia! <l align="left" style="width: 300926%;" valign="top"> <a style="height: 15px; width: 300926%;"> </a></l></s></t></o><s style="height: 15px; width: 300926%;"><a style="height: 15px; width: 300926%;"> Can't click on the link? Copy and paste it in to your web browser </a></s>
+
+<p><s style="height: 15px; width: 300926%;"><a style="height: 15px; width: 300926%;">Nous vous souhaitons une bonne recherche sur notre site</a></s></p>
+<s style="height: 15px; width: 300926%;"><a style="height: 15px; width: 300926%;"> The more friends who sign up using your link, the faster you get access <f style="width: 127315%; height: 12px;" valign="top"> </f></a></s></z></w></w></r></i><s style="height: 15px; width: 300926%;"><a style="height: 15px; width: 300926%;"> </a></s>
+
+<p><s style="height: 15px; width: 300926%;"><a style="height: 15px; width: 300926%;">Please be advised that College is closed on Monday, January 2nd, 2017<br />
+Note: The test given on the published date is free of charge to new Seneca College students; After this date, a late testing fee of $5500 applies<br />
+Nous vous rappelons vos identifiants de connexion :<br />
+English as a Second Language Testing Information<br />
+Nous avons bien reçu votre demande, nous vous contacterons dans les plus brefs délais<br />
+Nous sommes très sensibles à l'intérêt que vous portez à notre entreprise, et conservons vos coordonnées afin de vous recontacter au besoin<br />
+Please make sure that you arrive on time<br />
+Thank you,<br />
+Thank you for your interest in Sprachcaffe From now on, you should receive our regular newsletter We look forward to informing you about our current offers, new language courses and useful travel information We may also let you know about interesting related products, including cultural and language holidays, as well as other trips from our Work and Travel offer or our selection of tours<br />
+In addition to our schedule of meetings, our website offers a wealth of information about rent stabilization, including current and past rent guidelines; RGB research reports; answers to FAQs; and much more Check it out at:</a></s></p>
+<s style="height: 15px; width: 300926%;"><a style="height: 15px; width: 300926%;"> ----gj;kbbw;dxi <y colspan="6"> Please enter the verification code below on the page you requested <x style="width: 300926%;" valign="top"> <k class="GenLabelBold" style="width: 891204%; height: 43px;" valign="top"> </k></x></y></a></s><a style="height: 15px; width: 300926%;"> ---qsdmmm??----ppqsmmw??----qsdwxkcjwxc----??To attract these bookings, try adding a weekly or monthly discount Use the link below to download Pass Type: Expo Hall Pass Sans réponse de notre part sous un délai de trois semaines, veuillez considérer que nous ne pouvons donner une suite favorable à votre candidature Condiciones de uso - Politica de confidencialidad - Seguridad y Pagos - Menciones legales </a>
+
+<pre>
+<a style="height: 15px; width: 300926%;">Generated by cloudfront (CloudFront)
+This is just a quick email to say we’ve received your order
+Verifying your phone number with a registration code is the only way you can activate your account To complete the registration process and activate your account, your device must:
+----vm;yiza;uad
+					
+---qsdmmm??----ppqsmmw??----qsdwxkcjwxc----??
+
+
+
+<f style="height: 24px; width: 983796%;"> 
+					
+
+The Expo Hall Pass includes:
+Hola:<p>Un problème sur le site ? © Crédit Agricole Immobilier 2016 - Crédit Agricole Immobilier
+12 place des États-Unis – 92545 Montrouge Cedex * du lundi au jeudi de 9h à 19h, le vendredi de 9h à 18h - appel non surtaxé</p>
+						This verification code will expire in 30 minutes
+
+<f style="height: 24px; width: 127315%;"> 
+Debes activar tu cuenta
+<b align="left" style="width: 104167%; height: 43px;" valign="top"> 
+Please CLICK THE LINK BELOW to confirm your subscription
+						778149
+<l style="height: 15px; width: 891204%;"> 
+<z nowrap="nowrap" style="width: 158565%;" valign="top"> 
+Garmin Colombia<p>Best Regards,
+Jglech</p>
+<hr noshade="noshade" size="1px" />
+Hello there,
+
+
+ 
+
+<!--This has polling place link and the written material -->
+Can't click on the link? Copy and paste it in to your web browser
+
+qsdqdq, te has registrado con éxito en nuestro sitio Sólo falta que actives tu cuenta para confirmarla
+				
+
+
+<h nowrap="nowrap" style="width: 196759%;" valign="top"><p>Hello,</p>
+<x> </x>
+		
+ ----T2UPtSDp;ajMyrZ----zPlZsZY7;HSycvL
+
+						You have requested a verification code to verify your Nexon account
+
+Thank you for your interest in Sprachcaffe From now on, you should receive our regular newsletter We look forward to informing you about our current offers, new language courses and useful travel information We may also let you know about interesting related products, including cultural and language holidays, as well as other trips from our Work and Travel offer or our selection of tours
+Sans réponse de notre part sous un délai de trois semaines, veuillez considérer que nous ne pouvons donner une suite favorable à votre candidature
+<s style="width: 127315%;" valign="top"> 
+<z style="width: 8px;"> 
+<e style="height: 15px; width: 158565%;"> 
+Nous vous remercions de la confiance et de l'intérêt que vous nous témoignez en nous proposant votre collaboration
+
+----mmZ7fSxt;GhszSl----itytW3uV;cROqVS
+						If you have any questions please contact the </e></z></s></h></z></l></b></f></f></a><b align="left" style="width: 104167%; height: 43px;" valign="top"><s style="width: 127315%;" valign="top"><a href="" style="color:#005fc1;text-decoration:none;" target="_blank">Customer Support Center</a>
+----GP;hrgo;alx
+
+
+<u> 
+<k style="width: 300926%;"> </k></u></s><u>
+<g style="height: 15px; width: 371528%;"> 
+<a> 
+To make changes to your travel plans
+bout these forms or we need more information, we can
+address it all prior to your appointment
+We look forward to seeing you!
+University of Louisville Physicians
+UofL Family and Geriatric Medicine</a>
+<p> </p>
+<p> </p><a>
+</a>
+<h1><a>403 ERROR</a></h1><a>
+</a>
+<h2><a>The request could not be satisfied</a></h2><a>
+					
+
+						The Nexon Team
+Nous allons procéder à l'examen de votre dossier
+Can't click on the link? Copy and paste it in to your web browser
+Ankama ©2018 Todos los derechos reservados
+<h style="width: 8px;"> 
+
+But we won't get a chance unless you finish your registration
+Once you’ve confirmed the requirements are met, follow the troubleshooting steps based on the issue you’re experiencing:
+
+Sign up to our specialist subject newsletters - opt in here
+----wj;hezg;myu
+
+
+					
+				
+ 
+Gracias, 
+
+			
+
+
+
+ 
+<m style="width: 196759%; height: 12px;" valign="top"> </m></h></a></g><a>
+Can't click on the link? Copy and paste it in to your web browser
+						Here is your verification code :
+If these troubleshooting steps don’t resolve the issue you’re experiencing, send us your number in full international format, and we’ll look into this for you
+----YL;sjhp;fyr
+<l align="left" style="width: 300926%; height: 12px;" valign="top"> </l>
+				
+
+<d class="GenLabelBold" style="width: 983796%;" valign="top"> 
+<i style="width: 8px;"> 
+Can't click on the link? Copy and paste it in to your web browser
+
+
+			
+				
+</i>
+<hr noshade="noshade" size="1px" /><i style="width: 8px;">
+<t style="width: 300926%; height: 24px;" valign="top"> 
+<w style="width: 158565%; height: 12px;" valign="top"> </w></t>
+<o nowrap="nowrap" style="width: 158565%; height: 43px;" valign="top"> </o></i></d></a><i style="width: 8px;">
+
+
+<v style="width: 142px;"> 
+<z width="2%"><p>If you didn't register with ????dcsVK????? My Account please call us on 3656614623 to let us know</p>
+Order summary
+----WTWSjsnV;gYyKLz----4nnR6sGv;FsHAnj
+
+Confirmar mi dirección de correo electrónico
+
+<x style="height: 43px; width: 371528%;" valign="top"> 
+
+<!--This has polling place link and the written material -->
+
+---qsdmmm??----ppqsmmw??----qsdwxkcjwxc----??
+
+
+
+<q style="height: 15px; width: 196759%;"> 
+
+---qsdmmm??----ppqsmmw??----qsdwxkcjwxc----??To attract these bookings, try adding a weekly or monthly discount
+
+</q>
+<p><q style="height: 15px; width: 196759%;">Par mesure de sécurité, nous vous demandons d’activer votre compte en cliquant sur le lien ci-dessous :</q></p><q style="height: 15px; width: 196759%;">
+<i align="left" style="width: 300926%;" valign="top"> 
+<u style="width: 196759%;" valign="top"> 
+----FeeesjNl;EMsuCk
+
+
+
+Can't click on the link? Copy and paste it in to your web browser
+			</u></i></q>
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;" width="100%"><tbody><tr><td> </td></tr></tbody></table><i align="left" style="width: 300926%;" valign="top"><u style="width: 196759%;" valign="top">
+Tu cuenta ha sido creada y puede iniciar sesión utilizando tu e-mail y contraseña en nuestro sitio web o haciendo clic en el siguiente link: 
+<y style="width: 593px;">
+</y></u></i>
+<table border="0" cellpadding="0" cellspacing="0" style="border-bottom:1px solid #f2f2f2; width:100%"></table><i align="left" style="width: 300926%;" valign="top"><u style="width: 196759%;" valign="top">
+					
+</u></i>
+<p><i align="left" style="width: 300926%;" valign="top"><u style="width: 196759%;" valign="top">BIENVENUE CHEZ CRÉDIT AGRICOLE IMMOBILIER !</u></i></p><i align="left" style="width: 300926%;" valign="top"><u style="width: 196759%;" valign="top">
+				
+
+----tJ;gshe;uxs
+Daniel Cassin | 
+
+<m style="height: 15px; width: 127315%;"> 
+<d style="width: 300926%; height: 43px;" valign="top"><p>- Gérer vos alertes, retrouvez vos favoris et tous nos guides pour mener à bien votre projet immobilier</p>
+<g align="left" class="TitleMessageTableStyle" colspan="1" style="height: 15px; width: 300926%;" valign="top"><p> </p>
+<p>contactez-nous</p>
+<d align="left" style="width: 104167%; height: 12px;" valign="top"> 
+Thank You,
+				
+Welcome to News
+
+<s class="GenLabelBold" style="width: 891204%;" valign="top"> 
+
+
+
+			<h nowrap="nowrap" style="width: 196759%; height: 24px;" valign="top"> 
+<m style="width: 371528%;" valign="top"> 
+If you are still interested in attending please use the below link:
+ 
+
+<l class="GenLabelBold" style="width: 891204%; height: 12px;" valign="top"> </l></m>
+----bOiTEtjM;SVxsFs----FDnKAouf;lXOQbW
+ ----Yh;lsbj;sav
+<z> 
+			</z></h></s>
+<table border="0" cellpadding="0" cellspacing="0" style="width:100%"><tbody><tr><td><s class="GenLabelBold" style="width: 891204%;" valign="top">
+</s></td></tr></tbody></table><s class="GenLabelBold" style="width: 891204%;" valign="top">
+
+----EbLcgppg;OhIzkV
+----CfuCwpcx;KQyjwS----hAj7Dn9f;mYfnkW
+</s>
+<p><s class="GenLabelBold" style="width: 891204%;" valign="top"> 
+
+
+<f style="width: 371528%;"> 
+
+---qsdmmm??----ppqsmmw??----qsdwxkcjwxc----??To attract these bookings, try adding a weekly or monthly discount
+
+<n class="GenLabelBold" style="width: 891204%; height: 24px;" valign="top"> 
+<j style="width: 371528%;" valign="top"> </j></n></f></s></p><s class="GenLabelBold" style="width: 891204%;" valign="top"><e style="height: 15px; width: 371528%;"> 
+<a align="center" colspan="6" style="width: 565972%;">
+ </a>
+---qsdmmm??----ppqsmmw??----qsdwxkcjwxc----??
+<f class="GenLabelBold" style="width: 983796%;" valign=""> 
+						</f></e>
+Can't click on the link? Copy and paste it in to your web browser
+</s>
+<table border="0" cellpadding="0" cellspacing="0" style="width:100%"><tbody><tr><td><s class="GenLabelBold" style="width: 891204%;" valign="top">
+</s></td></tr></tbody><tbody><tr><td style="color:#4d4d4d; font-family:Arial,Helvetica,sans-serif; font-size:12px; font-weight:normal; padding:25px 0 50px 50px"><s class="GenLabelBold" style="width: 891204%;" valign="top">© NEXON America Inc All Rights Reserved
+
+Can't click on the link? Copy and paste it in to your web browser
+
+
+</s><p><s class="GenLabelBold" style="width: 891204%;" valign="top">- Vous pouvez dès à présent accéder et modifier vos informations sur votre compte personnel</s></p><s class="GenLabelBold" style="width: 891204%;" valign="top">
+	
+			<n align="left" style="width: 300926%; height: 15px;" valign="top"><p>
+Thanks for registering with ????hezpE????? My Account
+To access My Account please login using the email and password you provided Once logged in you will be able to order new services, view existing orders, check current and previous bills, manage your account settings and more</p>
+----xI;qrga;ycf
+
+<k style="width: 8px;"> 
+			</k></n></s>
+<table border="0" cellpadding="0" cellspacing="0" style="background-color:#f2f2f2; width:100%"><tbody><tr><td><s class="GenLabelBold" style="width: 891204%;" valign="top">
+
+</s></td></tr></tbody></table><s class="GenLabelBold" style="width: 891204%;" valign="top">
+Until then, thank you for starting the registration process! 
+
+
+					</s></td></tr><tr><td><s class="GenLabelBold" style="width: 891204%;" valign="top">
+
+<!-- search parameters -->
+
+
+<!-- search parameters -->
+
+</s></td></tr><tr><td><s class="GenLabelBold" style="width: 891204%;" valign="top">
+
+					</s></td></tr><tr><td><s class="GenLabelBold" style="width: 891204%;" valign="top">
+					</s></td></tr></tbody></table><s class="GenLabelBold" style="width: 891204%;" valign="top">
+We noticed that you started, but didn't finish registering for MXVZ 1108
+Please be advised that College is closed on Monday, January 2nd, 2017
+
+please contact us by replying to this email or by emailing us at 
+
+
+<g style="width: 300926%;" valign="top"> 
+<t align="left" style="width: 300926%; height: 43px;" valign="top"> 
+<a class="GenLabelBold" style="width: 983796%; height: 12px;" valign="top"> 
+Can't click on the link? Copy and paste it in to your web browser
+<c> 
+Thank you for requesting us to reset your ????ranyw???? website password To reset your password please visit the following web page and enter your password reset token:<p>Welcome to ???//??\NzLOG//??\????! We’re excited to have you on board My name is NwMMeJYW, and I’ll be your onboarding assistant throughout your trial process I’d love to learn more about your business, and in turn implement a strategy using our software to increase your sales and overall efficiency Please reach out if you have any questions and I look forward to helping your eCommerce business grow using our software!
+
+If you have any questions during your trial process, we'd be more than happy to help! Simply hover over the question mark icon to reveal a link to schedule a call with us or utilize the live chat feature in the bottom right corner of your dashboard</p>
+
+
+<n style="width: 300926%; height: 12px;" valign="top"> 
+Bienvenido a nuestra gran familia, gracias 
+***********************************
+<u align="left" style="width: 104167%;" valign="top"> </u></n></c></a></t><a class="GenLabelBold" style="width: 983796%; height: 12px;" valign="top"><u align="left" style="width: 104167%;" valign="top">
+<y style="width: 158565%;" valign="top"> 
+<t style="height: 15px; width: 983796%;"> 
+<u width="33%"> </u></t></y></u></a><u align="left" style="width: 104167%;" valign="top"><u width="33%">
+We look forward to seeing you in October!
+The QSRW Team
+</u></u>
+<p><u align="left" style="width: 104167%;" valign="top"><u width="33%">N’hésitez pas à nous contacter pour toutes questions</u></u></p><u align="left" style="width: 104167%;" valign="top"><u width="33%">
+ACTIVAR CUENTA
+					
+</u></u>
+<p><u align="left" style="width: 104167%;" valign="top"><u width="33%">L’équipe Crédit Agricole Immobilier
+
+activer mon compte</u></u></p><u align="left" style="width: 104167%;" valign="top"><u width="33%">
+
+					
+Bonjour,
+Request ID: aHl94ZEl8vwL49MNoAXaXgf_Zds6FyMb0u7q8OkFoDYY2iKU3G2Y7w==
+<b width="15%"> 
+
+<y align="left" style="width: 104167%; height: 15px;" valign="top">  </y></b>
+
+<v style="width: 186px;"> 
+<l align="left" style="width: 104167%; height: 24px;" valign="top"> 
+ We're so excited to see you we just wanna dance!
+Click here toPlease be advised that College is closed on Monday, January 2nd, 2017 
+Note: The test given on the published date is free of charge to new Seneca College students; After this date, a late testing fee of $5500 applies
+Nous vous rappelons vos identifiants de connexion :
+English as a Second Language Testing Information
+Nous avons bien reçu votre demande, nous vous contacterons dans les plus brefs délais
+Nous sommes très sensibles à l'intérêt que vous portez à notre entreprise, et conservons vos coordonnées afin de vous recontacter au besoin
+Please make sure that you arrive on time 
+Thank you,
+Thank you for your interest in Sprachcaffe From now on, you should receive our regular newsletter We look forward to informing you about our current offers, new language courses and useful travel information We may also let you know about interesting related products, including cultural and language holidays, as well as other trips from our Work and Travel offer or our selection of tours
+In addition to our schedule of meetings, our website offers a wealth of information about rent stabilization, including current and past rent guidelines; RGB research reports; answers to FAQs; and much more Check it out a review or update your account details by entering your email and password in the "Login" section of the page
+</l></v></u></u></g><u align="left" style="width: 104167%;" valign="top"><u width="33%">
+¡Casi has terminado tu inscripción! Confirma tu dirección de correo electrónico haciendo clic en el enlace:
+</u></u></s>
+<div><s class="GenLabelBold" style="width: 891204%;" valign="top"><u align="left" style="width: 104167%;" valign="top"><u width="33%"> </u></u></s></div><s class="GenLabelBold" style="width: 891204%;" valign="top"><u align="left" style="width: 104167%;" valign="top"><u width="33%">
+	</u></u><u align="left" style="width: 104167%;" valign="top"><u width="33%"><y align="left" colspan="1" style="width: 300926%;" valign="top"> 
+
+
+
+</y></u></u></s>
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="border:1px solid #b5b5b5; width:620px"><tbody><tr></tr></tbody><tbody><tr><td><s class="GenLabelBold" style="width: 891204%;" valign="top">
+</s></td></tr></tbody></table></d></g></d></m></u></i></x></z></v></i></u></b></pre>
+</o></div>
+</div>
+</div>
+</div>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+</blockquote>
+</div>
+</html>
+
+--===============1777653210==--

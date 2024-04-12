@@ -1,0 +1,133 @@
+Return-Path: <Charles@economyemailservers.com>
+Delivered-To: untroubl8492-bruce@untroubled.org
+Received: (qmail 3952999 invoked from network); 30 Mar 2024 18:03:52 -0000
+Received: from NAM02-BN1-obe.outbound.protection.outlook.com (mail-bn1nam02on20700.outbound.protection.outlook.com [IPv6:2a01:111:f403:2407::700])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 30 Mar 2024 18:03:51 -0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=VFRCrMH8hyN+X3nEQ/saW+qQ9Dx1VKsmyW5z+e8eGfDtIPqw3W1dnDNs0lDPL1/ZDfWGtVaqm7xNfe/rBIWOtgRz3vlfijfSBiYMnNGl9w4gS5RtAQecBzuySwxV3OvShHhoHxZZXFluJLv/PJ2YKYjpSgx462stdn/wsX+g+M3JqKhW9x5g89p5rk5ek7COnS6yOhOYtvukXQYaWIsLEeLA0klQXCUGy4FEoTDekQig3ThCqCZOcIBWTXgAwWDzDvMCiFpjWTRwKNebGH/2FWYlrJP0PkmXMSYtWpQZtUt8WkBctr/u2IX1H6rxwvec3gCqrSjIduCTQ6R+A11m1A==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=r5qEyndYnQoI9d9QAioWG+gvpLDHzP+A2otprwEazqU=;
+ b=CEc7bxVaywztCLeB6iNvwxkSs3DgqZvtQwRlISmqn803OiSiq9XuDUZB3dlS07Y2Ia+EuC/kvcZ0AjSMaY20y8Cg4hLNs3++A9gxNvQqT/h+DFfNQ0flTJryYqNIZoWlQ1dRyJo3vEpjIgf5VHQKvJtlr6HPv4Ba2tHI4VZ71w4+eMc0rLpzn+W8xhq3zfLTwBinROFR5WODYQa0y3FAECuLScW0KzU8Eo4mrwB8cpMeorj/TTOC9kDP1Ky7PqRyZ13JR9ghdeG+pYPrHuiV2Un0gQXWH3UnCXShyfoGTfTUlrak1GT4Bj9KJaj/Qy3rdjvnowTZKfZlKavDP6tlHw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=economyemailservers.com; dmarc=pass action=none
+ header.from=economyemailservers.com; dkim=pass
+ header.d=economyemailservers.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=economyemailservers.com; s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=r5qEyndYnQoI9d9QAioWG+gvpLDHzP+A2otprwEazqU=;
+ b=BCSjwNjQDh1LjJgH4Mi/DxNsH4LCKbtY3QPRuMorEvNq7k53Dgm3sMZ6LYDisQLOLmoq1izDhLKEuGxVUXAgSj9QMrE3UDLq1gJqQT4S+vxcL6CD9EoEOc0agDcYkp83P9kRlDcrVUUiumEWIvAS8Xi9JB7mE2h+Kpc3MffKTh6EA05DWEko/YVPx76Yz+uUhF5K6w4RPYerJmFHJ87bpDOqGAZmSlDZhqYNNdJz3Nm6pdPWNzPtVUv3wn+La9mnz1A7JjSgmPkEjhzflxdgYWOKPLQjgd6osKEdIghYKrt00xWNf7wEv2h474lRfzurLLC1GHPVPqizLWjejjFW1A==
+Received: from PH0PR10MB5466.namprd10.prod.outlook.com (2603:10b6:510:e2::16)
+ by PH0PR10MB5683.namprd10.prod.outlook.com (2603:10b6:510:148::16) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7409.31; Sat, 30 Mar
+ 2024 18:03:49 +0000
+Received: from PH0PR10MB5466.namprd10.prod.outlook.com
+ ([fe80::79dc:760e:582b:1921]) by PH0PR10MB5466.namprd10.prod.outlook.com
+ ([fe80::79dc:760e:582b:1921%4]) with mapi id 15.20.7409.042; Sat, 30 Mar 2024
+ 18:03:49 +0000
+Reply-To: <Charles@economyemailservers.com>
+From: "Charles" <Charles@economyemailservers.com>
+To: "bruce" <bruce@untroubled.org> 
+Subject: Send Unlimited Emails
+Message-ID: <4ace8ea73a3beb429c50df8bc84d65e2@192.168.6.186>
+Date: Sat, 30 Mar 2024 14:01:52 -0400
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0001_E35E1910.8953CA42"
+X-ClientProxiedBy: BN0PR07CA0005.namprd07.prod.outlook.com
+ (2603:10b6:408:141::20) To PH0PR10MB5466.namprd10.prod.outlook.com
+ (2603:10b6:510:e2::16)
+Return-Path: Charles@economyemailservers.com
+MIME-Version: 1.0
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: PH0PR10MB5466:EE_|PH0PR10MB5683:EE_
+X-MS-Exchange-SenderADCheck: 1
+X-MS-Exchange-AntiSpam-Relay: 0
+X-Microsoft-Antispam: BCL:0;
+X-Microsoft-Antispam-Message-Info:
+	TYL0tVzKjX7CgdPN19HB8YMMxdveVC3nlqWFuiNfvEq70KUxlCz3Se4mxWmD4e60+SScf3+f55dmMbFsQbY47Tz4rQqYBSDssbakaYZGMRtU7xRhcerkB37GZnG8cC7I/d1KnLQjHDA5sb1JsrNM2CUPpwGfh23nNmSDQXLwl/L6vcmAOKRIPyK2utpS+CQ4PbVIPC0qJeXSpUUpKjJ4+55NoMWKPxtumZgiRBuP6wUSd3WkCyceOVdxIU4DOqjGQybDmT1yWSUDPWPIcbt3WVidMCeEwtO65eyK7y4es7Ie8i2L7pdlezwxslsgVPRziVwIiYRwqYOvPZDd2/Mdkm4zMfe/3ypwTb/XCAtEfK8oyx52WM5Xbm8G+sttcFsTthmOGOrObEo/R1eqox0VNpaM59L/wJ2fnWVl9Y1H0LCl5j3HfHO+Gz4Yfq6K/HiowrQ2tC0VMuEaUp+Vp7O5GWK/PgocPeSQZK3Cob6fZud6zSwCARR/SGh5sQoFcf4eKfb2gN1w0WxWGMyp0HiPUxRDCgXFdUs0i9xjIDWKExT+kiKbRapPzoMIg4kjnIDTEv+B03Tx/IOumB353JUVyZjWOh74DAOB3PmBcF8RRxhso+f2x2s3W4unp1v+QXie+yP51GV9dmeUO39/QnPtcbe+Xi+KEq78CPBmEIv4hQs=
+X-Forefront-Antispam-Report:
+	CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:PH0PR10MB5466.namprd10.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230031)(52116005)(366007)(376005)(1800799015)(38350700005);DIR:OUT;SFP:1102;
+X-MS-Exchange-AntiSpam-MessageData-ChunkCount: 1
+X-MS-Exchange-AntiSpam-MessageData-0:
+	=?Windows-1252?Q?ua6krXE8B9DRGeORNYf49vq/HQ77K4w+2We9psq1cplG28RxdE2lsMs9?=
+ =?Windows-1252?Q?bsAMuIXwuw0cCLxafRqtUPNTmc7+C7rrM7s3FV3nbxc13j/1M5BuuXjf?=
+ =?Windows-1252?Q?QLfK4VIpZN0YMFRA089p2FN7uLGLbM0l7ms6B/KVTIEhovLUKfAtv6fS?=
+ =?Windows-1252?Q?/MihDsmyGV84Gktd2A9ZMUAknFxAIER/DWD+J6zRBzK8keCtCETn1nd0?=
+ =?Windows-1252?Q?X/r6qm5HAOPYy//IyDFMyvKm5Er6ZCjEAJ7DDv52Ma+6w4o7lru7yuid?=
+ =?Windows-1252?Q?ciYJgq4hGpW7S8D0eQVOb4VrqLuV9M2bOQUhOoB7LI6L57QcMxOhbxsg?=
+ =?Windows-1252?Q?Th1ZEfvr3HjJdswBOFcUR4layJ7vinNmooBN4MyzxSa5UN0vgKE/39XK?=
+ =?Windows-1252?Q?D8qkSGCFwPM0cVon3eRi9pA+FT5wer+ke0AAlqjLtkZvnj/TS6flv+lp?=
+ =?Windows-1252?Q?Co6yMQS297PB5lmyxvbXR0j87JqQgiLziE9cHflnx9T4YiXASkjGs0zp?=
+ =?Windows-1252?Q?4I2m2VuXGPbGRw4BZyTp5Sr9Kpt2yGWpV1elfJxmt4sHTR0gXdRxUte9?=
+ =?Windows-1252?Q?AUyFRf74DeybFWRrWvtXl71J9BN63xHGY0K5443kUmRQQUdZkq+ciOZy?=
+ =?Windows-1252?Q?fmtGWXDyyfMVjSNTTUQFtSVtH/zdJuI7s03NtRwB1Jv5X95mlsRNMchO?=
+ =?Windows-1252?Q?Be8HQE6tLusj0PDW2L0mGdkVcwyv/cw20pFybtVUWA+hV6zZAwdDZyXg?=
+ =?Windows-1252?Q?9nFye6kB2KBqXejuyhh1UshUpvnl8Rm1W9D9IcVhaIX/sXrL/GVuBwpc?=
+ =?Windows-1252?Q?WFP+wG4E9hNOhw1BxJrNlM4X0QXzvhITbMA7kAouVpHgW1Eyt/zPVqUK?=
+ =?Windows-1252?Q?2CEZNZYSsodFVLPbFr92NlDmNHhsJ24Rrv6yBNZ6UEKDU7vkrSDfadpk?=
+ =?Windows-1252?Q?nsBX7EDMo9pikbGL6kogpn+eIcDfuipHm8TYOGl8KU6apTxLdqDfCn9O?=
+ =?Windows-1252?Q?aCqUTDM7Fh3nSQypz7BtXWrH8h+LXqlAl4tRAckhA+zxMRW8DYgRmtm/?=
+ =?Windows-1252?Q?vRhXIu6ws+8oY6TH67v9tBCY0oskpYRyv/3yX+PVTHrzngH+wMyccp9G?=
+ =?Windows-1252?Q?G6XDIReIuJi73pbElZHNIwifUkq8LZwqCrL4LMMy48gKQ1xnbj02k1ZK?=
+ =?Windows-1252?Q?Fl5XIGNG0uT3prKtbrgvcTOBuK0L5TKIGM+jF9BD6ws+wtVhecBbYj4O?=
+ =?Windows-1252?Q?dmS3fGCKZyIG4ib2iXEBI/NEqiJ05HfdNfsHagEL2tlWbd5yCA8NLcbc?=
+ =?Windows-1252?Q?6PZYAYYCJC0ZwErMPa3DTOBCcbvsJAI9FYmwK3g4QJDNukOOxNkSev1/?=
+ =?Windows-1252?Q?XCGdTQxA+nUPIjuwCWjdeAWgrcezoOKFqJkItuxZ5B+0jcYcaBDcacqV?=
+ =?Windows-1252?Q?ravx5B38E66BUwwDbU6thEt+I2SnFBwOFE0oNBc/nI208879i4wJqObF?=
+ =?Windows-1252?Q?Cjvwe+Ur8OAHIGlm5k1rRtlhtQ4ZguIEe5BfeLU1fDNrnqVXDT8U9RFA?=
+ =?Windows-1252?Q?bRD9qQA4+agHbmxbuHgp6eLd6HDTw4IeHSRStY2etolL3UIqgxCcIBc0?=
+ =?Windows-1252?Q?C6e5Tzvw+95MD5M+nA3WXgDHJNFRB6QmF0Mu23j0y3NKhHIBYPoyRyyK?=
+ =?Windows-1252?Q?dUzETpEDF72Zjxjt/hEbcFK3QBjCZ4+DdyR8/6RVpW888dAf7VptC6Jx?=
+ =?Windows-1252?Q?egpJkEmHU7Du0iloZus=3D?=
+X-OriginatorOrg: economyemailservers.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: e98969a8-2561-4c5e-7fc9-08dc50e384e0
+X-MS-Exchange-CrossTenant-AuthSource: PH0PR10MB5466.namprd10.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 30 Mar 2024 18:02:09.7553
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: 9ccde56f-c691-406f-a699-cd6c83293588
+X-MS-Exchange-CrossTenant-MailboxType: HOSTED
+X-MS-Exchange-CrossTenant-UserPrincipalName: aVbrmyY0rfIPAi0+gWMLoBtWHAMUy8XbgzRIOCm1dsvDQtB9ncDy1saYRTHKDbM908HgemMkshA02qI+12WHo8c50FTlz97GRU7VEGevyQo=
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: PH0PR10MB5683
+Content-Length: 1451
+
+------=_NextPart_000_0001_E35E1910.8953CA42
+Content-Type: text/plain;
+	charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+------=_NextPart_000_0001_E35E1910.8953CA42
+Content-Type: text/html;
+	charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252"><meta name=3D"GENERATOR" content=3D"MSHTML 11.00.10570.1001"></head>
+<body>
+<p>Hello friend,</p>
+<p>Are you trying to start an email marketing business?</p>
+<p>Well if so, I am selling smtp servers cheaper than the competition.</p>
+<p>Using my smtp servers you can send an unlimited amount of emails at the =
+rate of 160&nbsp;emails an hour.</p>
+<p>I only charge a one time fee of $300.</p>
+<p>This is the best deal you are going to find other businesses charge way =
+more.</p>
+<p>And not only that, for no extra cost I will create an email list for you=
+ composed of people interested in what you sell.</p>
+<p>If this interests you please visit my webpage&gt; <a href=3D"https://eco=
+nomyemailservers.com/">Cheapemailserverforyou - Email Server, SMTP Server S=
+et Up (economyemailservers.com)</a></p>
+<p>Thankyou for your time, </p>
+<p>Charles</p>
+<p>&nbsp;</p><a href=3D"mailto:Charles@economyemailservers.com?subject=3DUn=
+subscribe">Unsubscribe</a> </body></html>
+
+------=_NextPart_000_0001_E35E1910.8953CA42--

@@ -1,0 +1,413 @@
+Return-Path: <bounce@top2pot.com>
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=DKIM1; d=top2pot.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=postmaster@top2pot.com;
+ bh=7r/sm8p+NeLaNYzcTwboUW7MVeg=;
+ b=TaBPJc6wYKN5PLu9qAGpk5KXpJqkUxogLENY9Lk6H7bPpiz/+ukbCyFltRwRrppTekHc6b0n6fYE
+   oFnYTl8zCKtQ1jxz16THDdPE5XW56K5v3adMMfQXfeG5hMe3XJvDb0XqWb6ujQUfGFt+wAydWSV6
+   KlWjy5u5puf6rnpbQ6E=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=DKIM1; d=top2pot.com;
+ b=C/8GqKg+QdQEZ/uXiraAbz3bgypHx9MkNaVBgNyqm0qi58iv32uq69RdGJoyT6MLxLA5+Rmv1BZP
+   Oo8LX5xzb13ciRI4t/Rvh/CNgrR+8tHxPsBFdLRq5baHzA6HomucZZfqZO04qRCI6ngsay5fbRAU
+   hux6bq8PUKncWQkRgWs=;
+To: bruce@untroubled.org
+Subject: =?UTF-8?B?Q2hvaXNpc3NleiBsZXMgbWVpbGxldXJzIHRpdHJlcyByZXN0YXVyYW50IHBvdXIgdm9zIMOpcXVpcGVzICE=?=
+Message-ID: <7a2251d3b84ee2540667ec0c8e868d57@top2pot.com>
+Return-Path: bounce@top2pot.com
+Date: Thu, 04 Apr 2024 12:01:28 +0000
+From: "Titres restaurants " <info@top2pot.com>
+Reply-To: support@top2pot.com
+MIME-Version: 1.0
+X-Mailer-LID: 5
+List-Unsubscribe: <https://top2pot.com/iem7/unsubscribe.php?M=90219&C=c07e9abc51838e11f46577fcbbbc405c&L=5&N=63>
+X-Mailer-SID: 63
+X-Mailer-Sent-By: 1
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+Content-Length: 12030
+
+<html><head><title>&nbsp;</title><base target="_blank">
+<style type="text/css">
+body,td,th {
+	font-size: 12px;
+}
+</style>
+</head><body marginwidth=0 marginheight=0 leftmargin=0 topmargin=0
+rightmargin=0>
+<!-- [if gte mso 9]>
+<style>
+#tableForOutlook {
+width:600px;
+}
+</style>
+<![endif]--> <!-- [if gte mso 8]>
+<style>
+#tableForOutlook {
+width:600px;
+}
+</style>
+<![endif]--> <!-- [if gte mso 7]>
+<style>
+#tableForOutlook {
+width:600px;
+}
+</style>
+<!--[if (gte mso 9)|(IE)]>
+<style>
+#tableForOutlook {
+width:600px;
+}
+</style>
+<![endif]--> <!-- [if (gte mso 9)|(IE)]>
+<style>
+table {border-collapse: collapse !important;
+}
+</style>
+<![endif]--> <!-- [if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]--><center>
+<table width="600" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center">Si vous ne visualisez pas correctement ce message, <a
+href="https://top2pot.com/iem7/link.php?M=90219&N=63&L=44&F=H"
+target="_blank" rel="noopener">consultez-le en ligne.</a></td>
+</tr>
+</tbody>
+</table>
+<!-- [if (gte mso 9)|(IE)]>
+<table id="tableForOutlook" align="center" border="0" cellpadding="0"
+cellspacing="0" width="600"><tr><td width="600">
+<![endif]--> <!-- [if gte mso 9]>
+<table id="tableForOutlook" align="center" border="0" cellpadding="0"
+cellspacing="0" width="600"><tr><td width="600">
+<![endif]--> <!-- [if gte mso 8]>
+<table id="tableForOutlook" align="center" border="0" cellpadding="0"
+cellspacing="0" width="600"><tr><td width="600">
+<![endif]--> <!-- [if gte mso 7]>
+<table id="tableForOutlook" align="center" border="0" cellpadding="0"
+cellspacing="0" width="600"><tr><td width="600">
+<![endif]-->
+<table bgcolor="#ffffff" align="center" style="border-spacing: 0;
+font-family: sans-serif; color: #333333; margin: 0 auto; max-width: 600px;
+width: 100%;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td bgcolor="#a8293c">
+<table align="center" style="border-spacing: 0; font-family: sans-serif;
+color: #333333; margin: 0 auto; width: 100%; max-width: 600px;" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td height="20" style="line-height: 0px; height: 20px; font-size:
+0px;"></td>
+</tr>
+<tr>
+<td>
+<table align="center" style="border-spacing: 0; font-family: sans-serif;
+color: #333333; margin: 0 auto; width: 100%; max-width: 560px;" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="20"></td>
+<td align="center"><a
+href="https://top2pot.com/iem7/link.php?M=90219&N=63&L=43&F=H"
+style="font-family: Arial, Helvetica, sans-serif; text-decoration: none;"
+target="_blank" rel="noopener"><span style="font-family: 'Mulish', Arial,
+Helvetica, sans-serif; font-size: 32px; font-weight: normal; color:
+#ffffff; line-height: 35px;">Choisissez les meilleurs <strong style="color:
+#b2f779;">titres restaurant</strong> pour vos
+&eacute;quipes&nbsp;!</span></a></td>
+<td width="20"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="20" style="line-height: 0px; height: 20px; font-size:
+0px;"></td>
+</tr>
+<tr>
+<td bgcolor="#ffffff">
+<table align="center" style="border-spacing: 0; font-family: sans-serif;
+color: #333333; margin: 0 auto; width: 100%; max-width: 600px;" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="center" style="width: 100%; max-width: 600px;"><a
+href="https://top2pot.com/iem7/link.php?M=90219&N=63&L=43&F=H"
+style="font-family: Arial, Helvetica, sans-serif; text-decoration: none;"
+target="_blank" rel="noopener"><img
+src="https://vht.tradedoubler.com/file/316898/0422/img/hero1.jpg"
+style="width: 100%; max-width: 600px;" border="0" /></a></td>
+</tr>
+<tr>
+<td height="20" style="line-height: 0px; height: 20px; font-size:
+0px;"></td>
+</tr>
+<tr>
+<td>
+<table align="center" style="border-spacing: 0; font-family: sans-serif;
+color: #333333; margin: 0 auto; width: 100%; max-width: 560px;" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="20"></td>
+<td align="center"><a
+href="https://top2pot.com/iem7/link.php?M=90219&N=63&L=43&F=H"
+style="font-family: Arial, Helvetica, sans-serif; text-decoration: none;"
+target="_blank" rel="noopener"><img
+src="https://vht.tradedoubler.com/file/316898/0422/img/cta1.png"
+width="260" height="50" border="0" style="color: #5a9a25; font-size: 22px;
+font-weight: bold;" alt="&gt;&gt;&gt; Parcourir les offres" /></a></td>
+<td width="20"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="30" style="line-height: 0px; height: 30px; font-size:
+0px;"></td>
+</tr>
+<tr>
+<td>
+<table align="center" style="border-spacing: 0; font-family: sans-serif;
+color: #333333; margin: 0 auto; width: 100%; max-width: 520px;" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="30"></td>
+<td align="center"><span style="font-family: 'Mulish', Arial, Helvetica,
+sans-serif; font-size: 15px; font-weight: normal; color: #162056;
+line-height: 17px;">Bien que <strong>tr&egrave;s appr&eacute;ci&eacute;s
+par les employ&eacute;s</strong>, les titres restaurants sont
+<strong>tr&egrave;s avantageux pour les dirigeants</strong>. Ils sont la
+solution id&eacute;ale pour r&eacute;pondre &agrave; l'obligation de
+participer aux repas de ses employ&eacute;s. L'employeur peut participer
+&agrave; <strong>hauteur de 60%</strong> sur le montant du titre et pourra
+b&eacute;n&eacute;ficier d'une <strong>exon&eacute;ration de charges
+fiscales et sociales jusqu'&agrave; 5,5&euro; par jour et
+employ&eacute;</strong>. </span></td>
+<td width="30"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="30" style="line-height: 0px; height: 30px; font-size:
+0px;"></td>
+</tr>
+<tr>
+<td align="center" style="width: 100%; max-width: 600px;"><a
+href="https://top2pot.com/iem7/link.php?M=90219&N=63&L=43&F=H"
+style="font-family: Arial, Helvetica, sans-serif; text-decoration: none;"
+target="_blank" rel="noopener"><img
+src="https://vht.tradedoubler.com/file/316898/0422/img/hero2.jpg"
+style="width: 100%; max-width: 600px;" border="0" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="5" style="line-height: 0px; height: 5px; font-size:
+0px;"></td>
+</tr>
+<tr>
+<td>
+<table align="center" style="border-spacing: 0; font-family: sans-serif;
+color: #333333; margin: 0 auto; width: 100%; max-width: 430px;" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="20"></td>
+<td align="center"><span style="font-family: 'Mulish', Arial, Helvetica,
+sans-serif; font-size: 20px; font-weight: bold; color:
+#ffffff;">Convaincu&nbsp;? Alors n'attendez plus&nbsp;!</span></td>
+<td width="20"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="20" style="line-height: 0px; height: 20px; font-size:
+0px;"></td>
+</tr>
+<tr>
+<td>
+<table align="center" style="border-spacing: 0; font-family: sans-serif;
+color: #333333; margin: 0 auto; width: 100%; max-width: 430px;" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="20"></td>
+<td width="40"><a
+href="https://top2pot.com/iem7/link.php?M=90219&N=63&L=43&F=H"
+style="font-family: Arial, Helvetica, sans-serif; text-decoration: none;"
+target="_blank" rel="noopener"><img
+src="https://vht.tradedoubler.com/file/316898/0422/img/icon1.png"
+width="40" height="37" border="0" alt="" /></a></td>
+<td width="15"></td>
+<td align="left"><span style="font-family: 'Mulish', Arial, Helvetica,
+sans-serif; font-size: 15px; font-weight: normal; color: #ffffff;">Trouvez
+l'offre la plus adapt&eacute;e &agrave; votre entreprise</span></td>
+<td width="20"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="8" style="line-height: 0px; height: 8px; font-size:
+0px;"></td>
+</tr>
+<tr>
+<td>
+<table align="center" style="border-spacing: 0; font-family: sans-serif;
+color: #333333; margin: 0 auto; width: 100%; max-width: 430px;" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="20"></td>
+<td width="40"><a
+href="https://top2pot.com/iem7/link.php?M=90219&N=63&L=43&F=H"
+style="font-family: Arial, Helvetica, sans-serif; text-decoration: none;"
+target="_blank" rel="noopener"><img
+src="https://vht.tradedoubler.com/file/316898/0422/img/icon2.png"
+width="40" height="37" border="0" alt="" /></a></td>
+<td width="15"></td>
+<td align="left"><span style="font-family: 'Mulish', Arial, Helvetica,
+sans-serif; font-size: 15px; font-weight: normal; color: #ffffff;">Comparez
+les meilleurs fournisseurs </span></td>
+<td width="20"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="8" style="line-height: 0px; height: 8px; font-size:
+0px;"></td>
+</tr>
+<tr>
+<td>
+<table align="center" style="border-spacing: 0; font-family: sans-serif;
+color: #333333; margin: 0 auto; width: 100%; max-width: 430px;" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="20"></td>
+<td width="40"><a
+href="https://top2pot.com/iem7/link.php?M=90219&N=63&L=43&F=H"
+style="font-family: Arial, Helvetica, sans-serif; text-decoration: none;"
+target="_blank" rel="noopener"><img
+src="https://vht.tradedoubler.com/file/316898/0422/img/icon3.png"
+width="40" height="37" border="0" alt="" /></a></td>
+<td width="15"></td>
+<td align="left"><span style="font-family: 'Mulish', Arial, Helvetica,
+sans-serif; font-size: 15px; font-weight: normal; color:
+#ffffff;">B&eacute;n&eacute;ficiez d'une exon&eacute;ration de
+charges</span></td>
+<td width="20"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="40" style="line-height: 0px; height: 40px; font-size:
+0px;"></td>
+</tr>
+<tr>
+<td>
+<table align="center" style="border-spacing: 0; font-family: sans-serif;
+color: #333333; margin: 0 auto; width: 100%; max-width: 560px;" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="20"></td>
+<td align="center"><a
+href="https://top2pot.com/iem7/link.php?M=90219&N=63&L=43&F=H"
+style="font-family: Arial, Helvetica, sans-serif; text-decoration: none;"
+target="_blank" rel="noopener"><img
+src="https://vht.tradedoubler.com/file/316898/0422/img/cta2.png"
+width="290" height="45" border="0" style="color: #33070e; font-size: 22px;
+font-weight: bold;" alt="&gt;&gt;&gt; Commandez mes titres" /></a></td>
+<td width="20"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="15" style="line-height: 0px; height: 15px; font-size:
+0px;"></td>
+</tr>
+<tr>
+<td>
+<table align="center" style="border-spacing: 0; font-family: sans-serif;
+color: #333333; margin: 0 auto; width: 100%; max-width: 560px;" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="20"></td>
+<td align="center"><img
+src="https://vht.tradedoubler.com/file/316898/0422/img/arrow.gif"
+width="42" height="35" border="0" alt="" /></td>
+<td width="20"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="30" style="line-height: 0px; height: 30px; font-size:
+0px;"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- [if gte mso 7]>
+</td></tr></table>
+<![endif]--> <!-- [if gte mso 8]>
+</td></tr></table>
+<![endif]--> <!-- [if gte mso 9]>
+</td></tr></table>
+<![endif]--> <!-- [if (gte mso 9)|(IE)]>
+</td></tr></table>
+<![endif]-->
+<table width="600" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center">Vous disposez d'un droit d'acc&egrave;s, de
+rectification, d'opposition et de consentement auquel vous avez
+acc&egrave;s &agrave; partir de cette page web : <a
+href="https://top2pot.com/iem7/link.php?M=90219&N=63&L=3&F=H">Charte des
+Donn&eacute;es Personnelles.</a><br />Vous recevez ce message sur votre
+adresse email bruce@untroubled.org car vous &ecirc;tes inscrit &agrave;
+notre liste compos&eacute;e de dirigeants et professionnels.<br />Pour
+stopper la r&eacute;ception par email de nos messages, suivez ce lien : <a
+href="https://top2pot.com/iem7/link.php?M=90219&N=63&L=2&F=H"
+target="_blank" rel="noopener">Se d&eacute;sabonner.</a> 40 Caversham Rd,
+Reading RG1 7BT</td>
+</tr>
+</tbody>
+</table>
+</center>
+<img
+src="https://top2pot.com/iem7/open.php?M=90219&L=5&N=63&F=H&image=.jpg"
+height="1" width="10" alt="track the open"></body>
+</html><img
+src="https://top2pot.com/iem7/open.php?M=90219&L=5&N=63&F=H&image=.jpg"
+height="1" width="10" alt="track the open"></body></html>
+

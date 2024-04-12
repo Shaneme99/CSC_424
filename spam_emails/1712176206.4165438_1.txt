@@ -1,0 +1,176 @@
+Return-Path: <alertpackage@elitteblog.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=elitteblog.com;
+	s=dkim; t=1712169792;
+	bh=BBVGg+vhUNAalSPrlPdtTqSFXlnwxHzBsdTo628QhGM=;
+	h=mime-version:date:to:from:subject:message-id:content-type;
+	b=hy433vt4ol/OD+YUZLLhWPTVo7KUTHo/RDLKIJugh3wdJHBY9hMi27K1Aav3kj9F1
+	 elFBI5Nis2eNhwQyGBJiFCGEuI1O//P7Xgix9GmhY654lVTUmFKkRzsFda9t9+FgJa
+	 0vTSKAJxsqB7NLPk/zKOjm8ojpn3FgAIwxO0k838=
+MIME-Version: 1.0
+Date: Wed, 03 Apr 2024 14:43:12 -0400
+To: <bruce@untroubled.org>
+From: "Alert: Package" <AlertPackage@elitteblog.com>
+Subject: , Action Required: Unsuccessful Delivery-- Reschedule Delivery FE4D2-AD Before It’s Too Late
+Message-ID: <gdpw17801a51c93447136ce0a05_40a30d66@elitteblog.com>
+Reply-To: AlertPackage@elitteblog.com
+List-Unsubscribe: <mailto:17801a51c93447136ce0a05_40a30d66@unsubscribe.elitteblog.com?subject=unsubscribe>
+Content-transfer-encoding: 8bit
+Content-Type: multipart/alternative; boundary="95Z3470ZXT"
+Content-Length: 4945
+
+--95Z3470ZXT
+Content-type: text/plain; charset="UTF-8"
+Content-transfer-encoding: 8bit
+
+** Delivery Attempt Failed
+------------------------------------------------------------
+
+Dear Customer,
+We regret to inform you that your package delivery by FedEx on March 27th has been missed because a signature was required.
+
+To receive your package, please click here to reschedule the delivery (http://www.elitteblog.com/Lrb-W7xb~qh/C/) .
+
+If you do not reschedule within 24 hours, the package will be sent back to the sender.
+Reschedule Delivery (http://www.elitteblog.com/Lrb-W7xb~qh/C/)
+
+Delivery Information:
+Attempted Delivery Date: March 27th
+Tracking Number:         82482463
+Delivery Address:        TBD
+
+http://www.elitteblog.com/Lrb-W7xb~fh/C/
+
+--95Z3470ZXT
+Content-Type: text/html; charset="UTF-8"
+Content-transfer-encoding: 8bit
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title></title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #ffffff;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    }
+    table {
+      border-spacing: 0;
+      border-collapse: collapse;
+    }
+    td {
+      padding: 0;
+    }
+    img {
+      border: none;
+      -ms-interpolation-mode: bicubic;
+      max-width: 100%;
+    }
+    .wrapper {
+      width: 100%;
+      table-layout: fixed;
+      background-color: #ffffff;
+      padding-bottom: 30px;
+    }
+    .main {
+      max-width: 600px;
+      margin: 0 auto;
+      background: #ffffff;
+    }
+    .button {
+      border: none;
+      border-radius: 4px;
+      color: #ffffff;
+      padding: 10px 30px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      background-color: #660099;
+    }
+    .delivery-info {
+      background: #eeeeee;
+      padding: 15px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <center class="wrapper">
+    <div class="main" style="padding: 20px; box-shadow: 0px 0px 5px #cccccc;">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>
+            <img src="http://www.elitteblog.com/Lrb-W7xb~yb/V/" alt="" width="600">
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <h1 style="color: #660099; text-align: center;">Delivery Attempt Failed</h1>
+            <p style="color: #333333; text-align: center;">
+              Dear Customer,<br>
+              We regret to inform you that your package delivery by <span style="color: #660099;">FedEx</span> on <span style="color: #660099;">March 27th</span> has been <span style="color: #FF6600;">missed</span> because a <span style="color: #660099;">signature</span> was required.
+            </p>
+            <p style="text-align: center;">
+              To <span style="color: #660099;">receive your package</span>, please <a href="http://www.elitteblog.com/Lrb-W7xb~oh/C/" style="color: #660099; font-weight: bold;">click here to reschedule the delivery</a>.
+            </p>
+            <p style="color: #FF6600; text-align: center;">
+              If you do not reschedule within <strong>24 hours</strong>, the package will be <strong>sent back</strong> to the sender.
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td style="padding: 20px; text-align: center;">
+                  <a href="http://www.elitteblog.com/Lrb-W7xb~oh/C/" class="button">Reschedule Delivery</a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="delivery-info">
+              <tr>
+                <td>Delivery Information:</td>
+              </tr>
+              <tr>
+                <td>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td>Attempted Delivery Date:</td>
+                      <td>March 27th</td>
+                    </tr>
+                    <tr>
+                      <td>Tracking Number:</td>
+                      <td>82482463</td>
+                    </tr>
+                    <tr>
+                      <td>Delivery Address:</td>
+                      <td>TBD</td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding-top: 30px;">
+                           <center> <a href="http://www.elitteblog.com/Lrb-W7xb~fh/C/">
+    <img src="http://www.elitteblog.com/Lrb-W7xb~lb/V/" alt="">
+</a></center>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </center>
+</body>
+</html>
+
+--95Z3470ZXT--
+

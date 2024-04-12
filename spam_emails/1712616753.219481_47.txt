@@ -1,0 +1,1045 @@
+Return-Path: <0107018eb85fbf02-64ac398a-fe29-4805-9a56-612480ebe018-000000@eu-central-1.amazonses.com>
+Delivered-To: untroubl8492-bruce@untroubled.org
+Received: (qmail 162745 invoked from network); 7 Apr 2024 11:44:28 -0000
+Received: from c128-214.smtp-out.eu-central-1.amazonses.com (c128-214.smtp-out.eu-central-1.amazonses.com [76.223.128.214])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Apr 2024 11:44:28 -0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=kn6kz6pmmt42uajlhzec3palj6w7a6j6; d=magazinautoaparare.ro;
+	t=1712490266;
+	h=From:Reply-To:To:Subject:MIME-Version:Content-Type:Message-ID:Date;
+	bh=I2e5kpWvWYZk9Ld9DHcoVm18HgNEQgfZDuJwwetZJDA=;
+	b=EirQn8iAjIoayeFLwM0+xzBuk3CydHnhLwSLNRTg+TJSfyGoL6nm7Astdp0acoQV
+	Mq/issA9EvO3Ga1+GFqxkZ0nwLvH7lehncHpzc4PqELyQ8ptePdc3uSA9+5g1J+nwWB
+	G7ZVcbOHsYIARfYSr8aSqypHl1A97hOx+nJ1HCvKxuQ5Ycc+yxZH2jqqRge8kQlW4j7
+	Nca5xy63td4nTLzHhhpN0fNDzp7iWER6xUj3F4lcMWJQQdwza0sr8RjS6JUUVQH4kiW
+	U1rsoxT13ebCtOhhebMh6OLBI7EdfzkFjOJDeVAqW5OYCGsCghd1RrxnLMchCEuZE/U
+	D93kTtIiGw==
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=qftdzk2dqsatjnlrq4r5brjbihpfcrsh; d=amazonses.com; t=1712490266;
+	h=From:Reply-To:To:Subject:MIME-Version:Content-Type:Message-ID:Date:Feedback-ID;
+	bh=I2e5kpWvWYZk9Ld9DHcoVm18HgNEQgfZDuJwwetZJDA=;
+	b=IR6dZ4LPbhsHKaPNavaGBUFqCPILK1IqQUtXhOTYt4SPMsxaDJBg/psDfSLh5GGi
+	27ZKDd7qaO7NXiTUTRv7BTIXx6KiEIDq8Hc07gnMUJJejWR7K1mCLR0wfeXETCeNnbU
+	+Qx2BSuh/7cr/NhWdFzTv2bl4octxorbA0lS6cm4=
+From: =?utf-8?B?TGFudGVybmEgZGUgQ2Fw?= <contact@magazinautoaparare.ro>
+Reply-To: =?utf-8?B?TGFudGVybmEgZGUgQ2Fw?= <contact@magazinautoaparare.ro>
+To: bruce@untroubled.org
+Subject: =?utf-8?B?UFJPTU9USUUgMiBidWNhdGkgNTkuOTlsZWkgISBVbHRpbWEgemkgZGUgT0ZFUlRB?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_5813389_2104846906.1712490266370"
+Message-ID: <0107018eb85fbf02-64ac398a-fe29-4805-9a56-612480ebe018-000000@eu-central-1.amazonses.com>
+Date: Sun, 7 Apr 2024 11:44:26 +0000
+Feedback-ID: 1.eu-central-1.88BDWEQNPvBjuAwAibdB6Sv6CpMqOecSFAwKrSgf1So=:AmazonSES
+X-SES-Outgoing: 2024.04.07-76.223.128.214
+Content-Length: 74572
+
+------=_Part_5813389_2104846906.1712490266370
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" lang=3D"en"><head><title></title><meta http-equiv=
+=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><meta name=3D"view=
+port" content=3D"width=3Ddevice-width,initial-scale=3D1"><!--[if gte mso 9]=
+><xml> <o:OfficeDocumentSettings> <o:AllowPNG/> <o:PixelsPerInch>96</o:Pixe=
+lsPerInch></o:OfficeDocumentSettings> </xml><![endif]--><!--[if mso]><style=
+ type=3D"text/css"> .container {width: 700px;} .container-default {width: 7=
+00px;}</style><![endif]--><style>* {box-sizing: border-box;} body {margin: =
+0; padding: 0;} a[x-apple-data-detectors] {color: inherit !important;text-d=
+ecoration: inherit !important}  #MessageViewBody a {color: inherit;text-dec=
+oration: none} p {margin-top: 0; margin-right: 0; margin-bottom: 0; margin-=
+left: 0;} table {border-collapse: collapse;mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt; border-spacing: 0;} td {mso-table-lspace: 0pt;mso-table-rspace=
+: 0pt;} .nl-hide-block-on-desktop, .nl-hide-table-on-desktop {mso-hide: all=
+;display: none;} @media (max-width: 520px) {.full_width {width: 100% !impor=
+tant; max-width: 100% !important; display: block;margin: 20px 0 0 0 !import=
+ant; padding: 0 !important;} .product_image_h {max-height: 100px !important=
+;; min-height: 100px !important;; height: 100px !important;} .product_image=
+_h_2 {max-height: 200px !important;; min-height: 200px !important;; height:=
+ 200px !important;} .product_image_h_1 {max-height: 300px !important;; min-=
+height: auto !important;; height: auto !important;} .product_image_v {heigh=
+t: auto !important; min-height: unset !important;} .stacked_row td {width: =
+100% !important;display: block;} .stacked_row_h_auto td {width: 100% !impor=
+tant; height: auto !important; display: block;} .nl-hide-block-on-desktop {=
+mso-hide: none;display: block;} .nl-hide-table-on-desktop {mso-hide: none;d=
+isplay: table;} .nl-hide-on-mobile {display: none;min-height: 0;max-height:=
+ 0;max-width: 0;overflow: hidden;font-size: 0;mso-hide: all;}}</style></hea=
+d><body><div style=3D"display: none; max-height: 0px; overflow: hidden;">Re=
+ducere -80% ! =F0=9F=95=96 Grabeste-te Stocul este Limitat. Compact=C4=83, =
+u=C8=99oar=C4=83 =C8=99i puternic=C4=83, lanterna de cap ofer=C4=83 ilumina=
+re hands-free =C3=AEn orice aventur=C4=83 nocturn=C4=83. Livrare 24-48h pri=
+n curier rapid.</div><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" width=3D"100%" role=3D"presentation" align=3D"center" id=3D"igf2" class=
+=3D"container-default" style=3D"min-height: 300px; max-width: 700px; width:=
+ 100%; box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px 0px; font-family: 'Times=
+ New Roman', Times, serif; font-size: 16px; background-size: auto; backgrou=
+nd-repeat: no-repeat; background-attachment: initial; background-origin: in=
+itial; background-clip: initial; background-color: transparent; background-=
+position: 50%; border-top-width: 1px; border-right-width: 1px; border-botto=
+m-width: 1px; border-left-width: 1px; border-top-style: solid; border-right=
+-style: solid; border-bottom-style: solid; border-left-style: solid; border=
+-top-color: rgba(0, 0, 0, 0.05); border-right-color: rgba(0, 0, 0, 0.05); b=
+order-bottom-color: rgba(0, 0, 0, 0.05); border-left-color: rgba(0, 0, 0, 0=
+.05); border-image-source: initial; border-image-slice: initial; border-ima=
+ge-width: initial; border-image-outset: initial; border-image-repeat: initi=
+al; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: a=
+uto; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-lef=
+t: 0px; margin: 0 auto; padding: 0; mso-table-lspace: 0; mso-table-rspace: =
+0;" bgcolor=3D"transparent"><tbody><tr><td id=3D"ibkg" style=3D"width: 100%=
+; text-align: center;" width=3D"100%" align=3D"center"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" role=3D"presentation" al=
+ign=3D"center" tag=3D"lu6vhjiql75g7j4vel9" id=3D"iqx4" style=3D"width: 100%=
+; max-width: 700px; margin-top: 0px; margin-right: auto; margin-bottom: 0px=
+; margin-left: auto;"><tbody><tr><td id=3D"i47zg" style=3D"text-align: cent=
+er; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left=
+: 0px;" align=3D"center"><a id=3D"lua4etpw8b8l2no09r7" href=3D"https://mktr=
+.magazinautoaparare.ro/act/e/r/c0ae8fa14d0a1808e7a9294c/ccbb5903e2f48bdb0ba=
+915ec/c056d76d2b97cd8fe0a7e2bc/bb6bc5150ecc481ae460775dfd8a6076?mktci=3Dlua=
+4etpw8b8l2no09r7" target=3D"_blank" tag=3D"lua4etpw8b8l2no09r7"><img alt id=
+=3D"ix2ob" src=3D"https://mktr.magazinautoaparare.ro/newsletter-assets/6508=
+4209a35094548e0b7ba6/my-uploads/default-folder/dLojYXecrGuXtWj3liA6vLWjbRJk=
+JomC81hJZwtN.png" width=3D"698" height=3D"698" style=3D"width: auto; max-wi=
+dth: 100%; display: inline-block; height: auto;"></a></td></tr></tbody></ta=
+ble><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" role=3D"present=
+ation" align=3D"center" id=3D"i2c7k" width=3D"100%" class=3D"gjs-f-divider"=
+ style=3D"text-align: center; width: 100%; margin-top: 0px; margin-right: a=
+uto; margin-bottom: 0px; margin-left: auto; max-width: 700px; background-im=
+age: initial; background-position: initial; background-size: initial; backg=
+round-repeat: initial; background-attachment: initial; background-origin: i=
+nitial; background-clip: initial; background-color: transparent;" backgroun=
+d=3D"initial" bgcolor=3D"transparent"><tbody><tr><td valign=3D"middle" id=
+=3D"ii3eg" style=3D"vertical-align: middle; text-align: left; padding-top: =
+10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px;" align=
+=3D"left"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" role=3D"p=
+resentation" align=3D"left" id=3D"iwfzs" style=3D"width: 100%; border-botto=
+m-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(179, 192=
+, 206); text-align: left; margin-top: auto; margin-right: auto; margin-bott=
+om: auto; margin-left: 0px;" width=3D"100%"><tbody><tr><td valign=3D"middle=
+" id=3D"ihwie" style=3D"vertical-align: middle;"><span id=3D"io74r" style=
+=3D"font-family: Arial, Helvetica, 'Helvetica Neue', sans-serif; font-size:=
+ 1px; line-height: 1px;"></span></td></tr></tbody></table></td></tr></tbody=
+></table><table data-comp=3D"button" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" width=3D"100%" align=3D"center" target=3D"_blank" id=3D"icci6" s=
+tyle=3D"width: 100%; margin-top: 0px; margin-right: auto; margin-bottom: 0p=
+x; margin-left: auto; max-width: 700px;"><tbody><tr><td id=3D"ib5ln" style=
+=3D"width: 100%; max-width: 100%; padding-top: 20px; padding-bottom: 20px; =
+background-image: initial; background-position: initial; background-size: i=
+nitial; background-repeat: initial; background-attachment: initial; backgro=
+und-origin: initial; background-clip: initial; background-color: transparen=
+t; text-align: center;" width=3D"100%" background=3D"initial" bgcolor=3D"tr=
+ansparent" align=3D"center"><!--[if mso]>
+                                <v:roundrect xmlns:v=3D"urn:schemas-microso=
+ft-com:vml"
+                                             xmlns:w=3D"urn:schemas-microso=
+ft-com:office:word"
+                                             href=3D"https://www.magazinaut=
+oaparare.ro/lanterne-profesionale?product_id=3D562"
+                                             style=3D"height:49px;width:291=
+px;mso-wrap-style:none; mso-fit-shape-to-text: true;v-text-anchor:middle;"
+                                             arcsize=3D"10%"
+                                             stroke=3D"false"
+                                             fillcolor=3D"transparent"
+                                             >
+                                    <w:anchorlock/>
+                                    <v:textbox inset=3D"0px,0px,0px,0px">
+                                        <center style=3D"color:#0d2c9a; fon=
+t-family:Helvetica, sans-serif; font-size:22px">
+                                <![endif]--><a target=3D"_blank" href=3D"ht=
+tps://mktr.magazinautoaparare.ro/act/e/r/c0ae8fa14d0a1808e7a9294c/ccbb5903e=
+2f48bdb0ba915ec/c056d76d2b97cd8fe0a7e2bc/bb6bc5150ecc481ae460775dfd8a6076?m=
+ktci=3Dlua3n8gdgfyyjopj2fj" id=3D"lua3n8gdgfyyjopj2fj" tag=3D"lua3n8gdgfyyj=
+opj2fj" class=3D"inline-button" style=3D"display: inline-block; border-top-=
+width: 2px; border-right-width: 2px; border-bottom-width: 2px; border-left-=
+width: 2px; border-top-style: solid; border-right-style: solid; border-bott=
+om-style: solid; border-left-style: solid; border-top-color: rgb(13, 44, 15=
+4); border-right-color: rgb(13, 44, 154); border-bottom-color: rgb(13, 44, =
+154); border-left-color: rgb(13, 44, 154); border-image-source: initial; bo=
+rder-image-slice: initial; border-image-width: initial; border-image-outset=
+: initial; border-image-repeat: initial; color: rgb(13, 44, 154); text-alig=
+n: center; max-width: 100%; font-family: Helvetica, sans-serif; font-size: =
+22px; font-weight: 600; text-transform: none; letter-spacing: 4px; padding-=
+top: 5px; padding-right: 20px; padding-bottom: 5px; padding-left: 20px; tex=
+t-decoration-line: none; text-decoration-thickness: initial; text-decoratio=
+n-style: initial; text-decoration-color: initial; border-top-left-radius: 1=
+px; border-top-right-radius: 1px; border-bottom-right-radius: 1px; border-b=
+ottom-left-radius: 1px; white-space-collapse: collapse; text-wrap: wrap; wo=
+rd-break: break-word; background-image: initial; background-position: initi=
+al; background-size: initial; background-repeat: initial; background-attach=
+ment: initial; background-origin: initial; background-clip: initial; backgr=
+ound-color: transparent;">Cumpara acum</a><!--[if mso]></center></v:textbox=
+></v:roundrect><![endif]--></td></tr></tbody></table><table border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" role=3D"presentation" align=3D"center" id=
+=3D"ije89" width=3D"100%" class=3D"gjs-f-divider" style=3D"text-align: cent=
+er; width: 100%; margin-top: 0px; margin-right: auto; margin-bottom: 0px; m=
+argin-left: auto; max-width: 700px; background-image: initial; background-p=
+osition: initial; background-size: initial; background-repeat: initial; bac=
+kground-attachment: initial; background-origin: initial; background-clip: i=
+nitial; background-color: transparent;" background=3D"initial" bgcolor=3D"t=
+ransparent"><tbody><tr><td valign=3D"middle" id=3D"iegaf" style=3D"vertical=
+-align: middle; text-align: left; padding-top: 10px; padding-right: 10px; p=
+adding-bottom: 10px; padding-left: 10px;" align=3D"left"><table border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" role=3D"presentation" align=3D"left" =
+id=3D"ir6kf" style=3D"width: 100%; border-bottom-width: 1px; border-bottom-=
+style: solid; border-bottom-color: rgb(179, 192, 206); text-align: left; ma=
+rgin-top: auto; margin-right: auto; margin-bottom: auto; margin-left: 0px;"=
+ width=3D"100%"><tbody><tr><td valign=3D"middle" id=3D"il5mk" style=3D"vert=
+ical-align: middle;"><span id=3D"ibgeo" style=3D"font-family: Arial, Helvet=
+ica, 'Helvetica Neue', sans-serif; font-size: 1px; line-height: 1px;"></spa=
+n></td></tr></tbody></table></td></tr></tbody></table><table width=3D"100%"=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0" data-size=3D"2" data-comp=
+=3D"g-row" role=3D"presentation" align=3D"center" id=3D"i5nke" style=3D"wid=
+th: 100%; max-width: 700px; margin-top: 1px; margin-right: auto; margin-bot=
+tom: 1px; margin-left: auto; word-break: break-word;"><tbody><tr><td valign=
+=3D"middle" id=3D"irn9f" style=3D"padding-top: 15px; padding-right: 15px; p=
+adding-bottom: 15px; padding-left: 15px; vertical-align: middle; box-sizing=
+: border-box; text-align: left; word-break: break-word; width: 50%;" width=
+=3D"50%" align=3D"left"><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" role=3D"presentation" align=3D"center" tag=3D"lua3qyf=
+zomy9re3pfhg" id=3D"ineu2" style=3D"width: 100%; max-width: 700px; margin-t=
+op: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto;"><tbody=
+><tr><td id=3D"igy8cm" style=3D"text-align: center; padding-top: 0px; paddi=
+ng-right: 0px; padding-bottom: 0px; padding-left: 0px;" align=3D"center"><a=
+ id=3D"lua4etpx503joi4i2wc" href=3D"https://mktr.magazinautoaparare.ro/act/=
+e/r/c0ae8fa14d0a1808e7a9294c/ccbb5903e2f48bdb0ba915ec/c056d76d2b97cd8fe0a7e=
+2bc/bb6bc5150ecc481ae460775dfd8a6076?mktci=3Dlua4etpx503joi4i2wc" target=3D=
+"_blank" tag=3D"lua4etpx503joi4i2wc"><img alt id=3D"idv543" src=3D"https://=
+mktr.magazinautoaparare.ro/newsletter-assets/65084209a35094548e0b7ba6/my-up=
+loads/default-folder/uGVUdrrZTH14B30kVmMOeTmvqBV9DdVzZGsyELye.jpg" width=3D=
+"319" height=3D"319" style=3D"width: auto; max-width: 100%; display: inline=
+-block; height: auto;"></a></td></tr></tbody></table></td><td valign=3D"mid=
+dle" id=3D"iqazy" style=3D"vertical-align: middle; box-sizing: border-box; =
+text-align: left; word-break: break-word; width: 50%; padding-left: 15px; p=
+adding-top: 15px; padding-right: 15px; padding-bottom: 15px; border-top-wid=
+th: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-wid=
+th: 0px; border-top-style: none; border-right-style: none; border-bottom-st=
+yle: none; border-left-style: none; background-image: initial; background-p=
+osition: initial; background-size: initial; background-repeat: initial; bac=
+kground-attachment: initial; background-origin: initial; background-clip: i=
+nitial; background-color: transparent; border-top-color: transparent; borde=
+r-right-color: transparent; border-bottom-color: transparent; border-left-c=
+olor: transparent;" width=3D"50%" align=3D"left" background=3D"initial" bgc=
+olor=3D"transparent"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" width=3D"100%" role=3D"presentation" align=3D"center" tag=3D"lua3qyfzomy9=
+re3pfhg" id=3D"iupv1" style=3D"width: 100%; max-width: 700px; margin-top: 0=
+px; margin-right: auto; margin-bottom: 0px; margin-left: auto;"><tbody><tr>=
+<td id=3D"i4lvvz" style=3D"text-align: center; padding-top: 0px; padding-ri=
+ght: 0px; padding-bottom: 0px; padding-left: 0px;" align=3D"center"><a id=
+=3D"lua4etpxoujyq6iod9n" href=3D"https://mktr.magazinautoaparare.ro/act/e/r=
+/c0ae8fa14d0a1808e7a9294c/ccbb5903e2f48bdb0ba915ec/c056d76d2b97cd8fe0a7e2bc=
+/bb6bc5150ecc481ae460775dfd8a6076?mktci=3Dlua4etpxoujyq6iod9n" target=3D"_b=
+lank" tag=3D"lua4etpxoujyq6iod9n"><img alt id=3D"ihwmxu" src=3D"https://mkt=
+r.magazinautoaparare.ro/newsletter-assets/65084209a35094548e0b7ba6/my-uploa=
+ds/default-folder/Nn9DJjKp4zdM0YYkcLmpn7ARIBz0zovmW7sifRrF.jpg" width=3D"31=
+9" height=3D"319" style=3D"width: auto; max-width: 100%; display: inline-bl=
+ock; height: auto;"></a></td></tr></tbody></table></td></tr></tbody></table=
+><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" dat=
+a-size=3D"2" data-comp=3D"g-row" role=3D"presentation" align=3D"center" id=
+=3D"i7rp3" style=3D"width: 100%; max-width: 700px; margin-top: 1px; margin-=
+right: auto; margin-bottom: 1px; margin-left: auto; word-break: break-word;=
+"><tbody><tr><td valign=3D"middle" id=3D"i65zy" style=3D"padding-top: 15px;=
+ padding-right: 15px; padding-bottom: 15px; padding-left: 15px; vertical-al=
+ign: middle; box-sizing: border-box; text-align: left; word-break: break-wo=
+rd; width: 50%;" width=3D"50%" align=3D"left"><table border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0" width=3D"100%" role=3D"presentation" align=3D"ce=
+nter" tag=3D"lua3qyfzomy9re3pfhg" id=3D"i76vn" style=3D"width: 100%; max-wi=
+dth: 700px; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin=
+-left: auto;"><tbody><tr><td id=3D"i5psdr" style=3D"text-align: center; pad=
+ding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;"=
+ align=3D"center"><a id=3D"lua4etpyhmwsgbkmxmm" href=3D"https://mktr.magazi=
+nautoaparare.ro/act/e/r/c0ae8fa14d0a1808e7a9294c/ccbb5903e2f48bdb0ba915ec/c=
+056d76d2b97cd8fe0a7e2bc/bb6bc5150ecc481ae460775dfd8a6076?mktci=3Dlua4etpyhm=
+wsgbkmxmm" target=3D"_blank" tag=3D"lua4etpyhmwsgbkmxmm"><img alt id=3D"ik0=
+yrh" src=3D"https://mktr.magazinautoaparare.ro/newsletter-assets/65084209a3=
+5094548e0b7ba6/my-uploads/default-folder/yYnZXPYDUqrS2vjUlDciUIFsxO8xAACpZh=
+Q4o1gG.jpg" width=3D"319" height=3D"319" style=3D"width: auto; max-width: 1=
+00%; display: inline-block; height: auto;"></a></td></tr></tbody></table></=
+td><td valign=3D"middle" id=3D"ikz5j" style=3D"padding-top: 15px; padding-r=
+ight: 15px; padding-bottom: 15px; padding-left: 15px; vertical-align: middl=
+e; box-sizing: border-box; text-align: left; word-break: break-word; width:=
+ 50%;" width=3D"50%" align=3D"left"><table border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" width=3D"100%" role=3D"presentation" align=3D"center" tag=
+=3D"lua3qyfzomy9re3pfhg" id=3D"ii92m" style=3D"width: 100%; max-width: 700p=
+x; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: au=
+to;"><tbody><tr><td id=3D"ib38vl" style=3D"text-align: center; padding-top:=
+ 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;" align=3D=
+"center"><a id=3D"lua4etpyw7ujtcwhcqs" href=3D"https://mktr.magazinautoapar=
+are.ro/act/e/r/c0ae8fa14d0a1808e7a9294c/ccbb5903e2f48bdb0ba915ec/c056d76d2b=
+97cd8fe0a7e2bc/bb6bc5150ecc481ae460775dfd8a6076?mktci=3Dlua4etpyw7ujtcwhcqs=
+" target=3D"_blank" tag=3D"lua4etpyw7ujtcwhcqs"><img alt id=3D"i2f2bw" src=
+=3D"https://mktr.magazinautoaparare.ro/newsletter-assets/65084209a35094548e=
+0b7ba6/my-uploads/default-folder/cdQCNSvaStcjkDAmTPDhOZjetPX63dk87TNxHchc.j=
+pg" width=3D"319" height=3D"319" style=3D"width: auto; max-width: 100%; dis=
+play: inline-block; height: auto;"></a></td></tr></tbody></table></td></tr>=
+</tbody></table><div id=3D"in1an" style=3D"text-size-adjust: none; font-siz=
+e: 16px; box-sizing: border-box; font-family: Arial, Helvetica, sans-serif;=
+ line-height: 120%; font-weight: 400; letter-spacing: 0px; word-break: brea=
+k-word; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; paddi=
+ng-left: 10px; color: rgb(0, 0, 0); background-color: transparent;"><p><str=
+ong>Iluminat smart de ultima generatie</strong></p>
+
+<p>Lanterna cu led-uri lumineaza imprejurimile mult mai bine decat orice la=
+nterna traditionala.<br>
+Led-ul COB amplasat pe frunte are un unghi larg cu o acoperire de 230 grade=
+, iar led-ul XPE amplasat in zona tamplei drepte atinge o distanta de pana =
+la 100m.<br>
+Senzorul incorporat permite aprinderea si stingerea lanternei fara sa o ati=
+ngeti, aspect foarte util atunci cand purtati manusi sau sunteti murdar pe =
+maini.</p>
+</div><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%=
+" role=3D"presentation" align=3D"center" tag=3D"lu6vhjiql75g7j4vel9" id=3D"=
+iyedl" style=3D"width: 100%; max-width: 700px; margin-top: 0px; margin-righ=
+t: auto; margin-bottom: 0px; margin-left: auto;"><tbody><tr><td id=3D"i4p2g=
+" style=3D"text-align: center; padding-top: 0px; padding-right: 0px; paddin=
+g-bottom: 0px; padding-left: 0px;" align=3D"center"><a id=3D"lua4etpyo169w0=
+m1fsi" href=3D"https://mktr.magazinautoaparare.ro/act/e/r/c0ae8fa14d0a1808e=
+7a9294c/ccbb5903e2f48bdb0ba915ec/c056d76d2b97cd8fe0a7e2bc/bb6bc5150ecc481ae=
+460775dfd8a6076?mktci=3Dlua4etpyo169w0m1fsi" target=3D"_blank" tag=3D"lua4e=
+tpyo169w0m1fsi"><img alt id=3D"ibug5" src=3D"https://mktr.magazinautoaparar=
+e.ro/newsletter-assets/65084209a35094548e0b7ba6/my-uploads/default-folder/I=
+KolaA7s4XQRysKGTHxWshv6gnLdT9KEJQD18njU.png" width=3D"698" height=3D"344" s=
+tyle=3D"width: auto; max-width: 100%; display: inline-block; height: auto;"=
+></a></td></tr></tbody></table><table width=3D"100%" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0" data-size=3D"4" data-comp=3D"g-row" role=3D"pres=
+entation" align=3D"center" id=3D"it8vb" style=3D"width: 100%; max-width: 70=
+0px; margin-top: 1px; margin-right: auto; margin-bottom: 1px; margin-left: =
+auto; word-break: break-word;"><tbody><tr><td valign=3D"middle" id=3D"ip5yh=
+" style=3D"padding-top: 15px; padding-right: 15px; padding-bottom: 15px; pa=
+dding-left: 15px; vertical-align: middle; box-sizing: border-box; text-alig=
+n: left; word-break: break-word; width: 25%; border-top-width: 0px; border-=
+right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-=
+top-style: none; border-right-style: none; border-bottom-style: none; borde=
+r-left-style: none; background-image: initial; background-position: initial=
+; background-size: initial; background-repeat: initial; background-attachme=
+nt: initial; background-origin: initial; background-clip: initial; backgrou=
+nd-color: transparent; border-top-color: transparent; border-right-color: t=
+ransparent; border-bottom-color: transparent; border-left-color: transparen=
+t;" width=3D"25%" align=3D"left" background=3D"initial" bgcolor=3D"transpar=
+ent"></td><td valign=3D"middle" id=3D"il32g" style=3D"padding-top: 15px; pa=
+dding-right: 15px; padding-bottom: 15px; padding-left: 15px; vertical-align=
+: middle; box-sizing: border-box; text-align: left; word-break: break-word;=
+ width: 25%;" width=3D"25%" align=3D"left"></td><td valign=3D"middle" id=3D=
+"iakeb" style=3D"padding-top: 15px; padding-right: 15px; padding-bottom: 15=
+px; padding-left: 15px; vertical-align: middle; box-sizing: border-box; tex=
+t-align: left; word-break: break-word; width: 25%;" width=3D"25%" align=3D"=
+left"></td><td valign=3D"middle" id=3D"i5ekg" style=3D"vertical-align: midd=
+le; box-sizing: border-box; text-align: left; word-break: break-word; width=
+: 25%; padding-left: 15px; padding-top: 15px; padding-right: 15px; padding-=
+bottom: 15px; border-top-width: 0px; border-right-width: 0px; border-bottom=
+-width: 0px; border-left-width: 0px; border-top-style: none; border-right-s=
+tyle: none; border-bottom-style: none; border-left-style: none; background-=
+image: initial; background-position: initial; background-size: initial; bac=
+kground-repeat: initial; background-attachment: initial; background-origin:=
+ initial; background-clip: initial; background-color: transparent; border-t=
+op-color: transparent; border-right-color: transparent; border-bottom-color=
+: transparent; border-left-color: transparent;" width=3D"25%" align=3D"left=
+" background=3D"initial" bgcolor=3D"transparent"></td></tr></tbody></table>=
+<div id=3D"idukv" style=3D"text-size-adjust: none; font-size: 16px; box-siz=
+ing: border-box; font-family: Arial, Helvetica, sans-serif; line-height: 12=
+0%; font-weight: 400; letter-spacing: 0px; word-break: break-word; padding-=
+top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; c=
+olor: rgb(0, 0, 0); background-color: transparent;"><p><strong>Adaptabila s=
+i confortabila</strong></p>
+
+<p>Realizata din silicon moale este foarte elastica si ajustabila in lungim=
+e fiind potrivita pentru orice circumferinta a capului. Se poate regla si p=
+urta peste palarii sau casti de protectie.<br>
+Extrem de usoara si confortabila nu va ingreuna capul, putand fi purtata or=
+e in sir, inclusiv de copii.<br>
+Lanterna este reincarcabila prin cablul USB inclus in pachet.<br>
+O aditie exceptionala pentru orice gospodarie sau kit de urgenta.</p>
+</div><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" data-size=3D"2" data-comp=3D"g-row" role=3D"presentation" align=3D"center=
+" id=3D"icibap" style=3D"width: 100%; max-width: 700px; margin-top: 1px; ma=
+rgin-right: auto; margin-bottom: 1px; margin-left: auto; word-break: break-=
+word;"><tbody><tr><td valign=3D"middle" id=3D"ivbv5u" style=3D"padding-top:=
+ 15px; padding-right: 15px; padding-bottom: 15px; padding-left: 15px; verti=
+cal-align: middle; box-sizing: border-box; text-align: left; word-break: br=
+eak-word; width: 50%;" width=3D"50%" align=3D"left"><table border=3D"0" cel=
+lspacing=3D"0" cellpadding=3D"0" width=3D"100%" role=3D"presentation" align=
+=3D"center" tag=3D"lua3qyfzomy9re3pfhg" id=3D"i59ntj" style=3D"width: 100%;=
+ max-width: 700px; margin-top: 0px; margin-right: auto; margin-bottom: 0px;=
+ margin-left: auto;"><tbody><tr><td id=3D"ibycdq" style=3D"text-align: cent=
+er; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left=
+: 0px;" align=3D"center"><a id=3D"lua4etpzjl0ihr17ua" href=3D"https://mktr.=
+magazinautoaparare.ro/act/e/r/c0ae8fa14d0a1808e7a9294c/ccbb5903e2f48bdb0ba9=
+15ec/c056d76d2b97cd8fe0a7e2bc/bb6bc5150ecc481ae460775dfd8a6076?mktci=3Dlua4=
+etpzjl0ihr17ua" target=3D"_blank" tag=3D"lua4etpzjl0ihr17ua"><img alt id=3D=
+"iu7vrj" src=3D"https://mktr.magazinautoaparare.ro/newsletter-assets/650842=
+09a35094548e0b7ba6/my-uploads/default-folder/RlAGuAWUselsPTzhZgvqMWHNgxacVI=
+YM4qkpu9fc.jpg" width=3D"319" height=3D"319" style=3D"width: auto; max-widt=
+h: 100%; display: inline-block; height: auto;"></a></td></tr></tbody></tabl=
+e></td><td valign=3D"middle" id=3D"iimvii" style=3D"padding-top: 15px; padd=
+ing-right: 15px; padding-bottom: 15px; padding-left: 15px; vertical-align: =
+middle; box-sizing: border-box; text-align: left; word-break: break-word; w=
+idth: 50%;" width=3D"50%" align=3D"left"><table border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" width=3D"100%" role=3D"presentation" align=3D"center"=
+ tag=3D"lua3qyfzomy9re3pfhg" id=3D"ij3eog" style=3D"width: 100%; max-width:=
+ 700px; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-lef=
+t: auto;"><tbody><tr><td id=3D"idy8rk" style=3D"text-align: center; padding=
+-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;" ali=
+gn=3D"center"><a id=3D"lua4etpzlcny4eich8j" href=3D"https://mktr.magazinaut=
+oaparare.ro/act/e/r/c0ae8fa14d0a1808e7a9294c/ccbb5903e2f48bdb0ba915ec/c056d=
+76d2b97cd8fe0a7e2bc/bb6bc5150ecc481ae460775dfd8a6076?mktci=3Dlua4etpzlcny4e=
+ich8j" target=3D"_blank" tag=3D"lua4etpzlcny4eich8j"><img alt id=3D"iwmkfa"=
+ src=3D"https://mktr.magazinautoaparare.ro/newsletter-assets/65084209a35094=
+548e0b7ba6/my-uploads/default-folder/ySfPWnvRSHfdJI1myBfJcF9TK1EUlvNkFBJLKp=
+B4.jpg" width=3D"319" height=3D"319" style=3D"width: auto; max-width: 100%;=
+ display: inline-block; height: auto;"></a></td></tr></tbody></table></td><=
+/tr></tbody></table><table width=3D"100%" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" data-size=3D"3" data-comp=3D"g-row" role=3D"presentation" a=
+lign=3D"center" id=3D"ivzsop" style=3D"width: 100%; max-width: 700px; margi=
+n-top: 1px; margin-right: auto; margin-bottom: 1px; margin-left: auto; word=
+-break: break-word;"><tbody><tr><td valign=3D"middle" id=3D"igaud8" style=
+=3D"padding-top: 15px; padding-right: 15px; padding-bottom: 15px; padding-l=
+eft: 15px; vertical-align: middle; box-sizing: border-box; text-align: left=
+; word-break: break-word; width: 33.33%; border-top-width: 0px; border-righ=
+t-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-=
+style: none; border-right-style: none; border-bottom-style: none; border-le=
+ft-style: none; background-image: initial; background-position: initial; ba=
+ckground-size: initial; background-repeat: initial; background-attachment: =
+initial; background-origin: initial; background-clip: initial; background-c=
+olor: transparent; border-top-color: transparent; border-right-color: trans=
+parent; border-bottom-color: transparent; border-left-color: transparent;" =
+width=3D"33.33%" align=3D"left" background=3D"initial" bgcolor=3D"transpare=
+nt"><div id=3D"iu4c1l" style=3D"text-size-adjust: none; font-size: 16px; bo=
+x-sizing: border-box; font-family: Arial, Helvetica, sans-serif; line-heigh=
+t: 120%; font-weight: 400; letter-spacing: 0px; word-break: break-word; pad=
+ding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10=
+px; color: rgb(0, 0, 0); background-color: transparent;"><p><strong>Senzor =
+incorporat</strong><br>
+Aprindeti si stingeti lumina prin intermediul senzorului, fara sa atingeti =
+lanterna. Fluturati mana in dreptul senzorului pentru control.</p>
+</div></td><td valign=3D"middle" id=3D"ihzaxr" style=3D"padding-top: 15px; =
+padding-right: 15px; padding-bottom: 15px; padding-left: 15px; vertical-ali=
+gn: middle; box-sizing: border-box; text-align: left; word-break: break-wor=
+d; width: 33.33%; border-top-width: 0px; border-right-width: 0px; border-bo=
+ttom-width: 0px; border-left-width: 0px; border-top-style: none; border-rig=
+ht-style: none; border-bottom-style: none; border-left-style: none; backgro=
+und-image: initial; background-position: initial; background-size: initial;=
+ background-repeat: initial; background-attachment: initial; background-ori=
+gin: initial; background-clip: initial; background-color: transparent; bord=
+er-top-color: transparent; border-right-color: transparent; border-bottom-c=
+olor: transparent; border-left-color: transparent;" width=3D"33.33%" align=
+=3D"left" background=3D"initial" bgcolor=3D"transparent"><div id=3D"iflzh6"=
+ style=3D"text-size-adjust: none; font-size: 16px; box-sizing: border-box; =
+font-family: Arial, Helvetica, sans-serif; line-height: 120%; font-weight: =
+400; letter-spacing: 0px; word-break: break-word; padding-top: 10px; paddin=
+g-right: 10px; padding-bottom: 10px; padding-left: 10px; color: rgb(0, 0, 0=
+); background-color: transparent;"><p><strong>Pliabila, mica si portabila</=
+strong><br>
+Lanterna este realizata din material moale si flexibil. Impaturita devine m=
+ai mica decat palma si incape in orice buzunar.</p>
+</div></td><td valign=3D"middle" id=3D"iq9tfp" style=3D"vertical-align: mid=
+dle; box-sizing: border-box; text-align: left; word-break: break-word; widt=
+h: 33.33%; padding-left: 15px; padding-top: 15px; padding-right: 15px; padd=
+ing-bottom: 15px; border-top-width: 0px; border-right-width: 0px; border-bo=
+ttom-width: 0px; border-left-width: 0px; border-top-style: none; border-rig=
+ht-style: none; border-bottom-style: none; border-left-style: none; backgro=
+und-image: initial; background-position: initial; background-size: initial;=
+ background-repeat: initial; background-attachment: initial; background-ori=
+gin: initial; background-clip: initial; background-color: transparent; back=
+ground: transparent; border-top-color: transparent; border-right-color: tra=
+nsparent; border-bottom-color: transparent; border-left-color: transparent;=
+" width=3D"33.33%" align=3D"left" background=3D"initial" bgcolor=3D"transpa=
+rent"><div id=3D"i57jb7" style=3D"padding: 10px; text-size-adjust: none; -w=
+ebkit-text-size-adjust: none; font-size: 16px; box-sizing: border-box; font=
+-family: Arial, Helvetica, sans-serif; line-height: 120%; font-weight: 400;=
+ letter-spacing: 0px; word-break: break-word;"><p><strong>Adaptabila si con=
+fortabila</strong></p>
+
+<p>Realizata din silicon moale este foarte elastica si ajustabila in lungim=
+e fiind potrivita pentru orice circumferinta a capului.</p>
+</div></td></tr></tbody></table><table border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" width=3D"100%" role=3D"presentation" align=3D"center" tag=3D"l=
+ua3qyfzomy9re3pfhg" id=3D"io4agq" style=3D"width: 100%; max-width: 700px; m=
+argin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto;"=
+><tbody><tr><td id=3D"iakp9f" style=3D"text-align: center; padding-top: 0px=
+; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;" align=3D"cen=
+ter"><a id=3D"lua4etpzmyra8u0vvsn" href=3D"https://mktr.magazinautoaparare.=
+ro/act/e/r/c0ae8fa14d0a1808e7a9294c/ccbb5903e2f48bdb0ba915ec/c056d76d2b97cd=
+8fe0a7e2bc/bb6bc5150ecc481ae460775dfd8a6076?mktci=3Dlua4etpzmyra8u0vvsn" ta=
+rget=3D"_blank" tag=3D"lua4etpzmyra8u0vvsn"><img alt id=3D"iw7fka" src=3D"h=
+ttps://mktr.magazinautoaparare.ro/newsletter-assets/65084209a35094548e0b7ba=
+6/my-uploads/default-folder/qpd0N3vCLzy6WNtU9mXTm8WYXVa0jLGmi9rwO4hc.jpg" w=
+idth=3D"698" height=3D"698" style=3D"width: auto; max-width: 100%; display:=
+ inline-block; height: auto;"></a></td></tr></tbody></table><table width=3D=
+"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" role=3D"presentatio=
+n" align=3D"center" data-comp=3D"footer" id=3D"ic5ml" class=3D"footer" styl=
+e=3D"text-align: center; width: 100%; margin-top: 0px; margin-right: auto; =
+margin-bottom: 0px; margin-left: auto; max-width: 700px; background-image: =
+initial; background-position: initial; background-size: initial; background=
+-repeat: initial; background-attachment: initial; background-origin: initia=
+l; background-clip: initial; background-color: rgb(242, 242, 242);" backgro=
+und=3D"initial" bgcolor=3D"rgb(242, 242, 242)"><tbody><tr><td valign=3D"mid=
+dle" id=3D"lua4djucrgibktkp1z" style=3D"vertical-align: middle; width: 100%=
+; padding: 25px 0;" width=3D"100%"><table cellspacing=3D"0" cellpadding=3D"=
+0" width=3D"100%" id=3D"i4x0yk" style=3D"width: 100%; border: 0; padding: 2=
+0px 0; text-align: center; background: transparent;" align=3D"center"><tbod=
+y><tr><td id=3D"impeo9" style=3D"padding: 15px 0 10px 0; width: 100%; text-=
+align: center;" width=3D"100%" align=3D"center"><a href=3D"mailto:contact@m=
+agazinautoaparare.ro?mktci=3Dlua4djucrgibktkp1z" tag=3D"lua4djucrgibktkp1z"=
+ id=3D"iepv1v" style=3D"display: inline-block; text-align: left; font-size:=
+ 16px; line-height: 16px; font-family: Arial, Helvetica, sans-serif; color:=
+ #000000; font-weight: 500; letter-spacing: 0px; text-decoration: none; tex=
+t-transform: none; margin-left: 0;">contact@magazinautoaparare.ro</a></td><=
+/tr><tr><td id=3D"itvzis" style=3D"width: 100%; text-align: center; margin:=
+ 0 auto;" width=3D"100%" align=3D"center"><span id=3D"footer-unsubscribe-te=
+xt" class=3D"gjs_footer_unsub" style=3D"font-family: Arial, Helvetica, sans=
+-serif; font-size: 14px; margin: 0 auto; display: inline-block; max-width: =
+90%; color: #656565; font-weight: 500; letter-spacing: 0px; text-decoration=
+: none; text-transform: none; line-height: 14px; text-align: center;">Dac=
+=C4=83 dori=C8=9Bi s=C4=83 v=C4=83 dezabona=C8=9Bi, face=C8=9Bi clic <a hre=
+f=3D"https://mktr.magazinautoaparare.ro/act/e/u/c0ae8fa14d0a1808e7a9294c/cc=
+bb5903e2f48bdb0ba915ec/c056d76d2b97cd8fe0a7e2bc?mktci=3Dlua4djucrgibktkp1z"=
+ tag=3D"lua4djucrgibktkp1z" class=3D"gjs-footer-unsub" id=3D"imjt6i" style=
+=3D"text-transform: none; display: inline-block; text-align: left; font-siz=
+e: 14px; line-height: 14px; font-family: Arial, Helvetica, sans-serif; colo=
+r: #656565; font-weight: 500; letter-spacing: 0px; text-decoration: underli=
+ne;">Aici</a></span></td></tr><tr><td id=3D"i2puwx" style=3D"width: 100%; t=
+ext-align: center; margin: 0 auto;" width=3D"100%" align=3D"center"><span i=
+d=3D"footer-view-in-browser-text" class=3D"gjs_footer_view_in_browser" styl=
+e=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px; margin: 0 =
+auto; display: inline-block; max-width: 90%; color: #656565; font-weight: 5=
+00; letter-spacing: 0px; text-decoration: none; text-transform: none; line-=
+height: 14px; text-align: center;">Vizualiza=C8=9Bi acest e-mail ca <a href=
+=3D"https://mktr.magazinautoaparare.ro/act/e/v/c0ae8fa14d0a1808e7a9294c/ccb=
+b5903e2f48bdb0ba915ec/c056d76d2b97cd8fe0a7e2bc?mktdi=3Dccbb5903e2f48bdb0ba9=
+15ec&amp;mktci=3Dlua4djucrgibktkp1z" tag=3D"lua4djucrgibktkp1z" class=3D"gj=
+s-footer-view-b" id=3D"imma4x" style=3D"display: inline-block; text-align: =
+left; font-size: 14px; line-height: 14px; font-family: Arial, Helvetica, sa=
+ns-serif; color: #656565; font-weight: 500; letter-spacing: 0px; text-decor=
+ation: underline; text-transform: none;">pagin=C4=83 web</a></span></td></t=
+r></tbody></table></td></tr></tbody></table></td></tr></tbody></table><styl=
+e>* {box-sizing: border-box;} body {margin: 0; padding: 0;} a[x-apple-data-=
+detectors] {color: inherit !important;text-decoration: inherit !important} =
+ #MessageViewBody a {color: inherit;text-decoration: none} p {margin-top: 0=
+; margin-right: 0; margin-bottom: 0; margin-left: 0;} table {border-collaps=
+e: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt; border-spacing: 0;=
+} td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;} .nl-hide-block-on-deskt=
+op, .nl-hide-table-on-desktop {mso-hide: all;display: none;} @media (max-wi=
+dth: 520px) {.full_width {width: 100% !important; max-width: 100% !importan=
+t; display: block;margin: 20px 0 0 0 !important; padding: 0 !important;} .p=
+roduct_image_h {max-height: 100px !important;; min-height: 100px !important=
+;; height: 100px !important;} .product_image_h_2 {max-height: 200px !import=
+ant;; min-height: 200px !important;; height: 200px !important;} .product_im=
+age_h_1 {max-height: 300px !important;; min-height: auto !important;; heigh=
+t: auto !important;} .product_image_v {height: auto !important; min-height:=
+ unset !important;} .stacked_row td {width: 100% !important;display: block;=
+} .stacked_row_h_auto td {width: 100% !important; height: auto !important; =
+display: block;} .nl-hide-block-on-desktop {mso-hide: none;display: block;}=
+ .nl-hide-table-on-desktop {mso-hide: none;display: table;} .nl-hide-on-mob=
+ile {display: none;min-height: 0;max-height: 0;max-width: 0;overflow: hidde=
+n;font-size: 0;mso-hide: all;}}</style></body><img src=3D"https://mktr.maga=
+zinautoaparare.ro/act/e/o/c0ae8fa14d0a1808e7a9294c/ccbb5903e2f48bdb0ba915ec=
+/c056d76d2b97cd8fe0a7e2bc" alt=3D"" style=3D"display: none; width: 1px; hei=
+ght: 1px;"></html>
+
+------=_Part_5813389_2104846906.1712490266370
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" lang=3D"en"><head><title></title><meta http-equiv=
+=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><meta name=3D"view=
+port" content=3D"width=3Ddevice-width,initial-scale=3D1"><!--[if gte mso 9]=
+><xml> <o:OfficeDocumentSettings> <o:AllowPNG/> <o:PixelsPerInch>96</o:Pixe=
+lsPerInch></o:OfficeDocumentSettings> </xml><![endif]--><!--[if mso]><style=
+ type=3D"text/css"> .container {width: 700px;} .container-default {width: 7=
+00px;}</style><![endif]--><style>* {box-sizing: border-box;} body {margin: =
+0; padding: 0;} a[x-apple-data-detectors] {color: inherit !important;text-d=
+ecoration: inherit !important}  #MessageViewBody a {color: inherit;text-dec=
+oration: none} p {margin-top: 0; margin-right: 0; margin-bottom: 0; margin-=
+left: 0;} table {border-collapse: collapse;mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt; border-spacing: 0;} td {mso-table-lspace: 0pt;mso-table-rspace=
+: 0pt;} .nl-hide-block-on-desktop, .nl-hide-table-on-desktop {mso-hide: all=
+;display: none;} @media (max-width: 520px) {.full_width {width: 100% !impor=
+tant; max-width: 100% !important; display: block;margin: 20px 0 0 0 !import=
+ant; padding: 0 !important;} .product_image_h {max-height: 100px !important=
+;; min-height: 100px !important;; height: 100px !important;} .product_image=
+_h_2 {max-height: 200px !important;; min-height: 200px !important;; height:=
+ 200px !important;} .product_image_h_1 {max-height: 300px !important;; min-=
+height: auto !important;; height: auto !important;} .product_image_v {heigh=
+t: auto !important; min-height: unset !important;} .stacked_row td {width: =
+100% !important;display: block;} .stacked_row_h_auto td {width: 100% !impor=
+tant; height: auto !important; display: block;} .nl-hide-block-on-desktop {=
+mso-hide: none;display: block;} .nl-hide-table-on-desktop {mso-hide: none;d=
+isplay: table;} .nl-hide-on-mobile {display: none;min-height: 0;max-height:=
+ 0;max-width: 0;overflow: hidden;font-size: 0;mso-hide: all;}}</style></hea=
+d><body><div style=3D"display: none; max-height: 0px; overflow: hidden;">Re=
+ducere -80% ! =F0=9F=95=96 Grabeste-te Stocul este Limitat. Compact=C4=83, =
+u=C8=99oar=C4=83 =C8=99i puternic=C4=83, lanterna de cap ofer=C4=83 ilumina=
+re hands-free =C3=AEn orice aventur=C4=83 nocturn=C4=83. Livrare 24-48h pri=
+n curier rapid.</div><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" width=3D"100%" role=3D"presentation" align=3D"center" id=3D"igf2" class=
+=3D"container-default" style=3D"min-height: 300px; max-width: 700px; width:=
+ 100%; box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px 0px; font-family: 'Times=
+ New Roman', Times, serif; font-size: 16px; background-size: auto; backgrou=
+nd-repeat: no-repeat; background-attachment: initial; background-origin: in=
+itial; background-clip: initial; background-color: transparent; background-=
+position: 50%; border-top-width: 1px; border-right-width: 1px; border-botto=
+m-width: 1px; border-left-width: 1px; border-top-style: solid; border-right=
+-style: solid; border-bottom-style: solid; border-left-style: solid; border=
+-top-color: rgba(0, 0, 0, 0.05); border-right-color: rgba(0, 0, 0, 0.05); b=
+order-bottom-color: rgba(0, 0, 0, 0.05); border-left-color: rgba(0, 0, 0, 0=
+.05); border-image-source: initial; border-image-slice: initial; border-ima=
+ge-width: initial; border-image-outset: initial; border-image-repeat: initi=
+al; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: a=
+uto; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-lef=
+t: 0px; margin: 0 auto; padding: 0; mso-table-lspace: 0; mso-table-rspace: =
+0;" bgcolor=3D"transparent"><tbody><tr><td id=3D"ibkg" style=3D"width: 100%=
+; text-align: center;" width=3D"100%" align=3D"center"><table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" role=3D"presentation" al=
+ign=3D"center" tag=3D"lu6vhjiql75g7j4vel9" id=3D"iqx4" style=3D"width: 100%=
+; max-width: 700px; margin-top: 0px; margin-right: auto; margin-bottom: 0px=
+; margin-left: auto;"><tbody><tr><td id=3D"i47zg" style=3D"text-align: cent=
+er; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left=
+: 0px;" align=3D"center"><a id=3D"lua4etpw8b8l2no09r7" href=3D"https://mktr=
+.magazinautoaparare.ro/act/e/r/c0ae8fa14d0a1808e7a9294c/ccbb5903e2f48bdb0ba=
+915ec/c056d76d2b97cd8fe0a7e2bc/bb6bc5150ecc481ae460775dfd8a6076?mktci=3Dlua=
+4etpw8b8l2no09r7" target=3D"_blank" tag=3D"lua4etpw8b8l2no09r7"><img alt id=
+=3D"ix2ob" src=3D"https://mktr.magazinautoaparare.ro/newsletter-assets/6508=
+4209a35094548e0b7ba6/my-uploads/default-folder/dLojYXecrGuXtWj3liA6vLWjbRJk=
+JomC81hJZwtN.png" width=3D"698" height=3D"698" style=3D"width: auto; max-wi=
+dth: 100%; display: inline-block; height: auto;"></a></td></tr></tbody></ta=
+ble><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" role=3D"present=
+ation" align=3D"center" id=3D"i2c7k" width=3D"100%" class=3D"gjs-f-divider"=
+ style=3D"text-align: center; width: 100%; margin-top: 0px; margin-right: a=
+uto; margin-bottom: 0px; margin-left: auto; max-width: 700px; background-im=
+age: initial; background-position: initial; background-size: initial; backg=
+round-repeat: initial; background-attachment: initial; background-origin: i=
+nitial; background-clip: initial; background-color: transparent;" backgroun=
+d=3D"initial" bgcolor=3D"transparent"><tbody><tr><td valign=3D"middle" id=
+=3D"ii3eg" style=3D"vertical-align: middle; text-align: left; padding-top: =
+10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px;" align=
+=3D"left"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" role=3D"p=
+resentation" align=3D"left" id=3D"iwfzs" style=3D"width: 100%; border-botto=
+m-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(179, 192=
+, 206); text-align: left; margin-top: auto; margin-right: auto; margin-bott=
+om: auto; margin-left: 0px;" width=3D"100%"><tbody><tr><td valign=3D"middle=
+" id=3D"ihwie" style=3D"vertical-align: middle;"><span id=3D"io74r" style=
+=3D"font-family: Arial, Helvetica, 'Helvetica Neue', sans-serif; font-size:=
+ 1px; line-height: 1px;"></span></td></tr></tbody></table></td></tr></tbody=
+></table><table data-comp=3D"button" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" width=3D"100%" align=3D"center" target=3D"_blank" id=3D"icci6" s=
+tyle=3D"width: 100%; margin-top: 0px; margin-right: auto; margin-bottom: 0p=
+x; margin-left: auto; max-width: 700px;"><tbody><tr><td id=3D"ib5ln" style=
+=3D"width: 100%; max-width: 100%; padding-top: 20px; padding-bottom: 20px; =
+background-image: initial; background-position: initial; background-size: i=
+nitial; background-repeat: initial; background-attachment: initial; backgro=
+und-origin: initial; background-clip: initial; background-color: transparen=
+t; text-align: center;" width=3D"100%" background=3D"initial" bgcolor=3D"tr=
+ansparent" align=3D"center"><!--[if mso]>
+                                <v:roundrect xmlns:v=3D"urn:schemas-microso=
+ft-com:vml"
+                                             xmlns:w=3D"urn:schemas-microso=
+ft-com:office:word"
+                                             href=3D"https://www.magazinaut=
+oaparare.ro/lanterne-profesionale?product_id=3D562"
+                                             style=3D"height:49px;width:291=
+px;mso-wrap-style:none; mso-fit-shape-to-text: true;v-text-anchor:middle;"
+                                             arcsize=3D"10%"
+                                             stroke=3D"false"
+                                             fillcolor=3D"transparent"
+                                             >
+                                    <w:anchorlock/>
+                                    <v:textbox inset=3D"0px,0px,0px,0px">
+                                        <center style=3D"color:#0d2c9a; fon=
+t-family:Helvetica, sans-serif; font-size:22px">
+                                <![endif]--><a target=3D"_blank" href=3D"ht=
+tps://mktr.magazinautoaparare.ro/act/e/r/c0ae8fa14d0a1808e7a9294c/ccbb5903e=
+2f48bdb0ba915ec/c056d76d2b97cd8fe0a7e2bc/bb6bc5150ecc481ae460775dfd8a6076?m=
+ktci=3Dlua3n8gdgfyyjopj2fj" id=3D"lua3n8gdgfyyjopj2fj" tag=3D"lua3n8gdgfyyj=
+opj2fj" class=3D"inline-button" style=3D"display: inline-block; border-top-=
+width: 2px; border-right-width: 2px; border-bottom-width: 2px; border-left-=
+width: 2px; border-top-style: solid; border-right-style: solid; border-bott=
+om-style: solid; border-left-style: solid; border-top-color: rgb(13, 44, 15=
+4); border-right-color: rgb(13, 44, 154); border-bottom-color: rgb(13, 44, =
+154); border-left-color: rgb(13, 44, 154); border-image-source: initial; bo=
+rder-image-slice: initial; border-image-width: initial; border-image-outset=
+: initial; border-image-repeat: initial; color: rgb(13, 44, 154); text-alig=
+n: center; max-width: 100%; font-family: Helvetica, sans-serif; font-size: =
+22px; font-weight: 600; text-transform: none; letter-spacing: 4px; padding-=
+top: 5px; padding-right: 20px; padding-bottom: 5px; padding-left: 20px; tex=
+t-decoration-line: none; text-decoration-thickness: initial; text-decoratio=
+n-style: initial; text-decoration-color: initial; border-top-left-radius: 1=
+px; border-top-right-radius: 1px; border-bottom-right-radius: 1px; border-b=
+ottom-left-radius: 1px; white-space-collapse: collapse; text-wrap: wrap; wo=
+rd-break: break-word; background-image: initial; background-position: initi=
+al; background-size: initial; background-repeat: initial; background-attach=
+ment: initial; background-origin: initial; background-clip: initial; backgr=
+ound-color: transparent;">Cumpara acum</a><!--[if mso]></center></v:textbox=
+></v:roundrect><![endif]--></td></tr></tbody></table><table border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" role=3D"presentation" align=3D"center" id=
+=3D"ije89" width=3D"100%" class=3D"gjs-f-divider" style=3D"text-align: cent=
+er; width: 100%; margin-top: 0px; margin-right: auto; margin-bottom: 0px; m=
+argin-left: auto; max-width: 700px; background-image: initial; background-p=
+osition: initial; background-size: initial; background-repeat: initial; bac=
+kground-attachment: initial; background-origin: initial; background-clip: i=
+nitial; background-color: transparent;" background=3D"initial" bgcolor=3D"t=
+ransparent"><tbody><tr><td valign=3D"middle" id=3D"iegaf" style=3D"vertical=
+-align: middle; text-align: left; padding-top: 10px; padding-right: 10px; p=
+adding-bottom: 10px; padding-left: 10px;" align=3D"left"><table border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" role=3D"presentation" align=3D"left" =
+id=3D"ir6kf" style=3D"width: 100%; border-bottom-width: 1px; border-bottom-=
+style: solid; border-bottom-color: rgb(179, 192, 206); text-align: left; ma=
+rgin-top: auto; margin-right: auto; margin-bottom: auto; margin-left: 0px;"=
+ width=3D"100%"><tbody><tr><td valign=3D"middle" id=3D"il5mk" style=3D"vert=
+ical-align: middle;"><span id=3D"ibgeo" style=3D"font-family: Arial, Helvet=
+ica, 'Helvetica Neue', sans-serif; font-size: 1px; line-height: 1px;"></spa=
+n></td></tr></tbody></table></td></tr></tbody></table><table width=3D"100%"=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0" data-size=3D"2" data-comp=
+=3D"g-row" role=3D"presentation" align=3D"center" id=3D"i5nke" style=3D"wid=
+th: 100%; max-width: 700px; margin-top: 1px; margin-right: auto; margin-bot=
+tom: 1px; margin-left: auto; word-break: break-word;"><tbody><tr><td valign=
+=3D"middle" id=3D"irn9f" style=3D"padding-top: 15px; padding-right: 15px; p=
+adding-bottom: 15px; padding-left: 15px; vertical-align: middle; box-sizing=
+: border-box; text-align: left; word-break: break-word; width: 50%;" width=
+=3D"50%" align=3D"left"><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" role=3D"presentation" align=3D"center" tag=3D"lua3qyf=
+zomy9re3pfhg" id=3D"ineu2" style=3D"width: 100%; max-width: 700px; margin-t=
+op: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto;"><tbody=
+><tr><td id=3D"igy8cm" style=3D"text-align: center; padding-top: 0px; paddi=
+ng-right: 0px; padding-bottom: 0px; padding-left: 0px;" align=3D"center"><a=
+ id=3D"lua4etpx503joi4i2wc" href=3D"https://mktr.magazinautoaparare.ro/act/=
+e/r/c0ae8fa14d0a1808e7a9294c/ccbb5903e2f48bdb0ba915ec/c056d76d2b97cd8fe0a7e=
+2bc/bb6bc5150ecc481ae460775dfd8a6076?mktci=3Dlua4etpx503joi4i2wc" target=3D=
+"_blank" tag=3D"lua4etpx503joi4i2wc"><img alt id=3D"idv543" src=3D"https://=
+mktr.magazinautoaparare.ro/newsletter-assets/65084209a35094548e0b7ba6/my-up=
+loads/default-folder/uGVUdrrZTH14B30kVmMOeTmvqBV9DdVzZGsyELye.jpg" width=3D=
+"319" height=3D"319" style=3D"width: auto; max-width: 100%; display: inline=
+-block; height: auto;"></a></td></tr></tbody></table></td><td valign=3D"mid=
+dle" id=3D"iqazy" style=3D"vertical-align: middle; box-sizing: border-box; =
+text-align: left; word-break: break-word; width: 50%; padding-left: 15px; p=
+adding-top: 15px; padding-right: 15px; padding-bottom: 15px; border-top-wid=
+th: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-wid=
+th: 0px; border-top-style: none; border-right-style: none; border-bottom-st=
+yle: none; border-left-style: none; background-image: initial; background-p=
+osition: initial; background-size: initial; background-repeat: initial; bac=
+kground-attachment: initial; background-origin: initial; background-clip: i=
+nitial; background-color: transparent; border-top-color: transparent; borde=
+r-right-color: transparent; border-bottom-color: transparent; border-left-c=
+olor: transparent;" width=3D"50%" align=3D"left" background=3D"initial" bgc=
+olor=3D"transparent"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" width=3D"100%" role=3D"presentation" align=3D"center" tag=3D"lua3qyfzomy9=
+re3pfhg" id=3D"iupv1" style=3D"width: 100%; max-width: 700px; margin-top: 0=
+px; margin-right: auto; margin-bottom: 0px; margin-left: auto;"><tbody><tr>=
+<td id=3D"i4lvvz" style=3D"text-align: center; padding-top: 0px; padding-ri=
+ght: 0px; padding-bottom: 0px; padding-left: 0px;" align=3D"center"><a id=
+=3D"lua4etpxoujyq6iod9n" href=3D"https://mktr.magazinautoaparare.ro/act/e/r=
+/c0ae8fa14d0a1808e7a9294c/ccbb5903e2f48bdb0ba915ec/c056d76d2b97cd8fe0a7e2bc=
+/bb6bc5150ecc481ae460775dfd8a6076?mktci=3Dlua4etpxoujyq6iod9n" target=3D"_b=
+lank" tag=3D"lua4etpxoujyq6iod9n"><img alt id=3D"ihwmxu" src=3D"https://mkt=
+r.magazinautoaparare.ro/newsletter-assets/65084209a35094548e0b7ba6/my-uploa=
+ds/default-folder/Nn9DJjKp4zdM0YYkcLmpn7ARIBz0zovmW7sifRrF.jpg" width=3D"31=
+9" height=3D"319" style=3D"width: auto; max-width: 100%; display: inline-bl=
+ock; height: auto;"></a></td></tr></tbody></table></td></tr></tbody></table=
+><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" dat=
+a-size=3D"2" data-comp=3D"g-row" role=3D"presentation" align=3D"center" id=
+=3D"i7rp3" style=3D"width: 100%; max-width: 700px; margin-top: 1px; margin-=
+right: auto; margin-bottom: 1px; margin-left: auto; word-break: break-word;=
+"><tbody><tr><td valign=3D"middle" id=3D"i65zy" style=3D"padding-top: 15px;=
+ padding-right: 15px; padding-bottom: 15px; padding-left: 15px; vertical-al=
+ign: middle; box-sizing: border-box; text-align: left; word-break: break-wo=
+rd; width: 50%;" width=3D"50%" align=3D"left"><table border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0" width=3D"100%" role=3D"presentation" align=3D"ce=
+nter" tag=3D"lua3qyfzomy9re3pfhg" id=3D"i76vn" style=3D"width: 100%; max-wi=
+dth: 700px; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin=
+-left: auto;"><tbody><tr><td id=3D"i5psdr" style=3D"text-align: center; pad=
+ding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;"=
+ align=3D"center"><a id=3D"lua4etpyhmwsgbkmxmm" href=3D"https://mktr.magazi=
+nautoaparare.ro/act/e/r/c0ae8fa14d0a1808e7a9294c/ccbb5903e2f48bdb0ba915ec/c=
+056d76d2b97cd8fe0a7e2bc/bb6bc5150ecc481ae460775dfd8a6076?mktci=3Dlua4etpyhm=
+wsgbkmxmm" target=3D"_blank" tag=3D"lua4etpyhmwsgbkmxmm"><img alt id=3D"ik0=
+yrh" src=3D"https://mktr.magazinautoaparare.ro/newsletter-assets/65084209a3=
+5094548e0b7ba6/my-uploads/default-folder/yYnZXPYDUqrS2vjUlDciUIFsxO8xAACpZh=
+Q4o1gG.jpg" width=3D"319" height=3D"319" style=3D"width: auto; max-width: 1=
+00%; display: inline-block; height: auto;"></a></td></tr></tbody></table></=
+td><td valign=3D"middle" id=3D"ikz5j" style=3D"padding-top: 15px; padding-r=
+ight: 15px; padding-bottom: 15px; padding-left: 15px; vertical-align: middl=
+e; box-sizing: border-box; text-align: left; word-break: break-word; width:=
+ 50%;" width=3D"50%" align=3D"left"><table border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" width=3D"100%" role=3D"presentation" align=3D"center" tag=
+=3D"lua3qyfzomy9re3pfhg" id=3D"ii92m" style=3D"width: 100%; max-width: 700p=
+x; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: au=
+to;"><tbody><tr><td id=3D"ib38vl" style=3D"text-align: center; padding-top:=
+ 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;" align=3D=
+"center"><a id=3D"lua4etpyw7ujtcwhcqs" href=3D"https://mktr.magazinautoapar=
+are.ro/act/e/r/c0ae8fa14d0a1808e7a9294c/ccbb5903e2f48bdb0ba915ec/c056d76d2b=
+97cd8fe0a7e2bc/bb6bc5150ecc481ae460775dfd8a6076?mktci=3Dlua4etpyw7ujtcwhcqs=
+" target=3D"_blank" tag=3D"lua4etpyw7ujtcwhcqs"><img alt id=3D"i2f2bw" src=
+=3D"https://mktr.magazinautoaparare.ro/newsletter-assets/65084209a35094548e=
+0b7ba6/my-uploads/default-folder/cdQCNSvaStcjkDAmTPDhOZjetPX63dk87TNxHchc.j=
+pg" width=3D"319" height=3D"319" style=3D"width: auto; max-width: 100%; dis=
+play: inline-block; height: auto;"></a></td></tr></tbody></table></td></tr>=
+</tbody></table><div id=3D"in1an" style=3D"text-size-adjust: none; font-siz=
+e: 16px; box-sizing: border-box; font-family: Arial, Helvetica, sans-serif;=
+ line-height: 120%; font-weight: 400; letter-spacing: 0px; word-break: brea=
+k-word; padding-top: 10px; padding-right: 10px; padding-bottom: 10px; paddi=
+ng-left: 10px; color: rgb(0, 0, 0); background-color: transparent;"><p><str=
+ong>Iluminat smart de ultima generatie</strong></p>
+
+<p>Lanterna cu led-uri lumineaza imprejurimile mult mai bine decat orice la=
+nterna traditionala.<br>
+Led-ul COB amplasat pe frunte are un unghi larg cu o acoperire de 230 grade=
+, iar led-ul XPE amplasat in zona tamplei drepte atinge o distanta de pana =
+la 100m.<br>
+Senzorul incorporat permite aprinderea si stingerea lanternei fara sa o ati=
+ngeti, aspect foarte util atunci cand purtati manusi sau sunteti murdar pe =
+maini.</p>
+</div><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%=
+" role=3D"presentation" align=3D"center" tag=3D"lu6vhjiql75g7j4vel9" id=3D"=
+iyedl" style=3D"width: 100%; max-width: 700px; margin-top: 0px; margin-righ=
+t: auto; margin-bottom: 0px; margin-left: auto;"><tbody><tr><td id=3D"i4p2g=
+" style=3D"text-align: center; padding-top: 0px; padding-right: 0px; paddin=
+g-bottom: 0px; padding-left: 0px;" align=3D"center"><a id=3D"lua4etpyo169w0=
+m1fsi" href=3D"https://mktr.magazinautoaparare.ro/act/e/r/c0ae8fa14d0a1808e=
+7a9294c/ccbb5903e2f48bdb0ba915ec/c056d76d2b97cd8fe0a7e2bc/bb6bc5150ecc481ae=
+460775dfd8a6076?mktci=3Dlua4etpyo169w0m1fsi" target=3D"_blank" tag=3D"lua4e=
+tpyo169w0m1fsi"><img alt id=3D"ibug5" src=3D"https://mktr.magazinautoaparar=
+e.ro/newsletter-assets/65084209a35094548e0b7ba6/my-uploads/default-folder/I=
+KolaA7s4XQRysKGTHxWshv6gnLdT9KEJQD18njU.png" width=3D"698" height=3D"344" s=
+tyle=3D"width: auto; max-width: 100%; display: inline-block; height: auto;"=
+></a></td></tr></tbody></table><table width=3D"100%" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0" data-size=3D"4" data-comp=3D"g-row" role=3D"pres=
+entation" align=3D"center" id=3D"it8vb" style=3D"width: 100%; max-width: 70=
+0px; margin-top: 1px; margin-right: auto; margin-bottom: 1px; margin-left: =
+auto; word-break: break-word;"><tbody><tr><td valign=3D"middle" id=3D"ip5yh=
+" style=3D"padding-top: 15px; padding-right: 15px; padding-bottom: 15px; pa=
+dding-left: 15px; vertical-align: middle; box-sizing: border-box; text-alig=
+n: left; word-break: break-word; width: 25%; border-top-width: 0px; border-=
+right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-=
+top-style: none; border-right-style: none; border-bottom-style: none; borde=
+r-left-style: none; background-image: initial; background-position: initial=
+; background-size: initial; background-repeat: initial; background-attachme=
+nt: initial; background-origin: initial; background-clip: initial; backgrou=
+nd-color: transparent; border-top-color: transparent; border-right-color: t=
+ransparent; border-bottom-color: transparent; border-left-color: transparen=
+t;" width=3D"25%" align=3D"left" background=3D"initial" bgcolor=3D"transpar=
+ent"></td><td valign=3D"middle" id=3D"il32g" style=3D"padding-top: 15px; pa=
+dding-right: 15px; padding-bottom: 15px; padding-left: 15px; vertical-align=
+: middle; box-sizing: border-box; text-align: left; word-break: break-word;=
+ width: 25%;" width=3D"25%" align=3D"left"></td><td valign=3D"middle" id=3D=
+"iakeb" style=3D"padding-top: 15px; padding-right: 15px; padding-bottom: 15=
+px; padding-left: 15px; vertical-align: middle; box-sizing: border-box; tex=
+t-align: left; word-break: break-word; width: 25%;" width=3D"25%" align=3D"=
+left"></td><td valign=3D"middle" id=3D"i5ekg" style=3D"vertical-align: midd=
+le; box-sizing: border-box; text-align: left; word-break: break-word; width=
+: 25%; padding-left: 15px; padding-top: 15px; padding-right: 15px; padding-=
+bottom: 15px; border-top-width: 0px; border-right-width: 0px; border-bottom=
+-width: 0px; border-left-width: 0px; border-top-style: none; border-right-s=
+tyle: none; border-bottom-style: none; border-left-style: none; background-=
+image: initial; background-position: initial; background-size: initial; bac=
+kground-repeat: initial; background-attachment: initial; background-origin:=
+ initial; background-clip: initial; background-color: transparent; border-t=
+op-color: transparent; border-right-color: transparent; border-bottom-color=
+: transparent; border-left-color: transparent;" width=3D"25%" align=3D"left=
+" background=3D"initial" bgcolor=3D"transparent"></td></tr></tbody></table>=
+<div id=3D"idukv" style=3D"text-size-adjust: none; font-size: 16px; box-siz=
+ing: border-box; font-family: Arial, Helvetica, sans-serif; line-height: 12=
+0%; font-weight: 400; letter-spacing: 0px; word-break: break-word; padding-=
+top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; c=
+olor: rgb(0, 0, 0); background-color: transparent;"><p><strong>Adaptabila s=
+i confortabila</strong></p>
+
+<p>Realizata din silicon moale este foarte elastica si ajustabila in lungim=
+e fiind potrivita pentru orice circumferinta a capului. Se poate regla si p=
+urta peste palarii sau casti de protectie.<br>
+Extrem de usoara si confortabila nu va ingreuna capul, putand fi purtata or=
+e in sir, inclusiv de copii.<br>
+Lanterna este reincarcabila prin cablul USB inclus in pachet.<br>
+O aditie exceptionala pentru orice gospodarie sau kit de urgenta.</p>
+</div><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" data-size=3D"2" data-comp=3D"g-row" role=3D"presentation" align=3D"center=
+" id=3D"icibap" style=3D"width: 100%; max-width: 700px; margin-top: 1px; ma=
+rgin-right: auto; margin-bottom: 1px; margin-left: auto; word-break: break-=
+word;"><tbody><tr><td valign=3D"middle" id=3D"ivbv5u" style=3D"padding-top:=
+ 15px; padding-right: 15px; padding-bottom: 15px; padding-left: 15px; verti=
+cal-align: middle; box-sizing: border-box; text-align: left; word-break: br=
+eak-word; width: 50%;" width=3D"50%" align=3D"left"><table border=3D"0" cel=
+lspacing=3D"0" cellpadding=3D"0" width=3D"100%" role=3D"presentation" align=
+=3D"center" tag=3D"lua3qyfzomy9re3pfhg" id=3D"i59ntj" style=3D"width: 100%;=
+ max-width: 700px; margin-top: 0px; margin-right: auto; margin-bottom: 0px;=
+ margin-left: auto;"><tbody><tr><td id=3D"ibycdq" style=3D"text-align: cent=
+er; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left=
+: 0px;" align=3D"center"><a id=3D"lua4etpzjl0ihr17ua" href=3D"https://mktr.=
+magazinautoaparare.ro/act/e/r/c0ae8fa14d0a1808e7a9294c/ccbb5903e2f48bdb0ba9=
+15ec/c056d76d2b97cd8fe0a7e2bc/bb6bc5150ecc481ae460775dfd8a6076?mktci=3Dlua4=
+etpzjl0ihr17ua" target=3D"_blank" tag=3D"lua4etpzjl0ihr17ua"><img alt id=3D=
+"iu7vrj" src=3D"https://mktr.magazinautoaparare.ro/newsletter-assets/650842=
+09a35094548e0b7ba6/my-uploads/default-folder/RlAGuAWUselsPTzhZgvqMWHNgxacVI=
+YM4qkpu9fc.jpg" width=3D"319" height=3D"319" style=3D"width: auto; max-widt=
+h: 100%; display: inline-block; height: auto;"></a></td></tr></tbody></tabl=
+e></td><td valign=3D"middle" id=3D"iimvii" style=3D"padding-top: 15px; padd=
+ing-right: 15px; padding-bottom: 15px; padding-left: 15px; vertical-align: =
+middle; box-sizing: border-box; text-align: left; word-break: break-word; w=
+idth: 50%;" width=3D"50%" align=3D"left"><table border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" width=3D"100%" role=3D"presentation" align=3D"center"=
+ tag=3D"lua3qyfzomy9re3pfhg" id=3D"ij3eog" style=3D"width: 100%; max-width:=
+ 700px; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-lef=
+t: auto;"><tbody><tr><td id=3D"idy8rk" style=3D"text-align: center; padding=
+-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;" ali=
+gn=3D"center"><a id=3D"lua4etpzlcny4eich8j" href=3D"https://mktr.magazinaut=
+oaparare.ro/act/e/r/c0ae8fa14d0a1808e7a9294c/ccbb5903e2f48bdb0ba915ec/c056d=
+76d2b97cd8fe0a7e2bc/bb6bc5150ecc481ae460775dfd8a6076?mktci=3Dlua4etpzlcny4e=
+ich8j" target=3D"_blank" tag=3D"lua4etpzlcny4eich8j"><img alt id=3D"iwmkfa"=
+ src=3D"https://mktr.magazinautoaparare.ro/newsletter-assets/65084209a35094=
+548e0b7ba6/my-uploads/default-folder/ySfPWnvRSHfdJI1myBfJcF9TK1EUlvNkFBJLKp=
+B4.jpg" width=3D"319" height=3D"319" style=3D"width: auto; max-width: 100%;=
+ display: inline-block; height: auto;"></a></td></tr></tbody></table></td><=
+/tr></tbody></table><table width=3D"100%" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" data-size=3D"3" data-comp=3D"g-row" role=3D"presentation" a=
+lign=3D"center" id=3D"ivzsop" style=3D"width: 100%; max-width: 700px; margi=
+n-top: 1px; margin-right: auto; margin-bottom: 1px; margin-left: auto; word=
+-break: break-word;"><tbody><tr><td valign=3D"middle" id=3D"igaud8" style=
+=3D"padding-top: 15px; padding-right: 15px; padding-bottom: 15px; padding-l=
+eft: 15px; vertical-align: middle; box-sizing: border-box; text-align: left=
+; word-break: break-word; width: 33.33%; border-top-width: 0px; border-righ=
+t-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-=
+style: none; border-right-style: none; border-bottom-style: none; border-le=
+ft-style: none; background-image: initial; background-position: initial; ba=
+ckground-size: initial; background-repeat: initial; background-attachment: =
+initial; background-origin: initial; background-clip: initial; background-c=
+olor: transparent; border-top-color: transparent; border-right-color: trans=
+parent; border-bottom-color: transparent; border-left-color: transparent;" =
+width=3D"33.33%" align=3D"left" background=3D"initial" bgcolor=3D"transpare=
+nt"><div id=3D"iu4c1l" style=3D"text-size-adjust: none; font-size: 16px; bo=
+x-sizing: border-box; font-family: Arial, Helvetica, sans-serif; line-heigh=
+t: 120%; font-weight: 400; letter-spacing: 0px; word-break: break-word; pad=
+ding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10=
+px; color: rgb(0, 0, 0); background-color: transparent;"><p><strong>Senzor =
+incorporat</strong><br>
+Aprindeti si stingeti lumina prin intermediul senzorului, fara sa atingeti =
+lanterna. Fluturati mana in dreptul senzorului pentru control.</p>
+</div></td><td valign=3D"middle" id=3D"ihzaxr" style=3D"padding-top: 15px; =
+padding-right: 15px; padding-bottom: 15px; padding-left: 15px; vertical-ali=
+gn: middle; box-sizing: border-box; text-align: left; word-break: break-wor=
+d; width: 33.33%; border-top-width: 0px; border-right-width: 0px; border-bo=
+ttom-width: 0px; border-left-width: 0px; border-top-style: none; border-rig=
+ht-style: none; border-bottom-style: none; border-left-style: none; backgro=
+und-image: initial; background-position: initial; background-size: initial;=
+ background-repeat: initial; background-attachment: initial; background-ori=
+gin: initial; background-clip: initial; background-color: transparent; bord=
+er-top-color: transparent; border-right-color: transparent; border-bottom-c=
+olor: transparent; border-left-color: transparent;" width=3D"33.33%" align=
+=3D"left" background=3D"initial" bgcolor=3D"transparent"><div id=3D"iflzh6"=
+ style=3D"text-size-adjust: none; font-size: 16px; box-sizing: border-box; =
+font-family: Arial, Helvetica, sans-serif; line-height: 120%; font-weight: =
+400; letter-spacing: 0px; word-break: break-word; padding-top: 10px; paddin=
+g-right: 10px; padding-bottom: 10px; padding-left: 10px; color: rgb(0, 0, 0=
+); background-color: transparent;"><p><strong>Pliabila, mica si portabila</=
+strong><br>
+Lanterna este realizata din material moale si flexibil. Impaturita devine m=
+ai mica decat palma si incape in orice buzunar.</p>
+</div></td><td valign=3D"middle" id=3D"iq9tfp" style=3D"vertical-align: mid=
+dle; box-sizing: border-box; text-align: left; word-break: break-word; widt=
+h: 33.33%; padding-left: 15px; padding-top: 15px; padding-right: 15px; padd=
+ing-bottom: 15px; border-top-width: 0px; border-right-width: 0px; border-bo=
+ttom-width: 0px; border-left-width: 0px; border-top-style: none; border-rig=
+ht-style: none; border-bottom-style: none; border-left-style: none; backgro=
+und-image: initial; background-position: initial; background-size: initial;=
+ background-repeat: initial; background-attachment: initial; background-ori=
+gin: initial; background-clip: initial; background-color: transparent; back=
+ground: transparent; border-top-color: transparent; border-right-color: tra=
+nsparent; border-bottom-color: transparent; border-left-color: transparent;=
+" width=3D"33.33%" align=3D"left" background=3D"initial" bgcolor=3D"transpa=
+rent"><div id=3D"i57jb7" style=3D"padding: 10px; text-size-adjust: none; -w=
+ebkit-text-size-adjust: none; font-size: 16px; box-sizing: border-box; font=
+-family: Arial, Helvetica, sans-serif; line-height: 120%; font-weight: 400;=
+ letter-spacing: 0px; word-break: break-word;"><p><strong>Adaptabila si con=
+fortabila</strong></p>
+
+<p>Realizata din silicon moale este foarte elastica si ajustabila in lungim=
+e fiind potrivita pentru orice circumferinta a capului.</p>
+</div></td></tr></tbody></table><table border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" width=3D"100%" role=3D"presentation" align=3D"center" tag=3D"l=
+ua3qyfzomy9re3pfhg" id=3D"io4agq" style=3D"width: 100%; max-width: 700px; m=
+argin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto;"=
+><tbody><tr><td id=3D"iakp9f" style=3D"text-align: center; padding-top: 0px=
+; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;" align=3D"cen=
+ter"><a id=3D"lua4etpzmyra8u0vvsn" href=3D"https://mktr.magazinautoaparare.=
+ro/act/e/r/c0ae8fa14d0a1808e7a9294c/ccbb5903e2f48bdb0ba915ec/c056d76d2b97cd=
+8fe0a7e2bc/bb6bc5150ecc481ae460775dfd8a6076?mktci=3Dlua4etpzmyra8u0vvsn" ta=
+rget=3D"_blank" tag=3D"lua4etpzmyra8u0vvsn"><img alt id=3D"iw7fka" src=3D"h=
+ttps://mktr.magazinautoaparare.ro/newsletter-assets/65084209a35094548e0b7ba=
+6/my-uploads/default-folder/qpd0N3vCLzy6WNtU9mXTm8WYXVa0jLGmi9rwO4hc.jpg" w=
+idth=3D"698" height=3D"698" style=3D"width: auto; max-width: 100%; display:=
+ inline-block; height: auto;"></a></td></tr></tbody></table><table width=3D=
+"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" role=3D"presentatio=
+n" align=3D"center" data-comp=3D"footer" id=3D"ic5ml" class=3D"footer" styl=
+e=3D"text-align: center; width: 100%; margin-top: 0px; margin-right: auto; =
+margin-bottom: 0px; margin-left: auto; max-width: 700px; background-image: =
+initial; background-position: initial; background-size: initial; background=
+-repeat: initial; background-attachment: initial; background-origin: initia=
+l; background-clip: initial; background-color: rgb(242, 242, 242);" backgro=
+und=3D"initial" bgcolor=3D"rgb(242, 242, 242)"><tbody><tr><td valign=3D"mid=
+dle" id=3D"lua4djucrgibktkp1z" style=3D"vertical-align: middle; width: 100%=
+; padding: 25px 0;" width=3D"100%"><table cellspacing=3D"0" cellpadding=3D"=
+0" width=3D"100%" id=3D"i4x0yk" style=3D"width: 100%; border: 0; padding: 2=
+0px 0; text-align: center; background: transparent;" align=3D"center"><tbod=
+y><tr><td id=3D"impeo9" style=3D"padding: 15px 0 10px 0; width: 100%; text-=
+align: center;" width=3D"100%" align=3D"center"><a href=3D"mailto:contact@m=
+agazinautoaparare.ro?mktci=3Dlua4djucrgibktkp1z" tag=3D"lua4djucrgibktkp1z"=
+ id=3D"iepv1v" style=3D"display: inline-block; text-align: left; font-size:=
+ 16px; line-height: 16px; font-family: Arial, Helvetica, sans-serif; color:=
+ #000000; font-weight: 500; letter-spacing: 0px; text-decoration: none; tex=
+t-transform: none; margin-left: 0;">contact@magazinautoaparare.ro</a></td><=
+/tr><tr><td id=3D"itvzis" style=3D"width: 100%; text-align: center; margin:=
+ 0 auto;" width=3D"100%" align=3D"center"><span id=3D"footer-unsubscribe-te=
+xt" class=3D"gjs_footer_unsub" style=3D"font-family: Arial, Helvetica, sans=
+-serif; font-size: 14px; margin: 0 auto; display: inline-block; max-width: =
+90%; color: #656565; font-weight: 500; letter-spacing: 0px; text-decoration=
+: none; text-transform: none; line-height: 14px; text-align: center;">Dac=
+=C4=83 dori=C8=9Bi s=C4=83 v=C4=83 dezabona=C8=9Bi, face=C8=9Bi clic <a hre=
+f=3D"https://mktr.magazinautoaparare.ro/act/e/u/c0ae8fa14d0a1808e7a9294c/cc=
+bb5903e2f48bdb0ba915ec/c056d76d2b97cd8fe0a7e2bc?mktci=3Dlua4djucrgibktkp1z"=
+ tag=3D"lua4djucrgibktkp1z" class=3D"gjs-footer-unsub" id=3D"imjt6i" style=
+=3D"text-transform: none; display: inline-block; text-align: left; font-siz=
+e: 14px; line-height: 14px; font-family: Arial, Helvetica, sans-serif; colo=
+r: #656565; font-weight: 500; letter-spacing: 0px; text-decoration: underli=
+ne;">Aici</a></span></td></tr><tr><td id=3D"i2puwx" style=3D"width: 100%; t=
+ext-align: center; margin: 0 auto;" width=3D"100%" align=3D"center"><span i=
+d=3D"footer-view-in-browser-text" class=3D"gjs_footer_view_in_browser" styl=
+e=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px; margin: 0 =
+auto; display: inline-block; max-width: 90%; color: #656565; font-weight: 5=
+00; letter-spacing: 0px; text-decoration: none; text-transform: none; line-=
+height: 14px; text-align: center;">Vizualiza=C8=9Bi acest e-mail ca <a href=
+=3D"https://mktr.magazinautoaparare.ro/act/e/v/c0ae8fa14d0a1808e7a9294c/ccb=
+b5903e2f48bdb0ba915ec/c056d76d2b97cd8fe0a7e2bc?mktdi=3Dccbb5903e2f48bdb0ba9=
+15ec&amp;mktci=3Dlua4djucrgibktkp1z" tag=3D"lua4djucrgibktkp1z" class=3D"gj=
+s-footer-view-b" id=3D"imma4x" style=3D"display: inline-block; text-align: =
+left; font-size: 14px; line-height: 14px; font-family: Arial, Helvetica, sa=
+ns-serif; color: #656565; font-weight: 500; letter-spacing: 0px; text-decor=
+ation: underline; text-transform: none;">pagin=C4=83 web</a></span></td></t=
+r></tbody></table></td></tr></tbody></table></td></tr></tbody></table><styl=
+e>* {box-sizing: border-box;} body {margin: 0; padding: 0;} a[x-apple-data-=
+detectors] {color: inherit !important;text-decoration: inherit !important} =
+ #MessageViewBody a {color: inherit;text-decoration: none} p {margin-top: 0=
+; margin-right: 0; margin-bottom: 0; margin-left: 0;} table {border-collaps=
+e: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt; border-spacing: 0;=
+} td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;} .nl-hide-block-on-deskt=
+op, .nl-hide-table-on-desktop {mso-hide: all;display: none;} @media (max-wi=
+dth: 520px) {.full_width {width: 100% !important; max-width: 100% !importan=
+t; display: block;margin: 20px 0 0 0 !important; padding: 0 !important;} .p=
+roduct_image_h {max-height: 100px !important;; min-height: 100px !important=
+;; height: 100px !important;} .product_image_h_2 {max-height: 200px !import=
+ant;; min-height: 200px !important;; height: 200px !important;} .product_im=
+age_h_1 {max-height: 300px !important;; min-height: auto !important;; heigh=
+t: auto !important;} .product_image_v {height: auto !important; min-height:=
+ unset !important;} .stacked_row td {width: 100% !important;display: block;=
+} .stacked_row_h_auto td {width: 100% !important; height: auto !important; =
+display: block;} .nl-hide-block-on-desktop {mso-hide: none;display: block;}=
+ .nl-hide-table-on-desktop {mso-hide: none;display: table;} .nl-hide-on-mob=
+ile {display: none;min-height: 0;max-height: 0;max-width: 0;overflow: hidde=
+n;font-size: 0;mso-hide: all;}}</style><img alt=3D"" src=3D"https://mjgt33b=
+9.r.eu-central-1.awstrack.me/I0/0107018eb85fbf02-64ac398a-fe29-4805-9a56-61=
+2480ebe018-000000/bHbkz_FYgUfdKxQmkHeOZCedhYc=3D149" style=3D"display: none=
+; width: 1px; height: 1px;">
+</body><img src=3D"https://mktr.magazinautoaparare.ro/act/e/o/c0ae8fa14d0a1=
+808e7a9294c/ccbb5903e2f48bdb0ba915ec/c056d76d2b97cd8fe0a7e2bc" alt=3D"" sty=
+le=3D"display: none; width: 1px; height: 1px;"></html>
+
+------=_Part_5813389_2104846906.1712490266370--

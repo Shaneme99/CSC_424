@@ -1,0 +1,128 @@
+Return-Path: <bounce-bruce=untroubled.org@themail247.info>
+Delivered-To: untroubl8492-bruce@untroubled.org
+Received: (qmail 141018 invoked from network); 7 Apr 2024 06:09:22 -0000
+Received: from alt12.gmail-smtp.themail247.info (alt12.gmail-smtp.themail247.info [143.244.130.136])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 07 Apr 2024 06:09:22 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=dkim; d=themail247.info;
+ h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:List-Unsubscribe:List-Id; i=gaurav@themail247.info;
+ bh=MlxtzPUKyeRVHHJNtpUjQ7XR6ilOOHEhc41e7v9v/GY=;
+ b=c+RgBIb85rW70Qh+VQJV95yApZijTwGc8tyZyvuRYcXK+miPpvX80UpvDOVBmUuwUyFwSqr+/DA9
+   mZ4H922P+TLshF1xTyInq7h2E1ludqVV06dYavSwGUn348XEK8jbMc3yKbAUEFl8c6m+QCGNI2wn
+   CZLK03+wa5Rf55TGewNrhsk3qD6/4YekEhGhwlhx92hyLfSuPd+d3xvRKQaAvG1iTea7qyzE5Jn/
+   i0lTUvr3urj3svpJW/1XXLbRlo3q852bCxjZF96h+qWnK0Nd3REXHQY75jE9dbQVlE3/cCxR39QN
+   nogpQTDd6StPqzaFdfB4Jy+th1PpG44RSXr3xw==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=themail247.info;
+ b=NSZuL9/bUHVBaIBpGzYDb3IhnyoFpsfgFKR8rTUsI9F7gApN3ny0zvCsztaPonbdoSJCiCSrCKjU
+   +LZZlSgoCL+9aTunDU9BOBe7ij6al/ZbS0MQWvPD+hFtmzeFBMzt72Vs3l996zmsmRfMS0ADHWkc
+   EiYtcyYTcSBKXMoF4OrizawOpi9uWugpEEVbWyf1NrmOnf+GZCKqPnJGcf1J8+xpS0+DNuhsoyNU
+   kxpmlAgsM+6CizhXb2NCEZLqUr5PjxQQy3C+jUrsf/5HY60FC5rf9ZfdimPSmDTNbFDTcdbyAKH8
+   PUMWymi1Xg6ilqkvbfOLT2w9ZeRY0rQdiHWAOw==;
+Return-Path: <bounce@themail247.info>
+DKIM-Signature: v=1; a=rsa-sha256;
+ bh=MlxtzPUKyeRVHHJNtpUjQ7XR6ilOOHEhc41e7v9v/GY=; d=themail247.info;
+ h=Message-ID: Date: Subject: From: Reply-To: To: MIME-Version: Content-Type:
+ List-Unsubscribe-Post: List-Unsubscribe: List-Id: Feedback-ID;
+ i=@themail247.info; s=mailer; c=relaxed/relaxed; t=1712470141;
+ b=WXVULJFDrtopYY+U5+mCrJGNLgXSGTJ9RNPxE5NMX8ukRJTHZOQGTRLf8QTvGoE8ac1NJFPTd
+ a65co0GGK0ygutDotQBTzYFd4wG2zGdlAQ1dMceHq2Dt7B4UGPAvOzclJu5f+K7G7597l85C5
+ Lt7gYglIIZHaSUifudvu+xl2ld5s1BmoC/ttQ3OLgPQBwACo1CCNtNEarzErO5Uk1jGMyn8NF
+ K5/rIAmNToMSAq2lHk9vsD7h/vuBenE+3vxIM+T2j0qVR42zmUuIFeHZchOzr1mQBXDnxnuqn
+ ZxBPun1fwTpnOlGzBNLYILHWbIZ6T8fMO9Sp2CmhzA5FeIHfgQ==
+Message-ID: <b36b3e7e30f15e26071a8e4c463a77dada4ef6cc@themail247.info>
+Date: Sun, 07 Apr 2024 06:09:01 +0000
+Subject: Hello bruce@untroubled.org ,Your Feedback is Valuable!
+ =?utf-8?Q?=F0=9F=92=B0_=F0=9F=8E=81?=
+From: Costco Survey Team! <gaurav@themail247.info>
+Reply-To: Costco Survey Team! <noreply@themail247.info>
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1712470141_b35094452fdeb70d4545ab920d89191b_=_"
+X-Report-Abuse: https://transcm.info/index.php/campaigns/ln289e765g843/report-abuse/vy944fagb4cc0/bq08547loj5ce
+x-job: ln289e765g843
+X-EBS: https://transcm.info/index.php/lists/block-address
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Unsubscribe: <https://transcm.info/index.php/lists/vy944fagb4cc0/unsubscribe/bq08547loj5ce/ln289e765g843?source=email-client-unsubscribe-button>,
+ <mailto:noreply@themail247.info?subject=Campaign-Uid%3Aln289e765g843%20%2F%20Subscriber-Uid%3Abq08547loj5ce%20-%20Unsubscribe%20request&body=Please%20unsubscribe%20me%21>
+List-Id: vy944fagb4cc0 <US>
+Feedback-ID: ln289e765g843:bq08547loj5ce:vy944fagb4cc0:kj916mse6j586
+Content-Length: 2369
+
+
+--_=_swift_1712470141_b35094452fdeb70d4545ab920d89191b_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Your opinion matters to us!Dear User,
+
+At Costco, we're committed to pr=
+oviding you with the best shopping
+experience possible!
+
+Share your f=
+eedback by taking our quick survey,
+
+The survey is short and will only =
+take 2 minutes to complete.
+
+Take a Survey
+[https://transcm.info/inde=
+x.php/campaigns/ln289e765g843/track-url/bq08547loj5ce/71a3dc30787b020df392a=
+cb067a74d2f39f1d753]
+
+We appreciate your partnership and collaboration.=
+
+
+Warm Regards
+Costco Team
+
+Dont want to participate please Unsus=
+bcribe here=C2=A0=C2=A0
+[https://transcm.info/index.php/campaigns/ln289e7=
+65g843/track-url/bq08547loj5ce/e1ec389f83349f2e6e986bb18a1f3df5a281d607]
+=
+=C2=A0
+=C2=A0
+
+--_=_swift_1712470141_b35094452fdeb70d4545ab920d89191b_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head><meta charset=3D"utf-8"/>
+=09<title>Hello bruce@untroubled.org ,Your Feedback is Valuable! =
+=F0=9F=92=B0 =F0=9F=8E=81</title>
+<style type=3D"text/css">span.preheader{display:none!important;mso-hide:all=
+;}</style></head>
+<body><span class=3D"preheader" style=3D"display:none!important;mso-hide:al=
+l;">Your opinion matters to us!</span>Dear User,<br />
+<br />
+At Costco, we're committed to providing you with the best shopping experien=
+ce possible!<br />
+<br />
+Share your feedback by taking our quick survey,<br />
+<br />
+The survey is short and will only take 2 minutes to complete.<br />
+<br />
+<span style=3D"font-size:20px;"><a href=3D"https://transcm.info/index.php/c=
+ampaigns/ln289e765g843/track-url/bq08547loj5ce/71a3dc30787b020df392acb067a7=
+4d2f39f1d753">Take a Survey</a></span><br />
+<br />
+We appreciate your partnership and collaboration.<br />
+<br />
+Warm Regards<br />
+Costco Team<br />
+<br />
+Dont want to participate please <a data-unsubtag=3D"_UNSUBSCRIBE_URL_" href=
+=3D"https://transcm.info/index.php/campaigns/ln289e765g843/track-url/bq0854=
+7loj5ce/e1ec389f83349f2e6e986bb18a1f3df5a281d607">Unsusbcribe here=C2=A0=
+=C2=A0</a> =C2=A0<br />
+=C2=A0<img width=3D"1" height=3D"1" src=3D"https://transcm.info/index.php/c=
+ampaigns/ln289e765g843/track-opening/bq08547loj5ce" alt=3D"" />
+</body>
+</html>
+
+--_=_swift_1712470141_b35094452fdeb70d4545ab920d89191b_=_--
+

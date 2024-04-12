@@ -1,0 +1,41 @@
+Return-Path: <noreply@pobox.com>
+X-Virus-Scanned: by amavisd-new at 
+Received: from User ([80.244.11.7])
+	(authenticated bits=0)
+	by mx1.maldaner.de with ESMTP id 436HYm53025680;
+	Sat, 6 Apr 2024 19:34:48 +0200
+Message-Id: <202404061734.436HYm53025680@mx1.maldaner.de>
+Reply-To: <noreply@email.blockchain.com>
+From: "Blockchain.com"<noreply@pobox.com>
+Subject: you've received BTC 0.37863786 from 38WDimyY8oNG4w6MVyK5mgZh9V8UM5ZjQs
+Date: Sat, 6 Apr 2024 10:34:51 -0700
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0117_01C2A9A6.292C0496"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Scanned-By: MIMEDefang 2.78
+Content-Length: 624
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0117_01C2A9A6.292C0496
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+
+you've received BTC 0.37863786 which we've added to your wallet.please find attached and complete transaction
+
+------=_NextPart_000_0117_01C2A9A6.292C0496
+Content-Type: message/external-body; access-type=x-deleted; length=9842
+
+
+Content-Type: application/octet-stream;
+	name="Blockchain Recovery.htm"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="Blockchain Recovery.htm"
+
+------=_NextPart_000_0117_01C2A9A6.292C0496--

@@ -1,0 +1,201 @@
+Return-Path: <bounce-bruce=untroubled.org@streamiz.info>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=dkim; d=streamiz.info;
+ h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:List-Unsubscribe; i=aishna@streamiz.info;
+ bh=OHMUzfUGFKFnI9o6/nRTptUxQEFg+/L12xNs5oSecXg=;
+ b=gLH9Zshnw0tYrl2Om1XHtUlMOvRukbU+SxLZJWpziZ/eK5VkC7Yg2F/WxZu4Cxqp+5uz4iG6ROQY
+   MkH/JqfS+ITkgi1YtIzUtH5kOXa99adBS54fHTVYCw6LnstdCD83Y2+Sa3aeKkfcyJ/UkCr5VCwx
+   ScoDs2EeoUoMzK3LXTI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=streamiz.info;
+ b=hawsb5FDuiz8FBP6t03xtFD5RsYJZqjeuVnMgfg3IhClHPE1jOEcscmA86vHmE7oeIBjQrtD5Gcv
+   9NJFKLZyDeul/8qNNPT2RRWWtiiXzMmomubAJK7f9Nuvlp7Xme5Q+zAbXTaqr3z0f1QYCmDdbAUl
+   PVTL+f8jY72bwkncasE=;
+Received: from cloud.appsmtpmailers.com (138.201.224.151) by phlpheresek.streamiz.info id h297jo0001g7 for <bruce@untroubled.org>; Sun, 7 Apr 2024 07:45:56 +0000 (envelope-from <bounce-bruce=untroubled.org@streamiz.info>)
+Return-Path: <bounce@streamiz.info>
+Message-ID: <5413afcc1fcc4c34c94442047ab6e942c39ffb90@streamiz.info>
+Date: Sun, 07 Apr 2024 07:45:55 +0000
+Subject: Hello bruce@untroubled.org,Special Offer:Extend Your Spotify
+ Premium for Free! =?utf-8?Q?=F0=9F=8E=B6=F0=9F=8C=9F?=
+From: Spotify customer service! <aishna@streamiz.info>
+Reply-To: Spotify customer service! <Aishna@smtpmailers.cloud>
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1712475955_af9de89b4f78fa9a3d4b4b26eb14e70d_=_"
+X-Report-Abuse: http://cloudmanage.streamiz.info/index.php/campaigns/rl1026w346638/report-abuse/lr266zq343765/nj815lts3t9d8
+x-job: rl1026w346638
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Unsubscribe: <http://cloudmanage.streamiz.info/index.php/lists/lr266zq343765/unsubscribe/nj815lts3t9d8/rl1026w346638?source=email-client-unsubscribe-button>,
+ <mailto:Aishna@smtpmailers.cloud?subject=Campaign-Uid%3Arl1026w346638%20%2F%20Subscriber-Uid%3Anj815lts3t9d8%20-%20Unsubscribe%20request&body=Please%20unsubscribe%20me%21>
+Feedback-ID: rl1026w346638:nj815lts3t9d8:lr266zq343765:yj9689qcs85f9
+Content-Length: 5323
+
+
+--_=_swift_1712475955_af9de89b4f78fa9a3d4b4b26eb14e70d_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Extend for free!
+Dear User,
+
+Great news for music lovers like you!
+=
+We're excited to offer you a special opportunity to extend your
+Spotify P=
+remium subscription for FREE.
+Yes, you read that right =E2=80=93 more mus=
+ic, more playlists, and more of
+your favorite tunes, all on us!
+
+=
+=F0=9F=8E=B5 EXTEND YOUR SPOTIFY PREMIUM FOR FREE
+[http://cloudmanage.str=
+eamiz.info/index.php/campaigns/rl1026w346638/track-url/nj815lts3t9d8/1bfb1c=
+7106d71bed3dfd3765bd17bd82e11ab0bb]
+
+As a valued Spotify Premium member=
+, we appreciate your love for music
+and want to thank you for being a par=
+t of the Spotify community.
+That's why we're extending your Premium subsc=
+ription, allowing you to
+enjoy uninterrupted access to the world of music=
+ for an extended
+period =E2=80=93 at no additional cost to you.
+ [http:=
+//cloudmanage.streamiz.info/index.php/campaigns/rl1026w346638/track-url/nj8=
+15lts3t9d8/1bfb1c7106d71bed3dfd3765bd17bd82e11ab0bb]
+
+=F0=9F=8C=9F HOW =
+TO EXTEND YOUR PREMIUM SUBSCRIPTION
+
+ =09*
+OPEN YOUR SPOTIFY APP: Sig=
+n in to your Spotify account using the
+Spotify app on your device.
+
+ =
+=09*
+CHECK YOUR ACCOUNT: Navigate to your account settings to confirm the=
+
+extension offer.
+
+ =09*
+CLAIM YOUR FREE EXTENSION: Follow the prom=
+pts to extend your Premium
+subscription for free.
+
+=C2=A0
+
+=
+=F0=9F=93=B1 CLAIM YOUR FREE EXTENSION NOW
+[http://cloudmanage.streamiz.i=
+nfo/index.php/campaigns/rl1026w346638/track-url/nj815lts3t9d8/1bfb1c7106d71=
+bed3dfd3765bd17bd82e11ab0bb]
+
+Open your Spotify app now to claim your f=
+ree subscription extension
+and keep the music playing!
+
+=F0=9F=8E=
+=B6 THANK YOU FOR BEING A PART OF SPOTIFY
+
+=C2=A0
+
+Enjoy the extend=
+ed Premium experience and let the music play on!
+
+Best regards,
+
+Sp=
+otify Support Team
+
+If you dont want to extent please Unsubscribe Here=
+
+[http://cloudmanage.streamiz.info/index.php/campaigns/rl1026w346638/trac=
+k-url/nj815lts3t9d8/6f5ca5c41227930b9d329092fba82768df66971e]
+
+--_=_swift_1712475955_af9de89b4f78fa9a3d4b4b26eb14e70d_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head><meta charset=3D"utf-8"/>
+=09<title>Hello bruce@untroubled.org,Special Offer:Extend Your Spotify Prem=
+ium for Free! =F0=9F=8E=B6=F0=9F=8C=9F</title>
+<style type=3D"text/css">span.preheader{display:none!important;mso-hide:all=
+;}</style></head>
+<body><span class=3D"preheader" style=3D"display:none!important;mso-hide:al=
+l;">Extend for free!</span>
+<p>Dear User,</p>
+
+<p>Great news for music lovers like you!<br />
+We're excited to offer you a special opportunity to extend your Spotify Pre=
+mium subscription for FREE.<br />
+Yes, you read that right =E2=80=93 more music, more playlists, and more of =
+your favorite tunes, all on us!</p>
+
+<p><a href=3D"http://cloudmanage.streamiz.info/index.php/campaigns/rl1026w3=
+46638/track-url/nj815lts3t9d8/1bfb1c7106d71bed3dfd3765bd17bd82e11ab0bb">&#x=
+1f3b5; <strong>Extend Your Spotify Premium for Free</strong></a></p>
+
+<p>As a valued Spotify Premium member, we appreciate your love for music an=
+d want to thank you for being a part of the Spotify community.<br />
+That's why we're extending your Premium subscription, allowing you to enjoy=
+ uninterrupted access to the world of music for an extended period =
+=E2=80=93 at no additional cost to you.<br />
+<a href=3D"http://cloudmanage.streamiz.info/index.php/campaigns/rl1026w3466=
+38/track-url/nj815lts3t9d8/1bfb1c7106d71bed3dfd3765bd17bd82e11ab0bb"><img a=
+lt=3D"" src=3D"http://cloudmanage.streamiz.info/frontend/assets/files/custo=
+mer/yj9689qcs85f9/Spotify-Extend-for-Free.png" style=3D"width: 435px; heigh=
+t: 527px;" /></a></p>
+
+<p>&#x1f31f; <strong>How to Extend Your Premium Subscription</strong></p>
+
+<ol>
+=09<li>
+=09<p><strong>Open Your Spotify App:</strong> Sign in to your Spotify accou=
+nt using the Spotify app on your device.</p>
+=09</li>
+=09<li>
+=09<p><strong>Check Your Account:</strong> Navigate to your account setting=
+s to confirm the extension offer.</p>
+=09</li>
+=09<li>
+=09<p><strong>Claim Your Free Extension:</strong> Follow the prompts to ext=
+end your Premium subscription for free.</p>
+=09</li>
+</ol>
+
+<p>=C2=A0</p>
+
+<p><a href=3D"http://cloudmanage.streamiz.info/index.php/campaigns/rl1026w3=
+46638/track-url/nj815lts3t9d8/1bfb1c7106d71bed3dfd3765bd17bd82e11ab0bb">&#x=
+1f4f1; <strong>Claim Your Free Extension Now</strong></a></p>
+
+<p>Open your Spotify app now to claim your free subscription extension and =
+keep the music playing!</p>
+
+<p>&#x1f3b6; <strong>Thank You for Being a Part of Spotify</strong></p>
+
+<p>=C2=A0</p>
+
+<p>Enjoy the extended Premium experience and let the music play on!</p>
+
+<p>Best regards,</p>
+
+<p>Spotify Support Team</p>
+
+<p><br />
+If you dont want to extent please <a data-unsubtag=3D"_UNSUBSCRIBE_URL_" hr=
+ef=3D"http://cloudmanage.streamiz.info/index.php/campaigns/rl1026w346638/tr=
+ack-url/nj815lts3t9d8/6f5ca5c41227930b9d329092fba82768df66971e">Unsubscribe=
+ Here</a></p>
+<img width=3D"1" height=3D"1" src=3D"http://cloudmanage.streamiz.info/index=
+.php/campaigns/rl1026w346638/track-opening/nj815lts3t9d8" alt=3D"" />
+</b=
+ody>
+</html>
+
+--_=_swift_1712475955_af9de89b4f78fa9a3d4b4b26eb14e70d_=_--
+

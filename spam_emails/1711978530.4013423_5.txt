@@ -1,0 +1,115 @@
+Return-Path: <bounce-bruce=untroubled.org@themail247.info>
+Delivered-To: untroubl8492-bruce@untroubled.org
+Received: (qmail 3935045 invoked from network); 30 Mar 2024 02:08:52 -0000
+Received: from alt12.gmail-smtp.themail247.info (alt12.gmail-smtp.themail247.info [143.244.130.136])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 30 Mar 2024 02:08:51 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=dkim; d=themail247.info;
+ h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:List-Unsubscribe:List-Id; i=gaurav@themail247.info;
+ bh=sszHYoFvHk/P5AZ2i1D9Bc3H5KyW1ecOhM19xx8A6jI=;
+ b=MjUOgqkYq4KPbBI6JNQNgx1nBlvPXmKs6V1fPsAalOz38ydcqqQoLaj0WLA2wDUDusXqmWZUzsDb
+   TBkPJ+7AD0RpCTeI+9ygU+2Kob62Z8xYXlZQ5ZiOonD3yL9FxjYkItGHodSdJIvuEKAD0Sj7LkID
+   083Wv1UCW2l/RuMPnL3wKXEAYSHfAvnYffn/cv4XQaTy6U1mJrL9l9NzFAb9Wrtamg+1WlDceQKa
+   W5EzlqeekG+UFi6Mmyhvlt50LrIMD8WF2PZr+6S+AAxnpoz4h65a0pKZ2nlWAuKRt9a1/j1krIL2
+   TuHDnmkMswpW4Wwr6Pe/FXZXwAmk6twTWOTSPA==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=themail247.info;
+ b=lMV1MRWK/cC2Q0rXJ2uzGKHkYF0ZoDSQ+kASrXhSDj0quwBUsrNjM5rfFIQG/2Jh6jAc8h5K8OKN
+   5O64B+8QIGXOTBMhAkWtETIAEgczum830pC/dRVP8YvHMNZOKRSmq9h1tyeYBfNUkHO4oCOWs8ZJ
+   GModAAc2evuT+gF84RmWfpZBU0o6nV90mK9nHBck2fT6UThqmr3tgwy+aRio1NC9t53J5lL06U8B
+   NjvEvAyUVfoJAYj7fzmhzr2lqxSSCCS15BQ6hN1zMLh2zflSClesC76663T7CIzjEw+nlPrr/fTA
+   ivQORNZLqhL5WxPFy0lsfw82OZQFyh2u2flPyQ==;
+Return-Path: <bounce@themail247.info>
+DKIM-Signature: v=1; a=rsa-sha256;
+ bh=sszHYoFvHk/P5AZ2i1D9Bc3H5KyW1ecOhM19xx8A6jI=; d=themail247.info;
+ h=Message-ID: Date: Subject: From: Reply-To: To: MIME-Version: Content-Type:
+ List-Unsubscribe-Post: List-Unsubscribe: List-Id: Feedback-ID;
+ i=@themail247.info; s=mailer; c=relaxed/relaxed; t=1711764523;
+ b=rlJ6KT7ok42NPb1yztPpAPYfao7lgQURHiFDU8k76UQoDVzamf5i2qZSk915/y6FU5ZhwvFDu
+ tLApP/Ag+YlrAxYyrTvUZr90e4BSRlSPdC2jjbOkYKK6+K2N6RJywphLjG6y32QyrbcMgxMc1
+ 9XtO8DzZNDAW8+G+Px2YPVWnfNhyPahtLqr2lUEeRtJ8MW8NTWeHBXbivtl7Htgtu4xgVBUsQ
+ GaQ7gR2MrEC9GnmVTm/eaaymM3VpQ53F2IzXYh61YZftq6NNzz/6ZwGBxl4Iddcza1VIBFYMH
+ 3iIHR49hscY46gXX0/8U0cGz2wCqFp3VYAB0lFPVJgO5xFt1Cw==
+Message-ID: <979d2a6d04f658cb89dabfadadabaa9cd0492972@themail247.info>
+Date: Sat, 30 Mar 2024 02:08:43 +0000
+Subject: Explore Our Consolidation Guide Today! =?utf-8?Q?=F0=9F=92=B8?=
+From: Guide To Consolidation <gaurav@themail247.info>
+Reply-To: Guide To Consolidation <noreply@themail247.info>
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1711764523_e9dbbb2540c45575cabc8fc787ca11ab_=_"
+X-Report-Abuse: https://transcm.info/index.php/campaigns/ep254men6t7a0/report-abuse/vy944fagb4cc0/bq08547loj5ce
+x-job: ep254men6t7a0
+X-EBS: https://transcm.info/index.php/lists/block-address
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Unsubscribe: <https://transcm.info/index.php/lists/vy944fagb4cc0/unsubscribe/bq08547loj5ce/ep254men6t7a0?source=email-client-unsubscribe-button>,
+ <mailto:noreply@themail247.info?subject=Campaign-Uid%3Aep254men6t7a0%20%2F%20Subscriber-Uid%3Abq08547loj5ce%20-%20Unsubscribe%20request&body=Please%20unsubscribe%20me%21>
+List-Id: vy944fagb4cc0 <US>
+Feedback-ID: ep254men6t7a0:bq08547loj5ce:vy944fagb4cc0:kj916mse6j586
+Content-Length: 2649
+
+
+--_=_swift_1711764523_e9dbbb2540c45575cabc8fc787ca11ab_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Say Goodbye to Debt Stress View online here
+[https://transcm.info/index.p=
+hp/campaigns/ep254men6t7a0/track-url/bq08547loj5ce/8e4e384be7361c6bc7811092=
+b4a87af7bd383fc4]
+ [https://transcm.info/index.php/campaigns/ep254men6t7a=
+0/track-url/bq08547loj5ce/8e4e384be7361c6bc7811092b4a87af7bd383fc4]
+=
+=C2=A0=20
+If you no longer wish to receive email advertisements, please cli=
+ck
+here
+[https://transcm.info/index.php/campaigns/ep254men6t7a0/track-u=
+rl/bq08547loj5ce/631b34d343cac334952ea7bb1f9141de7ee03f41]
+to unsubscribe=
+.
+You may also write to us at:
+1501 S. Clinton Street Suite 400, Baltim=
+ore, Maryland 21224
+
+--_=_swift_1711764523_e9dbbb2540c45575cabc8fc787ca11ab_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+=09<title>Explore Our Consolidation Guide Today! =F0=9F=92=B8</title>
+<style type=3D"text/css">span.preheader{display:none!important;mso-hide:all=
+;}</style></head>
+<body><span class=3D"preheader" style=3D"display:none!important;mso-hide:al=
+l;">Say Goodbye to Debt Stress</span>
+<center><a href=3D"https://transcm.info/index.php/campaigns/ep254men6t7a0/t=
+rack-url/bq08547loj5ce/8e4e384be7361c6bc7811092b4a87af7bd383fc4">View onlin=
+e here</a><br />
+<a href=3D"https://transcm.info/index.php/campaigns/ep254men6t7a0/track-url=
+/bq08547loj5ce/8e4e384be7361c6bc7811092b4a87af7bd383fc4"><img border=3D"" h=
+eight=3D"" src=3D"https://img.xahtu.com/brand/files/gwm2/10814/163881522754=
+1-GTC-Free-Credit-Card-Relief-Estimate-v3-final.png" width=3D"" /> </a><br =
+/>
+=C2=A0
+<center>
+<p style=3D"font-family:Arial, Helvetica, sans-serif; font-size:10px; line-=
+height:13px; padding:0px; margin:0px; color:#585959;">If you no longer wish=
+ to receive email advertisements, please <a data-unsubtag=3D"_UNSUBSCRIBE_U=
+RL_" href=3D"https://transcm.info/index.php/campaigns/ep254men6t7a0/track-u=
+rl/bq08547loj5ce/631b34d343cac334952ea7bb1f9141de7ee03f41" style=3D"color:#=
+585959;">click here</a> to unsubscribe.<br />
+You may also write to us at:<br />
+1501 S. Clinton Street Suite 400, Baltimore, Maryland 21224 <img border=3D"=
+0" height=3D"0" src=3D"http://track.mfvzv.com/aff_i?offer_id=3D10814&amp;af=
+f_id=3D6659&amp;file_id=3D348213" style=3D"position:absolute;visibility:hid=
+den;" width=3D"0" /></p>
+</center>
+</center>
+<img width=3D"1" height=3D"1" src=3D"https://transcm.info/index.php/campaig=
+ns/ep254men6t7a0/track-opening/bq08547loj5ce" alt=3D"" />
+</body>
+</html>
+
+--_=_swift_1711764523_e9dbbb2540c45575cabc8fc787ca11ab_=_--
+

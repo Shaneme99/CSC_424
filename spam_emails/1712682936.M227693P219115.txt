@@ -1,0 +1,104 @@
+Return-Path: <meredithjones@finetimes.org>
+Delivered-To: untroubl8492-bruce@untroubled.org
+Received: (qmail 262349 invoked from network); 9 Apr 2024 16:05:55 -0000
+Received: from mail-qt1-x82f.google.com (mail-qt1-x82f.google.com [IPv6:2607:f8b0:4864:20::82f])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 09 Apr 2024 16:05:55 -0000
+Received: by mail-qt1-x82f.google.com with SMTP id d75a77b69052e-4345f35daa7so16003411cf.0
+        for <bruce@untroubled.org>; Tue, 09 Apr 2024 09:05:55 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=finetimes-org.20230601.gappssmtp.com; s=20230601; t=1712678754; x=1713283554; darn=untroubled.org;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=3+eMnKaE453kUvn1JeMD/bm8a3x51XEh6gum7fTMpe0=;
+        b=YuncWc+nRp/Q8VK1//UXXwRB9O1QPk7MKP21vAg3VtIa9LzERV9SpIRpAsXzLPctjI
+         7b2iz5yyD1hHGicvR0ZLxYMS37+9TlDlCALpxyXdnd23Sm6z59jRSiTXQyjqjqgRNzvK
+         2uenv1ErzzkK7L5xaxvl6Dw9DaHLV7SFGTEqMxzfObQ+8YyRBji5uaYVmRHRuzGHaWXh
+         z9pSiqA2GUcI5jY9YLPqZ2uiW6EeUnspIzlv0LiHUs7QF2MxLDPYlYIFxv+x+H8C9Dpl
+         VAJZuwjk2BrCke5ZMmrdqWpvumOiPUAXlqKeVDVuI8E6NnmFhTKBUx2mnVnR3jL4lbaI
+         uFJw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1712678754; x=1713283554;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=3+eMnKaE453kUvn1JeMD/bm8a3x51XEh6gum7fTMpe0=;
+        b=FDXYC7t21dSjN+PFgsNmjkCqq0B4BoUnbTozzG5gHGH+T1zqKeA6pRzoNzxOQ7eh4e
+         q3+rZKl9mWt/rDyjRWCJb4k06JwXXoCDx0EM2dfib5NbN/Elt31nrAP4xIjmeLdx1eYf
+         Mxpf8HuoZM9fkSh7lmfagxcopAioCYph4A7oIJnrtdF5nplEhE/g1my4+5TY1tVCmQU8
+         F2ky3x7q8D9mQOCE9z5hegDGlAe8SWIqy1FNRgewN232stSY0AFIIIfiu5T27rWNv6bB
+         A/SKgZTcL+1/2dwIHIt3w/ahWV/om0CZ/uQluZSQ+mK+AwCu+LmhkGRhe5QM47YcuXXD
+         6GQw==
+X-Gm-Message-State: AOJu0YwgiKlx5nyx/J4AQk0APnZiEO5Uix2UEyzaM4X8tf+M8rFtFANC
+	xR/ZfAqr1JExmPelciGEdXrEw7dqgyABd9RH1UrZIvFOUCwPQ4s5kczjrlNgyvSUQBrb9gg9i5v
+	SC1kQMEqeaeo7QCALDKXLvmiiEcEt10NKyAZT4U7K8jJLTqA8
+X-Google-Smtp-Source: AGHT+IEsiMI6e4W/xnqzvlTTO5YhueOIw7xdYmU2OJTHgiV/XUX05ehKokwQC97pVXxxLMqLt3JMN9vVm+IqrJHzbSU=
+X-Received: by 2002:a05:6214:403:b0:696:7ffc:4617 with SMTP id
+ z3-20020a056214040300b006967ffc4617mr16591083qvx.11.1712678754521; Tue, 09
+ Apr 2024 09:05:54 -0700 (PDT)
+Received: from 793905511239 named unknown by gmailapi.google.com with
+ HTTPREST; Tue, 9 Apr 2024 09:05:51 -0700
+MIME-Version: 1.0
+From: Meredith Jones <meredithjones@finetimes.org>
+Date: Tue, 9 Apr 2024 09:05:51 -0700
+Message-ID: <CA+oUgqGDX-O-M42Gp9=u8xiShyoXqKegd67ZeUYZNCW5ze+aYA@mail.gmail.com>
+Subject: I have something special for your blog
+To: bruce@untroubled.org
+Content-Type: multipart/alternative; boundary="000000000000c7644d0615ac180d"
+
+--000000000000c7644d0615ac180d
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi there!
+
+
+Are you looking for an activity that the whole family can enjoy together?
+Teaching your kids how to slam dunk may be just what you're looking for.
+With basketball goals readily available in nearby parks, it's never been
+easier to get fit while having fun with your little ones and hone those
+bball skills!
+
+
+If you=E2=80=99re up for it, I=E2=80=99d love to write a guest article for =
+your website
+about learning how to dunk a basketball and how to make it a family
+activity.
+
+
+Thanks!
+
+Meredith Jones
+
+*Finetimes.org* <https://finetimes.org/>
+
+
+
+*P.S. By the way, if you don=E2=80=99t like the suggested topic, do reach o=
+ut to me
+with a topic that=E2=80=99s a better fit for your website. If you don=E2=80=
+=99t want to
+hear from me again, please let me know.*
+
+--000000000000c7644d0615ac180d
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<p><span style=3D"color:rgb(0,0,0)">Hi there!</span></p><p><br></p><p><span=
+ style=3D"color:rgb(0,0,0)">Are you looking for an activity that the whole =
+family can enjoy together? Teaching your kids how to slam dunk may be just =
+what you&#39;re looking for. With basketball goals readily available in nea=
+rby parks, it&#39;s never been easier to get fit while having fun with your=
+ little ones and hone those bball skills!=C2=A0</span></p><p><br></p><p><sp=
+an style=3D"color:rgb(0,0,0)">If you=E2=80=99re up for it, I=E2=80=99d love=
+ to write a guest article for your website about learning how to dunk a bas=
+ketball and how to make it a family activity.</span></p><p><br></p><p><span=
+ style=3D"color:rgb(0,0,0)">Thanks!</span></p><p><span style=3D"color:rgb(0=
+,0,0)">Meredith Jones</span></p><p><a target=3D"_blank" rel=3D"noopener nor=
+eferrer nofollow" href=3D"https://finetimes.org/"><span style=3D"color:rgb(=
+17,85,204)"><u>Finetimes.org</u></span></a></p><p><br><br></p><p><em><span =
+style=3D"color:rgb(0,0,0)">P.S. By the way, if you don=E2=80=99t like the s=
+uggested topic, do reach out to me with a topic that=E2=80=99s a better fit=
+ for your website. If you don=E2=80=99t want to hear from me again, please =
+let me know.</span></em></p><p><br></p>
+
+--000000000000c7644d0615ac180d--

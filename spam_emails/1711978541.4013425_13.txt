@@ -1,0 +1,38 @@
+Return-Path: <>
+Received: from localhost (localhost [127.0.0.1])
+	by mail.thd2000.com (Postfix - by thd2000.com) with ESMTP id 42801203085;
+	Sat, 30 Mar 2024 22:53:47 +0800 (CST)
+X-Virus-Scanned: amavisd-new at thd2000.com
+Received: from mail.thd2000.com ([127.0.0.1])
+	by localhost (mail.thd2000.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 1eWFKQc34I1Z; Sat, 30 Mar 2024 22:53:47 +0800 (CST)
+Received: from User (unknown [80.244.11.7])
+	by mail.thd2000.com (Postfix - by thd2000.com) with ESMTPA id 1D8262028C2;
+	Sat, 30 Mar 2024 22:53:31 +0800 (CST)
+Reply-To: <johanneskhosa8@gmail.com>
+From: "Johannes Khosa" < <">"@mail.thd2000.com>
+Subject: Investment Proposal
+Date: Sat, 30 Mar 2024 07:53:46 -0700
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20240330145347.42801203085@mail.thd2000.com>
+To: undisclosed-recipients:;
+Content-Length: 1283
+
+Greetings,
+ 
+My name is Johannes Khumalo Khosa, a financial consultant with offices in South Africa and Uganda. I was contacted by one of the most senior Personal Assistant to the late President of Namibia Mr. Hage Geingob who died recently from cancer. The P A (Personal Assistant) to the late president intimated me of a large amount of funds he deposited discreetly on behalf of the late president with a Security Company in Kampala, Uganda and now, wants this funds to be transferred out as investment funding to a reputable company or business venture in a country with a good economic prospect for business partnership purposes. He propose to remain a dormand partner and only demand that a good MOU be signed between the choosen business owner and himself which will protect his interest be signed before the transaction is executed.
+ 
+Hence, I am looking for a reliable and capable individual, company or potential business/Project owner like yourself or friends with good business plans regardless of the sector who is willing and interested in going into business partnership. This person may be requiring business funding or looking forward to expanding an already existing business.
+
+So, let me know if you are interested for more details.
+ 
+Regards,
+ 
+Johannes K. Khosa

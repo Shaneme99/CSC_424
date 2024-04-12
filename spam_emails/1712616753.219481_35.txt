@@ -1,0 +1,122 @@
+Return-Path: <bounce-bruce=untroubled.org@themail247.info>
+Delivered-To: untroubl8492-bruce@untroubled.org
+Received: (qmail 120420 invoked from network); 6 Apr 2024 17:10:33 -0000
+Received: from alt5.gmail-smtp.themail247.info (alt5.gmail-smtp.themail247.info [64.227.162.185])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 06 Apr 2024 17:10:33 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=dkim; d=themail247.info;
+ h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:List-Unsubscribe:List-Id; i=support@themail247.info;
+ bh=hX5MXPH4v2CqZnB+LDYStv2pUoosra9zU2P4YKpY64o=;
+ b=FQWwHUTO2nzp1gAz64z9sdrJzy2zzGv0N8xOC+AuAufdacG+x4SFNrOmNRKiUts6sZBvzzLC0dcY
+   ipFu/VXOZFOqBmRe94/Wt/efgHEIBqyBggZdOFSg5W5pStBZlxvQVGW04IpqRR3zqNS1MbAp6bwT
+   Yton+PgIoIAKn02cY6P8BtOio9kFWZfyobXJmWxlS/qZR1V1U0WEshdrG/FfUcjV6qAG34RCQaTi
+   xu8i5rl3q4tKOFIrEvN84r8C/6CQoQhrERUBCuVWh/cyQ6BCNFmwC1DhwdE1cSpbJ4aeMuNUHnz2
+   FEjUvwHPCQWmKJLKr9SM7H0mHxToGUefvLXq7A==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=themail247.info;
+ b=FqMNmQbWtn3mlsNftcm4LqZATjbG051djLU+PvYJNeJh+tqX0DT7Cmii72l55ZLJfFp+LAMH66jK
+   v2AyJ1cT6ETfGo9GZPoEPJmQKVnyivxYpVV9yPqK49XCyapBlaK+pecnnrn4QF37XgJ+S53Cu3pq
+   Ug399XYcWaZTcrBZU7kruBSA3LiZA0IKxRAKq34tuWI54av/oA6KzVwrKkFGN8qI038LRWV0wdl4
+   +CIPm7mhKCLo8ZosdZ3ULdn/aaCQkijHi2YpAYw/05tHKv8ju7eE59Nn9T8OaC4tpNdHF2lccTOL
+   C24VmL7pZ/nODLCiO7Kft88x2eHeNWaVsnPtqg==;
+Return-Path: <bounce@themail247.info>
+DKIM-Signature: v=1; a=rsa-sha256;
+ bh=hX5MXPH4v2CqZnB+LDYStv2pUoosra9zU2P4YKpY64o=; d=themail247.info;
+ h=Message-ID: Date: Subject: From: Reply-To: To: MIME-Version: Content-Type:
+ List-Unsubscribe-Post: List-Unsubscribe: List-Id: Feedback-ID;
+ i=@themail247.info; s=mailer; c=relaxed/relaxed; t=1712423424;
+ b=X7FLmbLzfwzhtRFZ11VeyCikSx3VcjqY4oijGRz4RtIMzna2DeKnK3uK52cL3lLkwEwe62B3+
+ uaawNcYauWUwHhKjjunB7qXIFMOJr9bC5bAC+FC96UOdWP1Jc5zJD+5mZa7yllZou8P8tYrEo
+ AXKKqc+59pvEw62Qi6tKMZ0D+tl0G4Qb6JqhfdJVXY1y7n0VGfuwcVVTzM0nhYqYLz17b1w8e
+ Grt1T9omUJ7Xm9ONSAAavo8NMklog1UO6QjWm27xsl0Tu7/jUO3/ufxd7rGUnybtOI/JKf+Bk
+ 5t+mS5uDV8an9rsFI0s5Z+uQgja7NWqjcCwc+VMCYRhJ+mVQ5A==
+Message-ID: <7ef60ef1e37853b59603ac224ef360220437993f@themail247.info>
+Date: Sat, 06 Apr 2024 17:10:24 +0000
+Subject: Hello bruce@untroubled.org ,Your Opinion is Important
+ =?utf-8?Q?=F0=9F=92=B0_=F0=9F=92=B2?=
+From: Walgreens Survey Rewards <support@themail247.info>
+Reply-To: Walgreens Survey Rewards <noreply@themail247.info>
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1712423424_1707d8ca0d5180d2ac5f6c3034d613e0_=_"
+X-Report-Abuse: https://transcm.info/index.php/campaigns/vm960swc4j7f1/report-abuse/ot337k3vdw350/dx685wram0142
+x-job: vm960swc4j7f1
+X-EBS: https://transcm.info/index.php/lists/block-address
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Unsubscribe: <https://transcm.info/index.php/lists/ot337k3vdw350/unsubscribe/dx685wram0142/vm960swc4j7f1?source=email-client-unsubscribe-button>,
+ <mailto:noreply@themail247.info?subject=Campaign-Uid%3Avm960swc4j7f1%20%2F%20Subscriber-Uid%3Adx685wram0142%20-%20Unsubscribe%20request&body=Please%20unsubscribe%20me%21>
+List-Id: ot337k3vdw350 <US>
+Feedback-ID: vm960swc4j7f1:dx685wram0142:ot337k3vdw350:jw935skowlb0d
+Content-Length: 2318
+
+
+--_=_swift_1712423424_1707d8ca0d5180d2ac5f6c3034d613e0_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Claim Your Rewards!
+Dear Valued User,
+
+At Walgreens, we are constantl=
+y trying to improve our service and
+would like to hear your feedback on h=
+ow we performed.
+
+The survey is short and will only take 2 minutes to c=
+omplete.
+
+And Of Course there's a promo reward to you After Finishing.=
+
+
+Take the survey
+[https://transcm.info/index.php/campaigns/vm960swc4=
+j7f1/track-url/dx685wram0142/bee1a4fd7c736f98d286841b48e01fe8e89db97b]
+=
+
+We appreciate your partnership and collaboration.
+
+Dont want to part=
+icipate please=C2=A0Unsubscribe Here
+[https://transcm.info/index.php/camp=
+aigns/vm960swc4j7f1/track-url/dx685wram0142/44da84997c437d3694a79cbd1eae9a2=
+595ba5833]
+
+--_=_swift_1712423424_1707d8ca0d5180d2ac5f6c3034d613e0_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head><meta charset=3D"utf-8"/>
+=09<title>Hello bruce@untroubled.org ,Your Opinion is Important =
+=F0=9F=92=B0 =F0=9F=92=B2</title>
+<style type=3D"text/css">span.preheader{display:none!important;mso-hide:all=
+;}</style></head>
+<body><span class=3D"preheader" style=3D"display:none!important;mso-hide:al=
+l;">Claim Your Rewards!</span><br />
+Dear Valued User,<br />
+<br />
+At Walgreens, we are constantly trying to improve our service and would lik=
+e to hear your feedback on how we performed.<br />
+<br />
+The survey is short and will only take 2 minutes to complete.<br />
+<br />
+And Of Course there's a promo reward to you After Finishing.<br />
+<br />
+<a href=3D"https://transcm.info/index.php/campaigns/vm960swc4j7f1/track-url=
+/dx685wram0142/bee1a4fd7c736f98d286841b48e01fe8e89db97b">Take the survey</a=
+><br />
+<br />
+We appreciate your partnership and collaboration.<br />
+<br />
+<br />
+Dont want to participate please=C2=A0<a data-unsubtag=3D"_UNSUBSCRIBE_URL_"=
+ href=3D"https://transcm.info/index.php/campaigns/vm960swc4j7f1/track-url/d=
+x685wram0142/44da84997c437d3694a79cbd1eae9a2595ba5833">Unsubscribe Here</a>=
+<img width=3D"1" height=3D"1" src=3D"https://transcm.info/index.php/campaig=
+ns/vm960swc4j7f1/track-opening/dx685wram0142" alt=3D"" />
+</body>
+</html>
+
+--_=_swift_1712423424_1707d8ca0d5180d2ac5f6c3034d613e0_=_--
+

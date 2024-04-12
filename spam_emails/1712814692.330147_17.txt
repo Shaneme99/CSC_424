@@ -1,0 +1,201 @@
+Return-Path: <bounce-bruce=untroubled.org@themail247.info>
+Delivered-To: untroubl8492-bruce@untroubled.org
+Received: (qmail 325980 invoked from network); 11 Apr 2024 02:08:40 -0000
+Received: from alt5.gmail-smtp.themail247.info (alt5.gmail-smtp.themail247.info [64.227.162.185])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 11 Apr 2024 02:08:39 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=dkim; d=themail247.info;
+ h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:List-Unsubscribe:List-Id; i=support@themail247.info;
+ bh=oOAayTYQDDjn7dodBiiDsM1DKpUaF/IWO6KG1SLxCuo=;
+ b=Qrh+6CzOiW6mTV2/0C2gJ9ERnR6c1zPs9qb0tmDTDCxECpZkWi21xS3x3VTWdGl0dexC1LsJt7Ki
+   +30xK1jnYVRUhT3wq8tQYc3MVZBNaVEbhtWx5Z12h7TZi0eE1ZlS6F/RFLPEKK7bnrIUkS7MzAZ4
+   OGH3X5FjyGNoREs89Bs4q2zUJV9z3xagTyQ0DHYSQ498Nj+zvtTd7pkS5Ge1aHPIJneXakEevovz
+   X5M8J3iVTsKC8S7SYyhEQ52/YgCX9q9N/uiGOMstmB4PFxpoLL5tvbou8RkQ/V3OXpXmwQdTSmWN
+   l8OiXHs3Ke1INlSe5vgRJesQw94k/HCGRM7KPA==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=themail247.info;
+ b=eXQL6+PX4E02uD/ehYqNTziB2mw2XHujlHnrNsLpTML9eCIf1KmSPXIyamMb4Aas77+VLlwj8Nmr
+   oqVhRT7Imh6wFwP7Acxnq4JggOQeI1EuQLWC+6ksw38lpooL+wAMUg0Q0fu9zBvxbR8yeW499ZpW
+   5byAB9aB9nOq+lLCM1sVGe2ybrTbI/Wrhvpp5YJ9Zh4L9X/s15wg4FpdmrDx0BUw+0WYf08l6T+P
+   1kIEs+vfpBN3aaMdxof5TX6v2nVuPw9laBQh0B2O9MY6rl4ZT8SbjwKoQraQqrU9tpqfSDRnNKK8
+   6Iuve+0OTOZD/2xIiuc2I1X2D3cdyW2Gln4New==;
+Return-Path: <bounce@themail247.info>
+DKIM-Signature: v=1; a=rsa-sha256;
+ bh=oOAayTYQDDjn7dodBiiDsM1DKpUaF/IWO6KG1SLxCuo=; d=themail247.info;
+ h=Message-ID: Date: Subject: From: Reply-To: To: MIME-Version: Content-Type:
+ List-Unsubscribe-Post: List-Unsubscribe: List-Id: Feedback-ID;
+ i=@themail247.info; s=mailer; c=relaxed/relaxed; t=1712801307;
+ b=qXWPllHq7RikCZ7hz+nLi0lkjpa8rJ5imBUBOLvKxtdB9Xk2w6wUp/UeaWwzvx/+VXuu7HjWI
+ 5ZAVR6n3j66m0x7dhWLPa3nIEjN7D7dRTYOHnZRyvBk2z8aTA8TL2ZGzC3cDcO1bum0NIqh5d
+ INrEBgkUqpx03xgOZM7Acr/GX7rfI2Zv74sDA9FcPTR+ftLcBTZ6CVSkfsGnaKp3u00ge+wTq
+ NNBUutcTswPZ1AHQM/iyqhzr+eU5HDx2zxnJYr7g3P8y9KyAOWmmligQqt8Ql28kj02BsWl3n
+ puR0G7LGDa6knsSzeznf9Urzy/yjLh8X3ChvqjfGtFTT9w7oyw==
+Message-ID: <08eb0c9337214c2b208a45ae8311f75ed61a2d69@themail247.info>
+Date: Thu, 11 Apr 2024 02:08:27 +0000
+Subject: Hello bruce@untroubled.org,Share Your Thoughts and Receive a Portable
+ Air Conditioner as a Thank You!
+From: Home Improvement Survey! <support@themail247.info>
+Reply-To: Home Improvement Survey! <noreply@themail247.info>
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1712801307_eba6444d7444bc1b25ee4ab5e503918f_=_"
+X-Report-Abuse: https://transcm.info/index.php/campaigns/sf208wdksg99b/report-abuse/rz8467l1pa573/gj310kqvvff4f
+x-job: sf208wdksg99b
+X-EBS: https://transcm.info/index.php/lists/block-address
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Unsubscribe: <https://transcm.info/index.php/lists/rz8467l1pa573/unsubscribe/gj310kqvvff4f/sf208wdksg99b?source=email-client-unsubscribe-button>,
+ <mailto:noreply@themail247.info?subject=Campaign-Uid%3Asf208wdksg99b%20%2F%20Subscriber-Uid%3Agj310kqvvff4f%20-%20Unsubscribe%20request&body=Please%20unsubscribe%20me%21>
+List-Id: rz8467l1pa573 <USA>
+Feedback-ID: sf208wdksg99b:gj310kqvvff4f:rz8467l1pa573:jw935skowlb0d
+Content-Length: 4460
+
+
+--_=_swift_1712801307_eba6444d7444bc1b25ee4ab5e503918f_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+We Value Your Feedack!
+Dear Valued Customer,
+
+We're committed to prov=
+iding exceptional home improvement solutions
+that cater to your needs and=
+ preferences.
+Your feedback plays a crucial role in helping us enhance ou=
+r products
+and services to better serve you.
+
+We invite you to partic=
+ipate in our Home Improvement Survey and share
+your valuable insights wit=
+h us.
+As a token of our appreciation for your time and input, we're thril=
+led
+to offer you a complimentary Portable Air Conditioner upon completion=
+
+of the survey.
+
+Your opinion matters to us, and your feedback will h=
+elp shape the
+future of home improvement offerings.
+
+To access the su=
+rvey and claim your Portable Air Conditioner gift,
+simply CLICK HERE
+[h=
+ttps://transcm.info/index.php/campaigns/sf208wdksg99b/track-url/gj310kqvvff=
+4f/79ee98bda8dd3d61df3346a82686b9dbe4e7e99c]
+and complete the questionnai=
+re.
+
+Here's why you'll love the Portable Air Conditioner:
+
+ =09* CO=
+OLING COMFORT
+ =09* PORTABILITY
+ =09* ENERGY EFFICIENCY
+ =09* USER-FR=
+IENDLY DESIGN
+ =09* SPACE-SAVING
+
+Thank you for taking the time to pa=
+rticipate in our Home Improvement
+Survey.
+Your feedback is invaluable t=
+o us, and we can't wait to hear from you.
+
+=C2=A0
+
+Warm regards,
+=
+
+Patricia
+
+P.S. Don't miss out on your chance to receive a compliment=
+ary Portable
+Air Conditioner!
+Complete the survey now and enjoy cool, r=
+efreshing air wherever you
+go.
+
+=C2=A0
+
+If you dont want to parti=
+cipate please Unsubscribe Here
+[https://transcm.info/index.php/campaigns/=
+sf208wdksg99b/track-url/gj310kqvvff4f/cc727907a5758626648b1f3df8e975c26c660=
+6cc]
+
+--_=_swift_1712801307_eba6444d7444bc1b25ee4ab5e503918f_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head><meta charset=3D"utf-8"/>
+=09<title>Hello bruce@untroubled.org,Share Your Thoughts and Receive a Port=
+able Air Conditioner as a Thank You!</title>
+<style type=3D"text/css">span.preheader{display:none!important;mso-hide:all=
+;}</style></head>
+<body><span class=3D"preheader" style=3D"display:none!important;mso-hide:al=
+l;">We Value Your Feedack!</span>
+<p>Dear Valued Customer,</p>
+
+<p>We're committed to providing exceptional home improvement solutions that=
+ cater to your needs and preferences.<br />
+Your feedback plays a crucial role in helping us enhance our products and s=
+ervices to better serve you.</p>
+
+<p>We invite you to participate in our Home Improvement Survey and share yo=
+ur valuable insights with us.<br />
+As a token of our appreciation for your time and input, we're thrilled to o=
+ffer you a complimentary Portable Air Conditioner upon completion of the su=
+rvey.</p>
+
+<p>Your opinion matters to us, and your feedback will help shape the future=
+ of home improvement offerings.<br />
+<br />
+To access the survey and claim your Portable Air Conditioner gift, simply <=
+a href=3D"https://transcm.info/index.php/campaigns/sf208wdksg99b/track-url/=
+gj310kqvvff4f/79ee98bda8dd3d61df3346a82686b9dbe4e7e99c"><span style=3D"font=
+-size:16px;"><strong>Click Here</strong></span></a> and complete the questi=
+onnaire.<br />
+<br />
+Here's why you'll love the Portable Air Conditioner:</p>
+
+<ol>
+=09<li><strong>Cooling Comfort</strong></li>
+=09<li><strong>Portability</strong></li>
+=09<li><strong>Energy Efficiency</strong></li>
+=09<li><strong>User-Friendly Design</strong></li>
+=09<li><strong>Space-Saving</strong></li>
+</ol>
+
+<p>Thank you for taking the time to participate in our Home Improvement Sur=
+vey.<br />
+Your feedback is invaluable to us, and we can't wait to hear from you.</p>
+
+<p>=C2=A0</p>
+
+<p>Warm regards,</p>
+
+<p>Patricia</p>
+
+<p>P.S. Don't miss out on your chance to receive a complimentary Portable A=
+ir Conditioner!<br />
+Complete the survey now and enjoy cool, refreshing air wherever you go.<br =
+/>
+<br />
+=C2=A0</p>
+
+<p style=3D"text-align: center;">If you dont want to participate please <a =
+data-unsubtag=3D"_UNSUBSCRIBE_URL_" href=3D"https://transcm.info/index.php/=
+campaigns/sf208wdksg99b/track-url/gj310kqvvff4f/cc727907a5758626648b1f3df8e=
+975c26c6606cc">Unsubscribe Here</a></p>
+<img width=3D"1" height=3D"1" src=3D"https://transcm.info/index.php/campaig=
+ns/sf208wdksg99b/track-opening/gj310kqvvff4f" alt=3D"" />
+</body>
+</html>
+
+--_=_swift_1712801307_eba6444d7444bc1b25ee4ab5e503918f_=_--
+

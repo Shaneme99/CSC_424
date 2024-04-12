@@ -1,0 +1,130 @@
+Return-Path: <rebecca@dynamicshubs.com>
+Delivered-To: untroubl8492-bruce@untroubled.org
+Received: (qmail 312198 invoked from network); 10 Apr 2024 17:34:17 -0000
+Received: from mail-pl1-x630.google.com (mail-pl1-x630.google.com [IPv6:2607:f8b0:4864:20::630])
+  by vx0.untroubled.org ([IPv6:2001:19f0:5c01:c6b::100])
+  with ESMTP via TCP6; 10 Apr 2024 17:34:17 -0000
+Received: by mail-pl1-x630.google.com with SMTP id d9443c01a7336-1e3f17c64daso28257015ad.3
+        for <bruce@untroubled.org>; Wed, 10 Apr 2024 10:34:17 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=dynamicshubs-com.20230601.gappssmtp.com; s=20230601; t=1712770456; x=1713375256; darn=untroubled.org;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=WBuRmyslJHiFzkCJn624xSONSG2vwBGNhqfjVL5TMvQ=;
+        b=vDjCOV7ll0FILwOHkGqr9X1CjnNM+az0YTDUZD5x7nL9FAKEKjmUjAQW+Y13YL6ZKn
+         r0pVYZ6cmUVwjJmagq+RxbkDQ8dZTHyud9xqWU1qUofSFX6cyL+xKPiWlxAHgZR7fOMl
+         iDTX1npKjHshdj3xZWTikvHh7FVRX7pLW3mK1gvnLf1lYj42owl42tJ2NMzC9fIJYngG
+         wXc1JU7rb19cIM2Lk1Nu1i5he65EPybavvmrVLi1WoDw/tNjwjpn58VjOWE5H6xm7bdJ
+         WDBSfaLgWrhyXUpfiykwGnGg73DtI+0OWS4EF4A6+9SALlF/K4gHZK4cRmRzN9vIXh5x
+         9tDw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1712770456; x=1713375256;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=WBuRmyslJHiFzkCJn624xSONSG2vwBGNhqfjVL5TMvQ=;
+        b=Xxf0HLXTX2mQJ2pO+9CU4gB5908ghV1mHNzV1zB1uLVci0vSisU3EpkMXoc2b4ncRO
+         1bM2p/0a+lPZiXB7uxhukMQ/D2fx6qf40oWQau7NeRXVvU/3E8JcFa32RUl0yxbrNaal
+         TTQHZO97WHCslX6m9KJHNy5NyGK7l4EvhySKFTk7kFl4SIaxebMMewg2gJMzrlH9U5wT
+         6TrNfr3s5da669zQutelianMoIcyNQOFoYJfh0JrqnnEoMYO6uavQSzCaEGf0rxy/fXT
+         DtqVA1F4jj11cDJfm1zcsETVfZ0a3WTmGSicdfJKHoFrt2psIyMiF9pejoqMeAlLpm22
+         0LJg==
+X-Forwarded-Encrypted: i=1; AJvYcCUy9FctHx+dAeV6nV/HIiHzcpkg6SIEyXGefhMQ2zZHvWwWG4aUdpEHRZ+bBTklI2XnEjsowJEev5Kw/c7beU1NJ3bi/w==
+X-Gm-Message-State: AOJu0YzImaI4Rz9Vcy22bLOz5lu2wn7IFmatNuHNE+dit8shcA1rUbej
+	Y7N6IJQpQubxY47Q6B6y8qBOZVZHPwxcYksGQhRvPRvKV+A2PeTG1IGve9JbYqBxt8sHsSgSyLw
+	B22rEMsoP3IgOFSrY1iyMuwOUkPaYXM/Mhb7rbw==
+X-Google-Smtp-Source: AGHT+IHwd1IKapsvHe++N6Kou8X8BXilxkxV2dJuYRXyBYW8ILWfxV947UKNkejr4J/S+ZQML2G492uuxdqqWCl2o+s=
+X-Received: by 2002:a17:903:2344:b0:1e5:283e:8ae2 with SMTP id
+ c4-20020a170903234400b001e5283e8ae2mr1266777plh.25.1712770455754; Wed, 10 Apr
+ 2024 10:34:15 -0700 (PDT)
+MIME-Version: 1.0
+From: Rebecca Bryan <rebecca@dynamicshubs.com>
+Date: Wed, 10 Apr 2024 12:34:05 -0500
+Message-ID: <CAMiVb40T0TSQUwS9E8Wpjb0cggK6AVJQpLQ6ffh=uEWymd5DMg@mail.gmail.com>
+Subject: RE: Veterinary Conference Attendees Email List
+To: Rebecca Bryan <rebecca@dynamicshubs.com>
+Content-Type: multipart/alternative; boundary="00000000000098f0c70615c17215"
+Bcc: bruce@untroubled.org
+
+--00000000000098f0c70615c17215
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+
+
+Would you be interested in acquiring Veterinary Conference Attendees Email
+List 2024?
+
+
+
+Target Audience Counts Cost
+
+
+
+Western Veterinary Annual Conference 12,643 $1,589
+
+Midwest Veterinary Conference 8,956 $1,429
+
+Veterinary Meeting & Expo 15,482 $1,642
+
+AVMA Convention 10,968 $1,549
+
+
+
+You can acquire all shows at discounted price of $4,289
+
+
+
+Kind Regards,
+
+Rebecca Bryan
+
+Marketing Coordinator
+
+--00000000000098f0c70615c17215
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;fo=
+nt-size:11pt;font-family:Calibri,&quot;sans-serif&quot;"><span style=3D"col=
+or:rgb(0,32,96)">Hi,</span></p><p class=3D"MsoNormal" style=3D"margin:0cm 0=
+cm 0.0001pt;font-size:11pt;font-family:Calibri,&quot;sans-serif&quot;"><spa=
+n style=3D"color:rgb(0,32,96)">=C2=A0</span></p><p class=3D"MsoNormal" styl=
+e=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font-family:Calibri,&quot;sans-=
+serif&quot;"><span style=3D"color:rgb(0,32,96)">Would you be interested in =
+acquiring Veterinary Conference Attendees Email List 2024?</span></p><p cla=
+ss=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font-famil=
+y:Calibri,&quot;sans-serif&quot;"><span style=3D"color:rgb(0,32,96)">=C2=A0=
+</span></p><p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;font-siz=
+e:11pt;font-family:Calibri,&quot;sans-serif&quot;"><span style=3D"color:rgb=
+(0,32,96)">Target Audience Counts Cost</span></p><p class=3D"MsoNormal" sty=
+le=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font-family:Calibri,&quot;sans=
+-serif&quot;"><span style=3D"color:rgb(0,32,96)">=C2=A0</span></p><p class=
+=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font-family:=
+Calibri,&quot;sans-serif&quot;"><span style=3D"color:rgb(0,32,96)">Western =
+Veterinary Annual Conference 12,643 $1,589</span></p><p class=3D"MsoNormal"=
+ style=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font-family:Calibri,&quot;=
+sans-serif&quot;"><span style=3D"color:rgb(0,32,96)">Midwest Veterinary Con=
+ference 8,956 $1,429</span></p><p class=3D"MsoNormal" style=3D"margin:0cm 0=
+cm 0.0001pt;font-size:11pt;font-family:Calibri,&quot;sans-serif&quot;"><spa=
+n style=3D"color:rgb(0,32,96)">Veterinary Meeting &amp; Expo 15,482 $1,642<=
+/span></p><p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;font-size=
+:11pt;font-family:Calibri,&quot;sans-serif&quot;"><span style=3D"color:rgb(=
+0,32,96)">AVMA Convention 10,968 $1,549</span></p><p class=3D"MsoNormal" st=
+yle=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font-family:Calibri,&quot;san=
+s-serif&quot;"><span style=3D"color:rgb(0,32,96)">=C2=A0</span></p><p class=
+=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font-family:=
+Calibri,&quot;sans-serif&quot;"><span style=3D"color:rgb(0,32,96)">You can =
+acquire all shows at discounted price of $4,289</span></p><p class=3D"MsoNo=
+rmal" style=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font-family:Calibri,&=
+quot;sans-serif&quot;"><span style=3D"color:rgb(0,32,96)">=C2=A0</span></p>=
+<p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font=
+-family:Calibri,&quot;sans-serif&quot;"><span style=3D"color:rgb(0,32,96)">=
+Kind Regards,</span></p><p class=3D"MsoNormal" style=3D"margin:0cm 0cm 0.00=
+01pt;font-size:11pt;font-family:Calibri,&quot;sans-serif&quot;"><span style=
+=3D"color:rgb(0,32,96)">Rebecca Bryan</span></p><p class=3D"MsoNormal" styl=
+e=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font-family:Calibri,&quot;sans-=
+serif&quot;"><span style=3D"color:rgb(0,32,96)">Marketing Coordinator</span=
+></p></div>
+
+--00000000000098f0c70615c17215--

@@ -1,0 +1,41 @@
+Return-Path: <james@paydayhero.loan>
+Received: from authenticated-user (paydayhero.loan [62.133.61.165])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits))
+	(No client certificate requested)
+	by paydayhero.loan (Postfix) with ESMTPSA id 358E049DF7
+	for <bruce@untroubled.org>; Wed, 10 Apr 2024 18:39:39 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=paydayhero.loan;
+	s=mail; t=1712767179;
+	bh=yk2QpO11N4JwPhf013mjcczZyCBVpr9a2c9LS/P+zi4=;
+	h=Date:To:From:Reply-To:Subject:List-Unsubscribe:From;
+	b=NXGdNQN1cBzTBfqeY9YkFJQGSd2h7erUJQin6aKHbTfBLpfRDpjT6tAfJasjBrv0x
+	 RjMH9NhlyLFNNHJZAg7Yx4Ces/naxQ9bX2ai10WUMAQcsHRNXv4DIyD/Hronv5tj5Y
+	 wDwFWhFsVyx77OVkBKGSOnOg1S3oVh2mBvhlpVs4FFtxoIdXZ6sL8LLZ7eYwZEhlVM
+	 0qgoKStpxUpMrUPSM7ynx3l76GmHhXZC/SACKE1mVQgJLPk+37fJOXKhI+8sDar8il
+	 xQ3WugZxY8fRh9fPKEf4EK1eJkOMXi6dxY4R5gWQOMwYag+Ck0xQ3CQYWhwTL/T5jc
+	 0h4vboDjARmfQ==
+Date: Wed, 10 Apr 2024 18:39:39 +0200
+To: bruce@untroubled.org
+From: James May <james@paydayhero.loan>
+Reply-To: James <data@marketboy.biz>
+Subject: DataLeadsFinder Shutting Down
+Message-ID: <eROMOw44ZZnPhOfQJD189oPhuxtQsQoUvfQsGO0Us@localhost>
+List-Unsubscribe: mailto:james@paydayhero.loan?subject=Unsubscribe
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Length: 901
+
+PCFkb2N0eXBlIGh0bWw+DQo8aHRtbD48Ym9keT5IaSEgPGJyLz48YnIvPg0KDQpBZnRlciBtYW55
+IGhhcHB5IGN1c3RvbWVycyBzZXJ2ZWQsIHdlIHJlZ3JldCB0byBpbmZvcm0geW91IHRoYXQgRGF0
+YUxlYWRzRmluZGVyIGlzIHNodXR0aW5nIGRvd24hIDxici8+IDxici8+DQoNCkFzIG91ciBzdGFy
+dHVwIHBpdm90cyB0byBzb21ldGhpbmcgZ3JlYXRlciwgd2UncmUgc2VsbGluZyBhbGwgb3VyIG1p
+bGxpb25zIG9mIGNvbnN1bWVyIGFuZCBidXNpbmVzcyBsZWFkcyBmb3IgPHN0cm9uZz5UaGUgRW50
+aXJlIFdvcmxkPC9zdHJvbmc+IG9uIG91ciB3YXkgb3V0LiA8YnIvPiA8YnIvPg0KDQpXZSBoYXZl
+IHRoZSBmb2xsb3dpbmcgZGF0YXNldHMgYXZhaWxhYmxlIGZvciBUaGUgRW50aXJlIFdvcmxkPGJy
+Lz4gPGJyLz4NCg0KPHVsPg0KPGxpPkNvbnN1bWVyIFJlY29yZHM6IDI5NCw1ODIsMzUxIDwvbGk+
+DQo8bGk+QnVzaW5lc3MgUmVjb3JkczogMjUsMjE1LDI3OCA8L2xpPg0KPC91bD4NCjxhIGhyZWY9
+J2h0dHBzOi8vdW50cm91YmxlZC5leGNlbHdvcmxkLnNob3AvJyc+VmlldyBvdXIgbGVhZHMgaGVy
+ZTwvYT48YnIvPiA8YnIvPg0KDQpCZXN0IHJlZ2FyZHMsDQo8YnIvPg0KSmFtZXMgTWF5DQoNCjxi
+ci8+DQoNCkVtYWlsIElEOiBiNjg3Mjg8L2JvZHk+DQo8L2h0bWw+
+

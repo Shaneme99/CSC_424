@@ -1,0 +1,49 @@
+Return-Path: <bounce-a70-927-928-9f23cefa=37876754=8@securewebs.info>
+Delivered-To: untroubl8492-bruce@untroubled.org
+Received: (qmail 109499 invoked from network); 6 Apr 2024 08:16:36 -0000
+Received: from fAZfAyrUO.securewebs.info (fazfayruo.securewebs.info [143.110.247.100])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 06 Apr 2024 08:16:36 -0000
+DKIM-Signature: a=rsa-sha256; bh=2qgTyayMkx7DXRIH5T+tLEGm7P+NnuT9evCUHM/sF9U=;
+ c=simple/simple; d=securewebs.info;
+ h=Subject:From:To:Sender:Reply-To:Date:List-Unsubscribe:List-Unsubscribe-Post:X-CampaignID:Message-ID:X-Mailer-Info:MIME-Version:Content-Type:Content-Transfer-Encoding;
+ s=ificfbkee; t=1712383737; v=1;
+ b=PD4LF/X1yqrcS1+8R9XBiU0OjQkhqUwumaxkYg7nuUoN1vYk42og025qRDUZfBnZ/HAshV86
+ eQmzRwd/rsM2cjZSK2yJpRYqqr3HJQJi6RlkbZ6Y5dmk2vWVXQi9e9SvN1Udvr2SqmWLnQlEsaW
+ VGc+QI4URGffOWmcne/10o0w=
+Subject: =?UTF-8?Q?Hello=20=20=2CYour=20Opinion=20is=20Important?=
+ =?UTF-8?Q?=20=F0=9F=92=B0?=
+From: "Walgreens Survey Rewards" <info@securewebs.info>
+To: bruce@untroubled.org
+Sender: info@securewebs.info
+Reply-To: info@securewebs.info
+Date: 06 Apr 2024 06:08:57 -0000
+List-Unsubscribe: <https://securewebs.info/ga/unsubscribe/2-37876754-70-455-928-9088682ba80503a-6hc240e119>,
+ <mailto:bounce-a70-927-928-9f23cefa=37876754=8u@securewebs.info>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-CampaignID: s4:927-0d616fb3f218b8d3
+Message-ID: <mid-ddbd59c2229d5c9c662d7f36b781eea3-2@securewebs.info>
+X-Mailer-Info: 11.hdDM.5IzN.Imc1NWZAVnb0J3b1JGblRmLvJ3Z.MzN4cjN3UDN.5IDO....
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Length: 936
+
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p>Dear Valued User,<br /><br />At Walgreens, we are constantly trying to i=
+mprove our service and would like to hear your feedback on how we performed=
+.<br /><br />The survey is short and will only take 2 minutes to complete.<=
+br /><br />And Of Course there's a promo reward to you After Finishing.<br =
+/><br /><a href=3D"https://securewebs.info/ga/click/2-37876754-70-455-928-5=
+10-4467d43968-6hc240e119" data-cke-saved-href=3D"https://trkwebs.com/click.=
+php?camp=3D4349&amp;pubid=3D407&amp;">Take the survey</a><br /><br />We app=
+reciate your partnership and collaboration.<br /><br /><br />Dont want to p=
+articipate please <a href=3D"https://securewebs.info/ga/unsubscribe/2-37876=
+754-70-455-928-9088682ba80503a-6hc240e119">Unsubscribe me </a></p>
+<img src=3D"https://securewebs.info/ga/open/2-37876754-70-455-928-6hc240e11=
+9" height=3D"2" width=3D"3" alt=3D""></body>
+</html>=

@@ -1,0 +1,206 @@
+Return-Path: <bounce-bruce=untroubled.org@streamiz.info>
+Delivered-To: untroubl8492-bruce@untroubled.org
+Received: (qmail 3919471 invoked from network); 29 Mar 2024 15:22:00 -0000
+Received: from yjyvaevcvg.streamiz.info (yjyvaevcvg.streamiz.info [159.65.152.213])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 29 Mar 2024 15:21:59 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=dkim; d=streamiz.info;
+ h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:List-Unsubscribe; i=kylin@streamiz.info;
+ bh=wj5YA1m7GAaDf+sq9MTdU7Twsr4IyRwoA8mAALWVJH8=;
+ b=it+fzhA8Q41RfkadY7IKU5ntcLzGagBJmTBNQh+1OJAzoCYw1zYpkdWbtY1x1d7Yu8BKnTJgMGp+
+   kCM/GYLlL4DNMyn2FHAC9wvZQ11HnqPHn7qw//Ne7qxI5DDV1P8DLDBd29QKEeeI87134HryNIFO
+   C1AX6HoeP/RM4znq0lg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=streamiz.info;
+ b=Ikg/WL+3UunV5NYxA7e7f2nTT40IfdzrmnDP5VU9WTTgi0s0KKVKKGWNDTnM1yT2guLpcpW2aIi6
+   3wpIb0IdYQ8BKY8Gp9Z4QwEAhxSQx5ODttBOxVgVJ8wKcR0Z6NqwFLdve++UIW3b4SOPI4zFSyHY
+   Lpg5Hm1jsJaW3RoCEQk=;
+Received: from cloud.appsmtpmailers.com (138.201.224.151) by yjyvaevcvg.streamiz.info id h0re9g0001gc for <bruce@untroubled.org>; Fri, 29 Mar 2024 15:21:49 +0000 (envelope-from <bounce-bruce=untroubled.org@streamiz.info>)
+Return-Path: <bounce@streamiz.info>
+Message-ID: <6792a4e14cc309a3b7f2903cf35cefc7c9d2bd41@streamiz.info>
+Date: Fri, 29 Mar 2024 15:21:48 +0000
+Subject: Hello bruce@untroubled.org Discover the Ultimate Relaxation:
+ Introducing Walk-In Bathtubs!
+From: Walk in Bath tub Services! <kylin@streamiz.info>
+Reply-To: Walk in Bath tub Services! <kylin@streamiz.info>
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1711725708_45a061c37ef7e00c31cf55f1526f5fa2_=_"
+X-Report-Abuse: http://cloudmanage.streamiz.info/index.php/campaigns/wp042j1ypvbef/report-abuse/zv1241r7e220d/nh413rfsm71c3
+x-job: wp042j1ypvbef
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Unsubscribe: <http://cloudmanage.streamiz.info/index.php/lists/zv1241r7e220d/unsubscribe/nh413rfsm71c3/wp042j1ypvbef?source=email-client-unsubscribe-button>,
+ <mailto:kylin@streamiz.info?subject=Campaign-Uid%3Awp042j1ypvbef%20%2F%20Subscriber-Uid%3Anh413rfsm71c3%20-%20Unsubscribe%20request&body=Please%20unsubscribe%20me%21>
+Feedback-ID: wp042j1ypvbef:nh413rfsm71c3:zv1241r7e220d:et092sqlrmee5
+Content-Length: 5038
+
+
+--_=_swift_1711725708_45a061c37ef7e00c31cf55f1526f5fa2_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+grab The Deal!
+Dear bruce@untroubled.org,
+
+Are you ready to elevate y=
+our bathing experience to new levels of
+comfort and luxury?
+Say hello t=
+o relaxation like never before with Walk-In Bathtub Shop!
+
+Introducing =
+our exquisite collection of walk-in bathtubs designed to
+transform your d=
+aily bathing routine into a rejuvenating spa-like
+experience
+
+Why Cho=
+ose Walk-In Bathtub Shop?
+
+ =09*
+Unparalleled Comfort: Immerse yourse=
+lf in deep, soothing baths
+designed to provide maximum comfort and relaxa=
+tion.=C2=A0
+
+ =09*
+Enhanced Safety: With our easy-access doors and no=
+n-slip surfaces,
+safety is our top priority.=C2=A0
+
+ =09*
+Therapeut=
+ic Benefits: Experience the healing power of hydrotherapy
+with our option=
+al whirlpool and air massage systems.
+Soothe sore muscles, alleviate join=
+t pain, and improve circulation
+with targeted hydrotherapy jets.
+
+ =
+=09*
+Premium Quality: Crafted from high-quality materials and built to
+=
+last, our walk-in bathtubs are designed to withstand the test of
+time.=
+=C2=A0
+
+ =09*
+Personalized Options: Choose from a variety of sizes, s=
+tyles, and
+features to create the perfect walk-in bathtub tailored to you=
+r
+preferences and needs.
+
+Ready to experience the ultimate relaxation=
+?=C2=A0
+
+As a special offer for our valued customers, Click Here
+[htt=
+p://cloudmanage.streamiz.info/index.php/campaigns/wp042j1ypvbef/track-url/n=
+h413rfsm71c3/c0ebfeb7dc0e1428096b061428823ad3ccb7641f]
+
+Don't miss out =
+on the opportunity to transform your bathing
+experience. SHOP NOW
+[http=
+://cloudmanage.streamiz.info/index.php/campaigns/wp042j1ypvbef/track-url/nh=
+413rfsm71c3/c0ebfeb7dc0e1428096b061428823ad3ccb7641f]at
+Walk-In Bathtub S=
+hop!
+
+Warm regards,
+
+=C2=A0Walk-In Bathtub Shop
+
+To opt out fro=
+m list please Unsubscribe here
+[http://cloudmanage.streamiz.info/index.ph=
+p/campaigns/wp042j1ypvbef/track-url/nh413rfsm71c3/3c8ca0e313932b98e7ab3a703=
+21753142c0b5d55]
+
+=C2=A0
+
+--_=_swift_1711725708_45a061c37ef7e00c31cf55f1526f5fa2_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head><meta charset=3D"utf-8"/>
+=09<title>Hello bruce@untroubled.org Discover the Ultimate Relaxation: Intr=
+oducing Walk-In Bathtubs!</title>
+<style type=3D"text/css">span.preheader{display:none!important;mso-hide:all=
+;}</style></head>
+<body><span class=3D"preheader" style=3D"display:none!important;mso-hide:al=
+l;">grab The Deal!</span>
+<p>Dear bruce@untroubled.org,</p>
+
+<p>Are you ready to elevate your bathing experience to new levels of comfor=
+t and luxury?<br />
+Say hello to relaxation like never before with Walk-In Bathtub Shop!</p>
+
+<p>Introducing our exquisite collection of walk-in bathtubs designed to tra=
+nsform your daily bathing routine into a rejuvenating spa-like experience</=
+p>
+
+<p>Why Choose Walk-In Bathtub Shop?</p>
+
+<ol>
+=09<li>
+=09<p>Unparalleled Comfort: Immerse yourself in deep, soothing baths design=
+ed to provide maximum comfort and relaxation.=C2=A0</p>
+=09</li>
+=09<li>
+=09<p>Enhanced Safety: With our easy-access doors and non-slip surfaces, sa=
+fety is our top priority.=C2=A0</p>
+=09</li>
+=09<li>
+=09<p>Therapeutic Benefits: Experience the healing power of hydrotherapy wi=
+th our optional whirlpool and air massage systems.<br />
+=09Soothe sore muscles, alleviate joint pain, and improve circulation with =
+targeted hydrotherapy jets.</p>
+=09</li>
+=09<li>
+=09<p>Premium Quality: Crafted from high-quality materials and built to las=
+t, our walk-in bathtubs are designed to withstand the test of time.=C2=
+=A0</p>
+=09</li>
+=09<li>
+=09<p>Personalized Options: Choose from a variety of sizes, styles, and fea=
+tures to create the perfect walk-in bathtub tailored to your preferences an=
+d needs.</p>
+=09</li>
+</ol>
+
+<p>Ready to experience the ultimate relaxation?=C2=A0</p>
+
+<p>As a special offer for our valued customers, <a href=3D"http://cloudmana=
+ge.streamiz.info/index.php/campaigns/wp042j1ypvbef/track-url/nh413rfsm71c3/=
+c0ebfeb7dc0e1428096b061428823ad3ccb7641f">Click Here</a></p>
+
+<p>Don't miss out on the opportunity to transform your bathing experience. =
+<a href=3D"http://cloudmanage.streamiz.info/index.php/campaigns/wp042j1ypvb=
+ef/track-url/nh413rfsm71c3/c0ebfeb7dc0e1428096b061428823ad3ccb7641f"><span =
+style=3D"font-size:18px;"><strong>Shop now </strong></span></a>at Walk-In B=
+athtub Shop!</p>
+
+<p>Warm regards,</p>
+
+<p>=C2=A0Walk-In Bathtub Shop<br />
+<br />
+<br />
+To opt out from list please <a data-unsubtag=3D"_UNSUBSCRIBE_URL_" href=3D"=
+http://cloudmanage.streamiz.info/index.php/campaigns/wp042j1ypvbef/track-ur=
+l/nh413rfsm71c3/3c8ca0e313932b98e7ab3a70321753142c0b5d55">Unsubscribe here<=
+/a></p>
+
+<p>=C2=A0</p>
+<img width=3D"1" height=3D"1" src=3D"http://cloudmanage.streamiz.info/index=
+.php/campaigns/wp042j1ypvbef/track-opening/nh413rfsm71c3" alt=3D"" />
+</b=
+ody>
+</html>
+
+--_=_swift_1711725708_45a061c37ef7e00c31cf55f1526f5fa2_=_--
+
