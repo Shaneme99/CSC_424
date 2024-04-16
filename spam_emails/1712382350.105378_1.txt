@@ -1,0 +1,101 @@
+Return-Path: <brianzf@ljy1500.com>
+Delivered-To: untroubl8492-bruce@untroubled.org
+Received: (qmail 79301 invoked from network); 5 Apr 2024 14:04:51 -0000
+Received: from vps-0602ebc6.vps.ovh.net (vps-0602ebc6.vps.ovh.net [57.129.5.208])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 05 Apr 2024 14:04:51 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=ljy1500.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+ bh=BW/yR9F77CUC05SLvMWodYtHGzs=;
+ b=bH7fCeqo8hf2cSiXd6srtwcMtSNwTmANJDFqPFgNo9LMaX1nd5goSfefBTOpH48DivQ9naqDsokg
+   uCHmEB23e0mQBoh0RBgUGprageu8YtSkRXhy2IshoumVWRUT/PgVBd6ygBQw0Bnf6AdHeMHoiFNT
+   TrLXuJ7FOW0qO0YWmmQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=default; d=ljy1500.com;
+ b=H955eqkishT3y8iHzU9hLdLVU7MQls4me4jv5GDEikHD2tLlL/XmTpoGk/dsAdmEfLU1UYIWJgk5
+   zZWbPiBZ9QYHEBqKLMd8WfDwxEgEGjFC/ulDL87pm6aWlkMFRMJ5cDvXuaEHYcO2w2WKGk8MLhZC
+   Kr2e1NOV8Wm5zz46VKA=;
+To: bruce@untroubled.org
+Subject: mountain e-bicycle
+Message-ID: <1dee58fb277833b93aa2f76c5bae1286@ljy1500.com>
+Return-Path: brianzf@ljy1500.com
+Date: Fri, 05 Apr 2024 15:59:26 +0200
+From: "Brian Martinez" <brianpf@ljy1500.com>
+Reply-To: brian@ljy1500.com
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+Content-Length: 4845
+
+<html>
+<head>
+</head>
+<body>
+Hi,<br /><br />I hope this email finds you well. I am reaching out to
+inform you about an exciting <br /> opportunity to purchase a high-quality
+electric mountain bike from our inventory.<br /> <br /> We are currently
+offering a 26-inch mountain electric bike&nbsp; equipped with a powerful
+350W <br /> motor and a 36V 13AH battery. With a range of 50 kilometers on
+a single charge, this electric <br /> mountain bike is perfect for outdoor
+enthusiasts and adventure seekers. The pedal assist <br /> feature ensures
+a smooth and effortless riding experience, allowing you to conquer <br />
+challenging terrains with ease.<br /> <br /> The best part is that we have
+stock available in our warehouse in Germany, and we can ship it <br /> to
+any location across Europe. Our efficient shipping process ensures that the
+electric <br /> mountain bike will be delivered to your doorstep within 3-7
+business days.<br /> <br /> Key Specifications:<br /> <br /> Wheel Size: 26
+inches<br /> Motor Power: 350W<br /> Battery: 36V 13AH<br /> Range: Up to
+50 kilometers<br /> Pedal Assist: Yes<br /> Whether you are an avid cyclist
+or simply looking to explore the outdoors in a more <br /> eco-friendly
+way, this mountain eBike is an excellent choice. Its robust design,
+reliable <br /> performance, and long battery life make it suitable for
+various terrains and riding <br /> preferences.<br /><br /><img
+src="https://www.markshop.co.uk/cdn/shop/products/20_1024x1024.jpg?v=1611358712"
+width="800" height="800" /><br /> <br /> If you are interested in making a
+purchase or have any further inquiries, please let us know <br /> your
+address. We would assist you with the ordering process and provide cost of
+shipping.<br /> <br /> Thank you for considering our electric mountain bike
+ We look forward to hearing from you <br /> soon and helping you embark on
+your next cycling adventure.<br /> <br /> Best regards,<br /> Brian
+Martinez<br /> eMTB Team<br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br />We are currently
+offering a 26-inch mountain electric bike&nbsp; equipped with a powerful
+350W<br />motor and a 36V 13AH battery. With a range of 50 kilometers on a
+single charge, this electric<br />mountain bike is perfect for outdoor
+enthusiasts and adventure seekers. The pedal assist<br />feature ensures a
+smooth and effortless riding experience, allowing you to conquer<br
+/>challenging terrains with ease.<br /><br />The best part is that we have
+stock available in our warehouse in Germany, and we can ship it<br />to any
+location across Europe. Our efficient shipping process ensures that the
+electric<br />mountain bike will be delivered to your doorstep within 3-7
+business days.<br /><br />Send address to unlist<br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br
+/><br /><br /><br /><br /><br /><br /><br /><br /><br />
+</body>
+</html>
+

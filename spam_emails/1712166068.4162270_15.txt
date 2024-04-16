@@ -1,0 +1,189 @@
+Return-Path: <packagedeliveryalert@collegecrewwindowcleaning.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=collegecrewwindowcleaning.com; s=dkim; t=1712100493;
+	bh=gVPov643l3XksKRzOaiobRg4e5T/zy6tyGcaoDKZZqs=;
+	h=mime-version:date:to:from:subject:message-id:content-type;
+	b=J24K+hdQk9uCmr7rCJeXBOsxHQsQukH5G1fcIcvWpmo4J4qwuOEYCkLMZ9AuWxz9i
+	 LoDfGjBdSDJ5nfE7CQ4aU+UsTdxjVsvhRUgXAUKjbwFX2khIHnVhOr1jdW3/jQpEEC
+	 xPZxpqt4aDDKnt+J/T+v9rTQadv/dtRAVCz9VE4U=
+MIME-Version: 1.0
+Date: Tue, 02 Apr 2024 19:28:13 -0400
+To: <bruce@untroubled.org>
+From: "Package Delivery Alert" <PackageDeliveryAlert@collegecrewwindowcleaning.com>
+Subject: Unsuccessful Delivery Attempt--Immediate Action Required: Reschedule FD4R2-IR Before a Full Day Elapses
+Message-ID: <88465946-588355172@collegecrewwindowcleaning.com>
+Reply-To: PackageDeliveryAlert@collegecrewwindowcleaning.com
+List-Unsubscribe: <mailto:17899be7a9f43d13673ca02_8d940c66@unsubscribe.collegecrewwindowcleaning.com?subject=unsubscribe>
+Content-transfer-encoding: 8bit
+Content-Type: multipart/alternative; boundary="71H14E5ERO"
+Content-Length: 5432
+
+--71H14E5ERO
+Content-type: text/plain; charset="UTF-8"
+Content-transfer-encoding: 8bit
+
+** Delivery Attempt Failed
+------------------------------------------------------------
+
+We attempted to deliver your package on March 27th. A signature was required.
+
+To receive your package, reschedule the delivery by clicking the button below.
+
+If not scheduled within 24 hours, the package will return to the sender.
+Reschedule Now (http://www.collegecrewwindowcleaning.com/Brb-9JV~hh/C/)
+Delivery Date Package ID       Status
+March 27th    386384530  Signature Required
+Reschedule Within Sender    Contact
+24 Hours          FedEx  1-800-SHIPMENT
+
+--71H14E5ERO
+Content-Type: text/html; charset="UTF-8"
+Content-transfer-encoding: 8bit
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title></title>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        background-color: #ffffff;
+        font-family: Arial, sans-serif;
+    }
+    table {
+        border-collapse: collapse;
+    }
+    .email-container {
+        width: 100%;
+        background-color: #ffffff;
+    }
+    .email-header {
+        width: 100%;
+        background: #ffffff;
+    }
+    .email-header img {
+        width: 600px;
+        height: auto;
+        display: block;
+        border: none;
+    }
+    .email-body {
+        width: 600px;
+        margin: 0 auto;
+        background-color: #f9f9f9;
+        border-top: 3px solid #660099;
+        border-bottom: 3px solid #660099;
+        padding: 50px;
+        text-align: center;
+    }
+    .email-footer {
+        width: 100%;
+        background: #ffffff;
+        text-align: center;
+        padding: 20px 0;
+    }
+    .email-footer img {
+        width: 150px;
+        height: auto;
+        margin: 0 auto;
+        display: block;
+    }
+    .email-button {
+        background-color: #660099;
+        color: #ffffff;
+        padding: 15px 25px;
+        text-decoration: none;
+        border-radius: 4px;
+        display: inline-block;
+        margin: 25px 0;
+    }
+    .delivery-info-table,
+    .reschedule-info-table {
+        margin: 20px auto;
+        border: 1px solid #dddddd;
+        background-color: #ffffff;
+    }
+    .delivery-info-table th,
+    .delivery-info-table td,
+    .reschedule-info-table th,
+    .reschedule-info-table td {
+        padding: 10px;
+        border: 1px solid #dddddd;
+        text-align: left;
+    }
+    .highlight {
+        color: #660099;
+        font-weight: bold;
+    }
+    .warning {
+        color: #FF6600;
+        font-weight: bold;
+    }
+</style>
+</head>
+<body>
+    <table class="email-container">
+        <tr>
+            <td>
+                <table class="email-header">
+                    <tr>
+                        <td>
+                            <center><img src="http://www.collegecrewwindowcleaning.com/Brb-9JV~ub/V/"></center>
+                        </td>
+                    </tr>
+                </table>
+                <table class="email-body">
+                    <tr>
+                        <td>
+                            <h1>Delivery Attempt <span class="warning">Failed</span></h1>
+                            <p>We attempted to deliver your package on <span class="warning">March 27th</span>. A <span class="highlight">signature</span> was required.</p>
+                            <p>To receive your package, <span class="highlight">reschedule the delivery</span> by clicking the button below.</p>
+                            <p>If not scheduled within <span class="warning">24 hours</span>, the package will return to the sender.</p>
+                            <a href="http://www.collegecrewwindowcleaning.com/Brb-9JV~hh/C/" class="email-button">Reschedule Now</a>
+                            <table class="delivery-info-table">
+                                <tr>
+                                    <th>Delivery Date</th>
+                                    <th>Package ID</th>
+                                    <th>Status</th>
+                                </tr>
+                                <tr>
+                                    <td>March 27th</td>
+                                    <td>386384530</td>
+                                    <td>Signature Required</td>
+                                </tr>
+                            </table>
+                            <table class="reschedule-info-table">
+                                <tr>
+                                    <th>Reschedule Within</th>
+                                    <th>Sender</th>
+                                    <th>Contact</th>
+                                </tr>
+                                <tr>
+                                    <td>24 Hours</td>
+                                    <td>FedEx</td>
+                                    <td>1-800-SHIPMENT</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <table class="email-footer">
+                    <tr>
+                        <td>
+                            <a href="http://www.collegecrewwindowcleaning.com/Brb-9JV~fh/C/">
+    <img src="http://www.collegecrewwindowcleaning.com/Brb-9JV~lb/V/" alt="">
+</a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+
+--71H14E5ERO--
+

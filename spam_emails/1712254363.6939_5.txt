@@ -1,0 +1,347 @@
+Return-Path: <BurialInsurance@fuzebug.za.com>
+Received: from 231e8266.4cvlo.fuzebug.za.com ([127.0.0.1]:37796 helo=4cvlo.fuzebug.za.com)
+	by 4cvlo.fuzebug.za.com with ESMTP id 23JWW1E82DOR66;
+	for <bruce@untroubled.org>; Thu, 4 Apr 2024 06:14:14 -0700
+Message-ID: <3479638558916722634796402118341784728160@4cvlo.fuzebug.za.com>
+To: <bruce@untroubled.org>
+Date: Thu, 4 Apr 2024 06:14:14 -0700
+From: "Burial Insurance" <BurialInsurance@fuzebug.za.com>
+Subject: Lower rates on Burial insurance plans to combat inflation!
+Content-Language: en-us
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: multipart/alternative;
+	boundary="----=Part.892.8330.1712236454"
+Content-Length: 9312
+
+------=Part.892.8330.1712236454
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+
+View In Browser
+Lower rates on Burial insurance plans to combat inflation!
+http://www.fuzebug.za.com/34796-1834-4021-589167226/bruce/tindex9.html
+
+Don't Miss Your Second Chance
+http://www.fuzebug.za.com/34796-1834-4021-589167226/bruce/tindex10.html
+
+
+In order to remove yourself from future mailings from this advertiser, please
+http://www.fuzebug.za.com/34796-1834-4021-589167226/bruce/rindex11.html
+click here to unsubscribe or write to: 1035 NE 125th st, Suite 310 North Miami, FL 33161
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+------=Part.892.8330.1712236454
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+  <meta charset="utf-8"> <!-- utf-8 works for most cases -->
+	<meta name="viewport" content="width=device-width"> <!-- Forcing initial-scale shouldn't be necessary -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- Use the latest (edge) version of IE rendering engine -->
+  <title></title> <!-- the <title> tag shows on email notifications on Android 4.4. -->
+  <style type="text/css">
+  	
+  	/* ensure that clients don't add any padding or spaces around the email design and allow us to style emails for the entire width of the preview pane */
+		body,
+		#bodyTable {
+			height:100% !important;
+			width:100% !important;
+			margin:0;
+			padding:0;
+		}
+		
+		/* Ensures Webkit- and Windows-based clients don't automatically resize the email text. */
+		body,
+		table,
+		td,
+		p,
+		a,
+		li,
+		blockquote {
+			-ms-text-size-adjust:100%;
+			-webkit-text-size-adjust:100%;
+		}
+
+		/* Forces Yahoo! to display emails at full width */
+		.thread-item.expanded .thread-body .body, .msg-body {
+			width: 100% !important;
+			display: block !important;
+		}
+
+    /* Forces Hotmail to display emails at full width */
+    .ReadMsgBody
+    .ExternalClass {
+			width: 100%;
+			background-color: #f4f4f4;
+    }
+
+    /* Forces Hotmail to display normal line spacing. */
+		.ExternalClass,
+		.ExternalClass p,
+		.ExternalClass span,
+		.ExternalClass font,
+		.ExternalClass td,
+		.ExternalClass div {
+			line-height:100%;
+    }
+
+    /* Resolves webkit padding issue. */
+    table {
+			border-spacing:0;
+    }
+
+    /* Resolves the Outlook 2007, 2010, and Gmail td padding issue, and removes spacing around tables that Outlook adds. */
+    table,
+    td {
+			border-collapse:collapse;
+			mso-table-lspace:0pt;
+			mso-table-rspace:0pt;
+    }
+    
+    /* Corrects the way Internet Explorer renders resized images in emails. */
+    img {
+    	-ms-interpolation-mode: bicubic;
+    }
+    
+    /* Ensures images don't have borders or text-decorations applied to them by default. */
+    img,
+    a img {
+    	border:0;
+    	outline:none;
+    	text-decoration:none;	    
+    }
+
+    /* Styles Yahoo's auto-sensing link color and border */
+    .yshortcuts a {
+			border-bottom: none !important;
+    }
+    
+    /* Styles the tel URL scheme */
+    a[href^=tel]{
+	    color:#000000 !important;
+    }
+  
+    /* Media queries for when the viewport is smaller than the default email width but not too narrow. */
+    @media screen and (max-device-width: 600px), screen and (max-width: 600px) {
+
+			/* Constrains email width for small screens */
+			table[class="email-container"] {
+				width: 100% !important;
+			}
+			/* Constrains tables for small screens */
+			table[class="fluid"] {
+				width: 100% !important;
+			}
+			
+			/* Forces images to resize to full width of their container */
+			img[class="fluid"],
+			img[class="force-col-center"] {
+				width: 100% !important;
+				max-width: 100% !important;
+				height: auto !important;
+			}
+			/* And centers these ones */
+				img[class="force-col-center"] {
+				margin: auto !important;
+			}
+			
+			/* Forces table cells into rows */
+			td[class="force-col"],
+			td[class="force-col-center"] {
+				display: block !important;
+				width: 100% !important;
+				clear: both;
+			}
+			/* And centers these ones */
+			td[class="force-col-center"] {
+				text-align: center !important;
+			}
+			
+		
+			
+			/* Makes buttons full width */
+			table[class="button"] {
+				width: 100% !important;
+			}
+         
+    }
+
+    /* Media queries for when the viewport is narrow. */
+    /* Rules prefixed with 'hh-' (for 'handheld') repeat much of what's above, but these don't trigger until the smaller screen width. */
+    @media screen and (max-device-width: 425px), screen and (max-width: 425px) {
+
+			/* Helper only visible on handhelds. All styles are inline along with a `display:none`, which this class overrides */
+			
+			/* Constrain tables for small screens */
+			table[class="moklas"] {
+				width: 100% !important;
+			}
+			
+			
+			/* Force table cells into rows */
+			td[class="hh-force-col"],
+			td[class="abdulmomen"] {
+				display: block !important;
+				width: 100% !important;
+				clear: both;
+			}
+			/* And center these ones */
+			td[class="abdulmomen"] {
+				text-align: center !important;
+			}
+			
+			/* Forces images to resize to full width of their container */
+			img[class="fluid2"] {
+				width: 100% !important;
+				max-width: 100% !important;
+				height: auto !important;
+			}
+
+    }
+          
+  </style>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#fff" style="margin:0; padding:0; -webkit-text-size-adjust:none; -ms-text-size-adjust:none;">
+<table cellpadding="0" cellspacing="0" border="0" height="100%" width="100%" bgcolor="#fff" id="bodyTable"><tr><td>
+
+<!--[if mso]>
+<style type="text/css">
+body, table, td, p, li, {font-family: 'Source Sans Pro', sans-serif, Arial !important;}
+</style>
+<![endif]-->
+
+<!-- CSS Image background in Outlook : BEGIN -->
+<!-- Best used with absolute image paths -->
+<!--[if gte mso 9]>
+  <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+    <v:fill type="tile" color="#f4f4f4" src="">
+  </v:background>
+<![endif]-->
+<!-- CSS Image background in Outlook : END -->
+
+  <!-- Email Container : BEGIN -->
+  <!-- This table wraps the whole body email within it's width (600px), sets the background color (white) and border (thin, gray, solid) -->
+   
+    <table border="0" width="500" cellpadding="0" cellspacing="0" align="center" bgcolor="ffffff" style="border: 0px solid #2A3964;margin: auto;" class="email-container">
+	<tr>
+		<td>
+		<div>
+<div>
+<p></p>
+</div>
+</div>
+</div>
+		<center><a href="http://www.fuzebug.za.com/34796-1834-4021-589167226/bruce/tindex1.html" target="_blank" style="text-decoration:none;"><b style="font-size:12px;font-family:Montserrat,'Trebuchet MS','Lucida Grande','Lucida Sans Unicode','Lucida Sans',Tahoma,sans-serif;width:600px;color:#27B7CD;">View In Browser</b></a></center>
+		<div>
+<div>
+<div>
+<p></p>
+</div>
+</div>
+</div>
+	<center><a href="http://www.fuzebug.za.com/34796-1834-4021-589167226/bruce/tindex2.html" target="_blank"><b style="font-size:20px;font-family:Montserrat,'Trebuchet MS','Lucida Grande','Lucida Sans Unicode','Lucida Sans',Tahoma,sans-serif;width:600px;color:#013462;">Lower rates on Burial insurance plans to combat inflation!</b></a></center>
+		</td>
+	</tr>
+      
+       
+      <tr>
+        <td style="font-size: 25px; font-family: sans-serif;color: #ffffff;font-size: 25px;text-align: center;">
+		<div>
+<div>
+<div><br>
+</div>
+</div>
+</div>
+          <a href="http://www.fuzebug.za.com/34796-1834-4021-589167226/bruce/tindex3.html" target="_blank"><img src="http://www.fuzebug.za.com/34796-1834-4021-589167226/i/img018344021385.jpg" alt="Don't Miss Your Second Chance" height="auto" width="480" border="0" style="display: block; border:8px solid #27B7CD;" class="fluid"></a>
+        </td>
+      </tr>
+    
+	   
+      <tr>
+        <td style="padding:10px;background: #ffffff;">
+          <table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
+            <tr>
+              <td style="font-family:arial, sans-serif; font-size:12px; line-height:14px; color: #000000;text-align: center;">    
+<div>
+<div>
+<div>
+<p><br></p>
+</div>
+</div>
+</div>			  
+                In order to remove yourself from future mailings from this advertiser, please <br><a href="http://www.fuzebug.za.com/34796-1834-4021-589167226/bruce/rindex4.html" target="_blank" style="color: #3498db ;">click here to unsubscribe</a> or write to: 
+				1035 NE 125th st, Suite 310 
+				North Miami, FL 33161
+                  
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>     
+  </table>
+  <!-- Email Container : END -->
+<div>
+<div>
+<div>
+<p><br></p>
+</div>
+</div>
+</div>	
+ <div>
+<div>
+<div>
+<p><br></p>
+</div>
+</div>
+</div>
+ <div>
+<div>
+<div>
+<p><br></p>
+</div>
+</div>
+</div>
+ <div>
+<div>
+<div>
+<p><br></p>
+</div>
+</div>
+</div>
+<center><a http://microsoft.com/**0ddsfgdfrggwjchgNvm** href="http://www.fuzebug.za.com/34796-1834-4021-589167226/bruce/u.html"><img http://microsoft.com/**0ddsfgdfrggwjchgNvm** src="http://www.fuzebug.za.com/34796-1834-4021-589167226/i/img118344021385.jpg" alt=" "/></a></center>
+<div>
+<div>
+<div>
+<p><br></p>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<p><img src="http://www.fuzebug.za.com/34796-1834-4021-589167226/p.gif" width="1px" height="1px" /></p>
+</div>
+</div>
+</div>
+</td></tr></table>
+
+</body>
+</html>
+
+------=Part.892.8330.1712236454--
+

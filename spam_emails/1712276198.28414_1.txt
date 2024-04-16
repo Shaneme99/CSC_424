@@ -1,0 +1,116 @@
+Return-Path: <2166-2140-162471-30-bruce=untroubled.org@mail.knifeharko.world>
+Delivered-To: untroubl8492-bruce@untroubled.org
+Received: (qmail 10302 invoked from network); 4 Apr 2024 20:05:15 -0000
+Received: from xray.knifeharko.world ([193.8.194.136])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 04 Apr 2024 20:05:15 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=knifeharko.world;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=contact@knifeharko.world;
+ bh=qHtD+jzIlsEtS+1KmkJlwpsRq4U=;
+ b=JeMzAXf4lbf3nn51qjE1u1FQMxrNTx0F5B5ParSwmU3WLHirsytiD8O9Py/4kI/1178/m0XP+Lf7
+   wYB/EKNMUPRt5S9J8S1vxBk216/Mbz09YqGVWQzQxzL2jyFe8pWDweUMLhE2Ve2NAhDktdQJ+GFp
+   m+Omy/W/0ENFR2LSqYA7QgTNMeny9+tMaotfGnHztwgB2Yjs8isxL5uTcCWJ2k5sUwBvLeNJQOh0
+   hdw3tOu5jPbCuk2GTwhCYl1iacwY8Y+QOk3/Fegtc3QCxGMg/3jcLjAJMndxdo+uee8937O3Hbxi
+   mqglUhD03LAOvZqFcRrykB5XMHk639qDdKzmgA==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=knifeharko.world;
+ b=jzYovRM7ZOXKhzSlgSFdRUhlfvNDmUVbEoQq7UiS2jbliz+Q50WEH1uRmQ5E+4jLIc2saXX58dJC
+   cp5sDFNctyKKMuV0ZglHML2ob/hV/bC6CWrUZwdpNw+de6GokmO9rLwPa/58U8Ift9upRcwaiAoO
+   4N2DgdKPo9nTZU2PofQJfIxnzzZYQexcqxDPQONLRKVxXMgSTXA54851p+KfPFh2kq7PSdZS7gI/
+   7Y3TqBRvoXgAy4gt1H1lnK2ApLhBN7lMSsdl+C/Ipx68arXkMqmvkqEJx/eZ0D9OpCXZu/q/ecdh
+   HFOExeY6lOeS4hgiSeU83VIhzsbf9HVkxhHy2g==;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="b333023c85d4fe8972009f28751d96c5"
+Date: Thu, 4 Apr 2024 20:04:11 +0000
+From: "Text To Speech " <contact@knifeharko.world>
+Reply-To: "Human’ Voice-Overs" <contact@knifeharko.world>
+Subject: Voice-Over Artists Just Got Worried
+To: <bruce@untroubled.org>
+Message-ID: <7nth2xnza35qsmyz-u7pxwynw1ae7as0s-27aa7@knifeharko.world>
+Content-Length: 5530
+
+--b333023c85d4fe8972009f28751d96c5
+Content-Type: text/plain;
+
+Content-Transfer-Encoding: 8bit
+
+--b333023c85d4fe8972009f28751d96c5
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body><a href="http://knifeharko.world/S8-WxG5L0_ZRZ99aHLrdrGEua2in8l2rvjp3a-kntaw"><img border="0" src="http://knifeharko.world/mpmUZEVLEIyaYp1r_8TKQeBLVeb2Wol9c8M1yGPiyzQ" /> </a>
+<center>
+<div style="text-align: left;font-size: 17px;font-family: serif;width: 550px;border: 1px solid black;padding: 10px;">
+<h3>Have you ever tried to create a Text to Speech (TTS) audio file, and thought, &ldquo;That was easy?&rdquo; Even, &rdquo; That sounds great!&rdquo;</h3>
+
+<p>Nope, didn&rsquo;t think so.</p>
+
+<p>Let&rsquo;s face it &mdash; up until now creating <a href="http://knifeharko.world/icCJxReNnvTkpy0QyE2pVNifPBHiM8YFx2Rql89tK2k"><b>&lsquo;Text To Speech&rsquo;</b></a> audio has been a <b> PAIN&hellip;</b></p>
+
+<p><b>And the results?</b></p>
+
+<p>Just plain disapointing!</p>
+<a href="http://knifeharko.world/icCJxReNnvTkpy0QyE2pVNifPBHiM8YFx2Rql89tK2k"><img alt="" src="http://knifeharko.world/bb0c56aefff5855881.jpg" width="300px" /> </a>
+
+<p>Sure, you could outsource your <b> Voiceovers&hellip; </b>and pay several hundred bucks for an <b> &ldquo;average&rdquo;</b> Voice Over&hellip; not to mention the time and hassle of going back and forth with a bunch of freelancers.</p>
+
+<p>But what if there was a much easier, faster way to create Human Sounding audio in a few clicks&hellip; <a href="http://knifeharko.world/icCJxReNnvTkpy0QyE2pVNifPBHiM8YFx2Rql89tK2k"><b> in MINUTES from now?!</b></a></p>
+
+<p>You&rsquo;re in luck, because there&rsquo;s a brand new tool that&rsquo;s just hit the market called <strong><a href="http://knifeharko.world/icCJxReNnvTkpy0QyE2pVNifPBHiM8YFx2Rql89tK2k">Speechelo,</a> </strong>and it&rsquo;s going to make your life <b> INFINITELY</b> easier when it comes to <a href="http://knifeharko.world/icCJxReNnvTkpy0QyE2pVNifPBHiM8YFx2Rql89tK2k"><b> creating Voice-oers from Text</b></a></p>
+&ndash; Expensive Freelancers<br />
+&ndash; Forget &lsquo;Robotic&rsquo; TTS Tools<br />
+&ndash; Forget disapointing results<br />
+<br />
+Now you can get the ultimate edge over the competition, slash hours off your day, and pump out Human sounding Audio for your videos in double quick time.
+<p><em>Sari Ferguson</em></p>
+<b> PS.</b> This NEW software will create <b> Voice-overs </b>that sound <b> &lsquo;Human&rsquo;</b> I&rsquo;ve never heard anything like it&hellip;
+
+<p>PPS. SAVE % <strong><a href="http://knifeharko.world/icCJxReNnvTkpy0QyE2pVNifPBHiM8YFx2Rql89tK2k">when you download here NOW:</a></strong></p>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<p align="center" style="font-size:12px; line-height:18px;font-family:Geneva, Arial, Helvetica, sans-serif;"><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+If you does&#39;t like this, please <a href="http://knifeharko.world/nNzEIjhaUMQ9x9X_gSfOzazAuEMJkr5nzCdwHQUmt_k" target="_blank">Click here</a><br />
+4331 Cost Avenue Alexandria, MD 22304</p>
+
+<p align="center">&nbsp;</p>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<p style="font-size:2px;color:white"><a href="http://knifeharko.world/hxFGloqgllSKYzivSqn4bX1tK0IjGAGn3P8E9Tt6Zz4"><img src="http://knifeharko.world/e95e9f1a3be8aae52b.jpg" /></a></p>
+<!-- As of Monday, over 200 New York City area bars and restaurants had committed to boycotting Russian vodka in response to anti-homosexuality related laws passed by the country's government. The boycott follows another event that took place on Monday where bottles of vodka were poured onto the streets of the city, as part of a protest by the President of United Restaurant and Tavern Owners Association, Paul Hurley.
+
+New York One quotes Hurley as saying the reason for the boycott as , "We're not stupid, we're reading papers, we're reading what's going on over there, they've got to stop what's happened."
+
+The press conference announcing the New York City boycott took place at Desmonds Steakhouse located on the 38th Street and 7th Avenue. LGBT activists and models attended the event. Johnny Donovan, manager of J Donovan Productions, is quoted by the New York Daily Times as saying, "Shame on Russia!  When I go out to a night club this weekend, I'm not drinking any Russian vodka!"
+
+Activists in other cities are also boycotting Russian vodka. A protest at the San Francisco City Hall took place on Tuesday, where vodka was dumped into the sewers. On social media, the hashtag #dumpstoli is being used to draw attention to the boycott and protests.
+
+These boycotts are not without criticism. Dodds of Time Magazine points out, "At first glance, Stoli seems a logical target for those hoping to promote greater awareness of the plight of gays in Russia. Not only is it widely associated with the country, vodka is also one of Russia’s most profitable consumer exports to the U.S.  But while Stoli’s ingredients — wheat, rye and raw alcohol — are Russian, the vodka itself is distilled in Latvia and distributed in the U.S. by William Grant & Sons USA, an American subsidiary of a Scottish corporation." The international popularity of the brand have resulted in the company being continually threatened with nationalization by the Russian government.  --></center>
+</body>
+</html>
+
+--b333023c85d4fe8972009f28751d96c5--
+

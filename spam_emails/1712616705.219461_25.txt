@@ -1,0 +1,120 @@
+Return-Path: <noreply-bruce=untroubled.org@magicmall.info>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=dkim; d=magicmall.info;
+ h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:List-Unsubscribe:List-Id; i=noreply@magicmall.info;
+ bh=qsyLKSvSiTicvJVtzL1NqcnxHYb0W+aKvGQVCT/8Br0=;
+ b=ImR4kz/ap8TeupxNZ6KvGphr6ApTPzwULvXFPrWM8FtsapHKjKqcR32XkBM90CEzChwJTZRoiPgR
+   5xqDUum1oQyki6TyAl90kJzWxY+aKcSALYFs0W05T4ED8CYnCtkSg9kg9e7RRrZ+kSLnhuOTfKID
+   9XGAhgeCRB8N5ZD+nB8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=magicmall.info;
+ b=Pn/C2Wl5P8/4qebMivhE/iTMYxrfficqxRPtkU7NV9KiuoKtH6uE3wvXFyyFXvav4uUXgtM38w/N
+   FB4EAsFrI/yBLr7a60VJUdYBGKe0B5CcW3MmIyU4XeO7DJjJgGucnulm9nCMlQPhUbQGCy4f2LNQ
+   EiOwfnN4zgZ2gAAdn2Y=;
+Received: from transcm.info (64.227.128.13) by email1.magicmall.info id h2abrc0001gk for <bruce@untroubled.org>; Sun, 7 Apr 2024 12:55:15 +0000 (envelope-from <noreply-bruce=untroubled.org@magicmall.info>)
+Return-Path: <noreply@magicmall.info>
+Message-ID: <fb1586ee9b8de6a41bf4dbd3e16485b68b6790d1@magicmall.info>
+Date: Sun, 07 Apr 2024 12:55:14 +0000
+Subject: Hello ,Your Cooking Experience with HexClad =?utf-8?Q?Cookware?=
+ =?utf-8?Q?!=F0=9F=8D=B3?=
+From: HexClad Cookware! <noreply@magicmall.info>
+Reply-To: HexClad Cookware! <noreply@transcm.info>
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1712494514_e3463c19326d17c0bd39832573851835_=_"
+X-Report-Abuse: https://transcm.info/index.php/campaigns/lz154j3phhb5d/report-abuse/tz4546e8vb2bd/hw924jozf4688
+x-job: lz154j3phhb5d
+X-EBS: https://transcm.info/index.php/lists/block-address
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Unsubscribe: <https://transcm.info/index.php/lists/tz4546e8vb2bd/unsubscribe/hw924jozf4688/lz154j3phhb5d?source=email-client-unsubscribe-button>,
+ <mailto:noreply@transcm.info?subject=Campaign-Uid%3Alz154j3phhb5d%20%2F%20Subscriber-Uid%3Ahw924jozf4688%20-%20Unsubscribe%20request&body=Please%20unsubscribe%20me%21>
+List-Id: tz4546e8vb2bd <US>
+Feedback-ID: lz154j3phhb5d:hw924jozf4688:tz4546e8vb2bd:ke119ono206e3
+Content-Length: 2760
+
+
+--_=_swift_1712494514_e3463c19326d17c0bd39832573851835_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Claim Your offer! Do Hurry!Dear valued customer,
+
+Introducing HexClad C=
+ookware=E2=80=94the ultimate fusion of performance,
+durability, and style=
+!=F0=9F=91=A9=E2=80=8D=F0=9F=8D=B3
+
+Ready to revolutionize your cooking=
+ game?=F0=9F=8D=B3
+
+Discover HexClad Cookware=E2=80=94a game-changer in=
+ the kitchen!
+
+=F0=9F=94=A5 Patented Hexagon Design for Effortless Cook=
+ing
+=F0=9F=8D=B3 Versatile Performance on Any Cooking Surface
+
+BUY NO=
+W
+[https://transcm.info/index.php/campaigns/lz154j3phhb5d/track-url/hw924=
+jozf4688/9470ad9b5ca1c4b0a08cb72480db1fe73d15aede]
+
+Upgrade your cookwa=
+re today and experience the HexClad difference!
+
+Happy Cooking!
+
+Be=
+st Regards
+HexClad Cookware Team
+
+If you wish to unsubscribe please c=
+lick=C2=A0 here
+[https://transcm.info/index.php/campaigns/lz154j3phhb5d/t=
+rack-url/hw924jozf4688/6a2ea3a623c6ee4debdcc3c4a1d1bf1bacdac5ed]
+
+--_=_swift_1712494514_e3463c19326d17c0bd39832573851835_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head><meta charset=3D"utf-8"/>
+=09<title>Hello ,Your Cooking Experience with HexClad Cookware!=F0=9F=8D=
+=B3</title>
+<style type=3D"text/css">span.preheader{display:none!important;mso-hide:all=
+;}</style></head>
+<body><span class=3D"preheader" style=3D"display:none!important;mso-hide:al=
+l;">Claim Your offer! Do Hurry!</span>Dear valued customer,<br />
+<br />
+Introducing HexClad Cookware=E2=80=94the ultimate fusion of performance, du=
+rability, and style!&#x1f469;=E2=80=8D&#x1f373;<br />
+<br />
+Ready to revolutionize your cooking game?&#x1f373;<br />
+<br />
+Discover HexClad Cookware=E2=80=94a game-changer in the kitchen!<br />
+<br />
+&#x1f525; Patented Hexagon Design for Effortless Cooking<br />
+&#x1f373; Versatile Performance on Any Cooking Surface<br />
+<br />
+<span style=3D"font-size:20px;"><a href=3D"https://transcm.info/index.php/c=
+ampaigns/lz154j3phhb5d/track-url/hw924jozf4688/9470ad9b5ca1c4b0a08cb72480db=
+1fe73d15aede">BUY NOW</a></span><br />
+<br />
+Upgrade your cookware today and experience the HexClad difference!<br />
+<br />
+Happy Cooking!<br />
+<br />
+<br />
+Best Regards<br />
+HexClad Cookware Team<br />
+<br />
+If you wish to unsubscribe please <a data-unsubtag=3D"_UNSUBSCRIBE_URL_" hr=
+ef=3D"https://transcm.info/index.php/campaigns/lz154j3phhb5d/track-url/hw92=
+4jozf4688/6a2ea3a623c6ee4debdcc3c4a1d1bf1bacdac5ed">click=C2=A0 here</a><im=
+g width=3D"1" height=3D"1" src=3D"https://transcm.info/index.php/campaigns/=
+lz154j3phhb5d/track-opening/hw924jozf4688" alt=3D"" />
+</body>
+</html>
+
+--_=_swift_1712494514_e3463c19326d17c0bd39832573851835_=_--
+

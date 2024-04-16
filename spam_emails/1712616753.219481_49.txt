@@ -1,0 +1,186 @@
+Return-Path: <bounce-bruce=untroubled.org@amecat.info>
+Delivered-To: untroubl8492-bruce@untroubled.org
+Received: (qmail 184262 invoked from network); 8 Apr 2024 00:11:51 -0000
+Received: from rpywpvaomx.amecat.info (rpywpvaomx.amecat.info [170.64.201.120])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 08 Apr 2024 00:11:51 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=dkim; d=amecat.info;
+ h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:List-Unsubscribe:List-Id; i=Devesh@amecat.info;
+ bh=44JMxJVoYAHJtL+/neLGOK83YMZcZ27geqU1yZ00oi8=;
+ b=Hu9S6LbXtdRpsHTWpdqDSJAVZirS7i/ciEUj1rrhQ7QROJ6lG5/TLQ36LUH7xWWInGTyVp1b8CBJ
+   uzWN6mogEQo65kRlGHRLJwGAcMzcbc2X2ZnlllPq3nL2ZzxaYZix89+g9xCTzjq/TvoCUZZyOxM5
+   vpCPLUhlPNpjDrNwpa0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=amecat.info;
+ b=nXEShAXcqYXstzD8ctjd3C2tdyvJAFc/9mbN0LMZ8ASPJXzAfmwVwwEbV+XOK+5/9g9UXDxl/j7f
+   uQb8NvGuTqjUCCTuFDshVzsVTSkV+BefUmIqXng+3ub8LwK8jU/GD/FHM2ZmSlbQZCp6TXK17az/
+   dBjj6HQCvjs5sMKqBXY=;
+Received: from transcm.info (64.227.128.13) by rpywpvaomx.amecat.info id h2cr4e0001gv for <bruce@untroubled.org>; Mon, 8 Apr 2024 00:11:46 +0000 (envelope-from <bounce-bruce=untroubled.org@amecat.info>)
+Return-Path: <bounce@amecat.info>
+Message-ID: <878a8e43d31abf3b1a76043ebf437a9986457b12@amecat.info>
+Date: Mon, 08 Apr 2024 00:11:45 +0000
+Subject: Share Your Feedback and Receive a Makita Drill Gift from Home
+ Depot! =?utf-8?Q?=F0=9F=9B=A0=EF=B8=8F=F0=9F=8E=81?=
+From: Consumer Survey BY Home Depot! <Devesh@amecat.info>
+Reply-To: Consumer Survey BY Home Depot! <Devesh@transcm.info>
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1712535105_af7a936342309936dac6f5062b03b4af_=_"
+X-Report-Abuse: https://transcm.info/index.php/campaigns/jr254sd0wh575/report-abuse/ly026rw2atc25/af4169r71zed6
+x-job: jr254sd0wh575
+X-EBS: https://transcm.info/index.php/lists/block-address
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Unsubscribe: <https://transcm.info/index.php/lists/ly026rw2atc25/unsubscribe/af4169r71zed6/jr254sd0wh575?source=email-client-unsubscribe-button>,
+ <mailto:Devesh@transcm.info?subject=Campaign-Uid%3Ajr254sd0wh575%20%2F%20Subscriber-Uid%3Aaf4169r71zed6%20-%20Unsubscribe%20request&body=Please%20unsubscribe%20me%21>
+List-Id: ly026rw2atc25 <USA>
+Feedback-ID: jr254sd0wh575:af4169r71zed6:ly026rw2atc25:nc528baaw6e3f
+Content-Length: 4656
+
+
+--_=_swift_1712535105_af7a936342309936dac6f5062b03b4af_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+We Value Your Feedack!
+Dear Valued Customer,
+
+Your opinion matters to=
+ us! At Home Depot,
+we're dedicated to providing you with the best shoppi=
+ng experience
+possible, and we value your feedback.
+That's why we're in=
+viting you to participate in our customer
+satisfaction survey.
+As a tok=
+en of our appreciation for taking the time to share your
+thoughts,
+we'r=
+e offering you the chance to receive an exclusive Makita Drill
+Gift!
+=
+
+=F0=9F=94=A8 HOW TO PARTICIPATE:
+
+ =09* TAKE THE SURVEY: Click the l=
+ink below to access our brief customer
+satisfaction survey.
+ =09* Your =
+honest feedback helps us understand how we can better serve
+you.
+ =09* =
+CLAIM YOUR GIFT: Once you've completed the survey, you'll be
+eligible to =
+receive a Makita Drill Gift as our way of saying thank
+you.
+
+=
+=F0=9F=92=A1 WHY YOUR FEEDBACK MATTERS:
+
+Your feedback is essential to =
+us. By sharing your opinions and
+experiences, you help us identify areas =
+where we excel and areas where
+we can improve.
+Your insights allow us t=
+o continue providing you with the best
+possible shopping experience.
+=
+
+=F0=9F=9B=A0=EF=B8=8F ACT NOW:
+
+Don't miss out on this opportunity t=
+o have your voice heard and
+receive a Makita Drill Gift as our way of say=
+ing thank you.=C2=A0
+
+TAKE THE SURVEY AND CLAIM YOUR GIFT
+[https://tr=
+anscm.info/index.php/campaigns/jr254sd0wh575/track-url/af4169r71zed6/bd90f3=
+770672d61349602e652760b3ed39c71e43]
+
+Thank you for choosing Home Depot =
+for your home improvement needs.=C2=A0
+
+Best regards,
+Home Depot Cust=
+omer Experience Team
+
+If you dont want to participate please Unsubscrib=
+e Here
+[https://transcm.info/index.php/campaigns/jr254sd0wh575/track-url/=
+af4169r71zed6/e2b0141a95baae7eb639fbc1b2476cd668a37696]
+
+--_=_swift_1712535105_af7a936342309936dac6f5062b03b4af_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head><meta charset=3D"utf-8"/>
+=09<title>Share Your Feedback and Receive a Makita Drill Gift from Home Dep=
+ot! =F0=9F=9B=A0=EF=B8=8F=F0=9F=8E=81</title>
+<style type=3D"text/css">span.preheader{display:none!important;mso-hide:all=
+;}</style></head>
+<body><span class=3D"preheader" style=3D"display:none!important;mso-hide:al=
+l;">We Value Your Feedack!</span>
+<p>Dear Valued Customer,</p>
+
+<p>Your opinion matters to us! At Home Depot,<br />
+we're dedicated to providing you with the best shopping experience possible=
+, and we value your feedback.<br />
+That's why we're inviting you to participate in our customer satisfaction s=
+urvey.<br />
+As a token of our appreciation for taking the time to share your thoughts,<=
+br />
+we're offering you the chance to receive an exclusive Makita Drill Gift!</p=
+>
+
+<p>&#x1f528; <strong>How to Participate:</strong></p>
+
+<ol>
+=09<li><strong>Take the Survey:</strong> Click the link below to access our=
+ brief customer satisfaction survey.</li>
+=09<li>Your honest feedback helps us understand how we can better serve you=
+.</li>
+=09<li><strong>Claim Your Gift:</strong> Once you've completed the survey, =
+you'll be eligible to receive a Makita Drill Gift as our way of saying than=
+k you.</li>
+</ol>
+
+<p>&#x1f4a1; <strong>Why Your Feedback Matters:</strong></p>
+
+<p>Your feedback is essential to us. By sharing your opinions and experienc=
+es, you help us identify areas where we excel and areas where we can improv=
+e.<br />
+Your insights allow us to continue providing you with the best possible sho=
+pping experience.</p>
+
+<p>=F0=9F=9B=A0=EF=B8=8F <strong>Act Now:</strong></p>
+
+<p>Don't miss out on this opportunity to have your voice heard and receive =
+a Makita Drill Gift as our way of saying thank you.=C2=A0</p>
+
+<p><a href=3D"https://transcm.info/index.php/campaigns/jr254sd0wh575/track-=
+url/af4169r71zed6/bd90f3770672d61349602e652760b3ed39c71e43"><span style=3D"=
+font-size:18px;"><strong>Take the Survey and Claim Your Gift</strong></span=
+></a></p>
+
+<p>Thank you for choosing Home Depot for your home improvement needs.=C2=
+=A0</p>
+
+<p>Best regards,<br />
+Home Depot Customer Experience Team<br />
+<br />
+<br />
+If you dont want to participate please <a data-unsubtag=3D"_UNSUBSCRIBE_URL=
+_" href=3D"https://transcm.info/index.php/campaigns/jr254sd0wh575/track-url=
+/af4169r71zed6/e2b0141a95baae7eb639fbc1b2476cd668a37696">Unsubscribe Here</=
+a></p>
+<img width=3D"1" height=3D"1" src=3D"https://transcm.info/index.php/campaig=
+ns/jr254sd0wh575/track-opening/af4169r71zed6" alt=3D"" />
+</body>
+</html>
+
+--_=_swift_1712535105_af7a936342309936dac6f5062b03b4af_=_--
+

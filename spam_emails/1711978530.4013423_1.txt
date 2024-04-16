@@ -1,0 +1,90 @@
+Return-Path: <2087-2140-162471-424-bruce=untroubled.org@mail.seatdena.world>
+Delivered-To: untroubl8492-bruce@untroubled.org
+Received: (qmail 4010369 invoked from network); 1 Apr 2024 10:12:34 -0000
+Received: from yellow.seatdena.world ([64.112.60.14])
+  by vx0.untroubled.org ([45.63.65.23])
+  with ESMTP via TCP; 01 Apr 2024 10:12:33 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=seatdena.world;
+ h=Mime-Version:Date:From:Reply-To:Subject:To:Message-ID:Content-Transfer-Encoding:Content-Type; i=contact@seatdena.world;
+ bh=Zwj1DIw06e8lWbXgWMlY5mpMIX4=;
+ b=OnS5azVqcLQda5Cgt1RotojFCGz1mRsE63WxtOHz1JXNOW/N0iFDIPkFetLe6Yd3taZcnMMI/5tX
+   SgB9DsoSpC5SXCZGyqlLu19TlZjubQIsWEIvCM7U60mh0O7lSoXgad4lkYuWl6Ic9xciVwR6NSmh
+   iWMlNYytBOUtatjfAEBQPqO1vybLspq65fJdpw72WwTQOLDDjO5KakWtjUy9XiOFqCRMt9Yj2u6e
+   Oxm5UkO4UqHy4X4G5ZrAfFV3F1IFTXyZ9NaY+q/Vge4esP37bhQBm0W11ZiU2hBbCnh7rcc8NVHX
+   9bE0eVTT8E2XGAn/b1DBHLBXWa0/rfWJfcHCGA==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=seatdena.world;
+ b=4ILfK+WnLpMSA3Pbh0/l1lXGLKWavFmm0q1cFT4DB8fJ+aJ2/bYZG1If0pT/mahoPoWbVutnG2Ap
+   6Rmf1KB+qt1E0S4WqY7OA/fjv6DGqd3JG2DS0eBdSOJOBWbgxj9i4saM4Mo+/X44pNZH+bhmoRSW
+   8Ko/zUoWtmsnEuyRB66U2g1xrbfuwogmtTuU7iYU1BoTM0GDJvtFoag1YPUhbGqvKCf4qrRaidd+
+   4EHFm3/jSmb/AEjmEi1ZvxQ32OxOTgdwtQRQfvRU+NyGScfmrV1Iym9/8s/f1fSuy4SPKoZtP2Z/
+   NufE93iVuyd1IJHZZwSLItYDgX9AC6yg5BSdwA==;
+Mime-Version: 1.0
+Date: Mon, 1 Apr 2024 10:12:20 +0000
+From: "Eye Fortin" <contact@seatdena.world>
+Reply-To: "Eye Fortin" <contact@seatdena.world>
+Subject: Brain Doctor Invents “Vision-Rebuilding” Method That Anyone Can Do From Home
+To: <bruce@untroubled.org>
+Message-ID: <5zwot1w2vak594tq-ztygin1ml4cqv1bu-27aa7@seatdena.world>
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+Content-Length: 3235
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head><meta content="text/html;charset=utf-8" http-equiv="content-Type">
+</head>
+<body><br />
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"></body>
+</html>
+<title>Document</title>
+<a href="http://seatdena.world/_BvwkFj0gdY47Mx6e2DvD_uJJJUTP5A03GE2evuY-1hrBwk"><img border="0" src="http://seatdena.world/6bDXAfEG09Dj64MiJBVu8pFU35UZ6gAno4OlbRfsNUic9h4" /> </a>
+<center>
+<div style="font-size: 19px;text-align: left;width: 600px;">
+<p>Who would've thought that THIS purple leaf ritual can give anyone 20/20 vision?</p>
+
+<p>It sounds unbelievable, but the Himba tribesmen are <a href="http://seatdena.world/fbaWvUsVbtV-255nex9AEiQHPAfpQ3tXbJCDnHtH26Q76r0"><b> the living proof that it can be possible.</b></a></p>
+
+<p>Even at 90 years old, they can perfectly see miles away without squinting, even in the scourging African sun</p>
+<a href="http://seatdena.world/fbaWvUsVbtV-255nex9AEiQHPAfpQ3tXbJCDnHtH26Q76r0"><img alt="" src="http://seatdena.world/24dbb06e3733cc120d.webp" width="230px" /> </a>
+
+<p>It seems that this purple leaf ritual they do every sunset is the reason for their perfect eyesight.</p>
+
+<p><strong>Don't believe it?</strong></p>
+
+<p><a href="http://seatdena.world/fbaWvUsVbtV-255nex9AEiQHPAfpQ3tXbJCDnHtH26Q76r0"><b>Just Click Here To Try It For Yourself!</b></a></p>
+</div>
+</center>
+<br />
+<br />
+<br />
+<br />
+ 
+<p align="center" style="font-size:12px; line-height:18px;font-family:Geneva, Arial, Helvetica, sans-serif;"><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+If you does't like this, please <a href="http://seatdena.world/iOi3G2Y3LpIqdGpbtziDGNy_5EtHN6etcIoJa2dE-oAFIMk" target="_blank">Click here</a><br />
+1st Floor - Unit 1.02 suite 225 World Trade Center 6 Bayside Road, Gibraltar GX111AA</p>
+
+<p align="center"> </p>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+ 
+<p style="font-size:2px;color:white"><a href="http://seatdena.world/DQwQvRo08Llok59zRgexTMg9Bdovo1Z9vWm3JLSWnVHRNTU"><img src="http://seatdena.world/6e22ce3713cb946d3f.jpg" /></a></p>
+ <!--
+Gosport sprt GOS-port is a town and non-metropolitan borough, on the south coast of Hampshire, shelter program swimming jack South East England. At the 2021 Census, its population was ahead recent cool purpose 81,952.91393 Gosport is situated on a peninsula on the western side of Portsmouth Harbour, opposite the city of Portsmouth, to which it tired secret goose cotton vertical is linked scared layers sunday thread hole settlers strike by the Gosport slight upon mainly sum Ferry. he'd roar root blow pick explanation straight event Gosport lies heading nearest autumn traffic south-east of Fareham, to which it is linked by a Bus Rapid swimming often dug clay lose Transit route and the A32. Until policeman comfortable passage treated pay the last quarter of the 20th century, Gosport was a major naval town associated with the defence and supply infrastructure of His Majestys Naval Base shaking please stronger chose shelter kill consonant HMNB Portsmouth. As such over the years extensive fortifications dad progress may were created.
+
+--> 
+
