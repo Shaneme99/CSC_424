@@ -21,8 +21,7 @@ def check_for_scams(sample_words, scam_words): # This function checks if any wor
 
 
 
-def main(): # Define file paths for the sample file and the scam word list
-    sample_file_path = r"spam_emails/1712254363.6939_3.txt"
+def main(sample_file_path): # Define file paths for the sample file and the scam word list
     scam_word_list_path = r"scam_word_list.txt"
 
     sample_words = read_words_from_file(sample_file_path)     # Read words from both files
@@ -31,11 +30,7 @@ def main(): # Define file paths for the sample file and the scam word list
 
     if sample_words and scam_words: # If both lists are not empty, check for scams
         result = check_for_scams(sample_words, scam_words)
-        print(result)   # Print the result (True if no scam word found, False otherwise)
+        return not result   # Print the result (True if no scam word found, False otherwise)
 
     else:
         print("Unable to check for scams.") # If either of the files is empty, print an error message
-
-
-if __name__ == "__main__": # Entry point of the program
-    main()
