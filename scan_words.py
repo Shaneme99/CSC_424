@@ -22,8 +22,8 @@ def check_for_scams(sample_words, scam_words): # This function checks if any wor
 
 
 def main(): # Define file paths for the sample file and the scam word list
-    sample_file_path = r"ADD FILE PATH HERE"
-    scam_word_list_path = r"ADD FILE PATH HERE"
+    sample_file_path = r"spam_emails/1712254363.6939_3.txt"
+    scam_word_list_path = r"scam_word_list.txt"
 
     sample_words = read_words_from_file(sample_file_path)     # Read words from both files
     scam_words = set(read_words_from_file(scam_word_list_path)) # Convert scam word list into a set for efficient membership testing

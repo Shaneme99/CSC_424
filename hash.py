@@ -29,7 +29,7 @@ def compute_similarity(file1, file2):
 def main():
     # main
     directory = 'CSC_424'
-    email1_path = "1711978520.4013419_1.txt"
+    email1_path = "Online Banking.txt"
     filenames = []
     scores = []
     for filename in os.scandir("spam_emails"):
@@ -46,7 +46,8 @@ def main():
     
     for i in scores:
         # All the similarity scores
-        print (i)
+        if(i<.05):
+            print(filenames[scores.index(i)],"Not Spam",i)
     # Least likely and most likely match.
     print(min(scores),max(scores))
     # A lower score is a perfect not-match. A score of 1 would be a perfect match.

@@ -1,0 +1,186 @@
+Delivered-To: shaneme99@gmail.com
+Received: by 2002:a05:7000:6711:b0:517:485e:738b with SMTP id u17csp798692mag;
+        Sat, 9 Sep 2023 18:22:54 -0700 (PDT)
+X-Google-Smtp-Source: AGHT+IFcvVv1AnolAaDem/eLBBKBnqh/mlZskNI4bhTajMeEr5ejIXDIhhUOh2MkuPFMl0h83Vr8
+X-Received: by 2002:a0c:f491:0:b0:64c:4738:a0e2 with SMTP id i17-20020a0cf491000000b0064c4738a0e2mr6780173qvm.14.1694308974391;
+        Sat, 09 Sep 2023 18:22:54 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1694308974; cv=none;
+        d=google.com; s=arc-20160816;
+        b=rR91VAScLjv5QwADEetVMikMjR9kCOkprT5rqd9v2Ac6rdITkaFCU0KuUrZmRiCDCa
+         r3ZVfDW9gWuf2rmnZSCAf4fNX1rcdzfsIuoTREScfHzyJnSuTEuYaxVUDhBSTaZzAjdM
+         9UlLK+noycTwLejBPIbpbuUUbjP2dwOFt7XGYkywmzlSoLcyqabiu5c1hNF1uwqGB2I6
+         OlhEfgTKNDhDQtPCnicsoByElToxU4wCaxBzjib8SYPfOPJHkKdkA+iHzYwbrs4TGH7X
+         fQdTkSrISKkdqYZxnepc3kYN8iiqMD/oJgWI1ou9NJ1z/tXXfCNmdC9Gbw9w63WMmwA4
+         R0Xw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=content-transfer-encoding:subject:date:reply-to:to:from
+         :mime-version:message-id:sender:dkim-signature:dkim-signature;
+        bh=BgeDK3FjPudw0PgM9ywHTCquc7b6qSZ3Brvj724t1b0=;
+        fh=c5qLF19UldHofJnlv52w76zzPq4sZsiIT9so0ZNUk4Y=;
+        b=0DCt4PSvqp9vvCWz7jCt/3jvkSYlNn+etO1TdsVlDPvvVTX6FsTKTg6ym+nzMcwWqG
+         hFtQ8DbG8qdOp+o1mDtW7jyACDSPx/0hlHvuhukkI0I7Cyj/+E/k0xoT/tfcpdZ9lK1n
+         Ad0MXkTq8SvPnqx8B1ld2K8F8Lrs93CiPokcT7UIdBHqui4aic9a/EawmfYW5k+gGuEj
+         DvU3zweVVs99MH9Uq6/2bkeTSI/l8xACB/wke+L2pQQS/iEsm7jqWJv2voE6QJvoZKJg
+         VYQoHI/2l/H4WufUsb+hwkKq3G1JwM9EhTkAIZ4Ok7GkW6W0t5ZiJxTxk7GbsSOaUFdu
+         HsWQ==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@corningfcu.org header.s=pic header.b="iM7Vn0+/";
+       dkim=pass header.i=@mailgun.org header.s=mg header.b=JhjriFfa;
+       spf=pass (google.com: domain of bounce+350b59.4d23ec-shaneme99=gmail.com@corningfcu.org designates 143.55.235.217 as permitted sender) smtp.mailfrom="bounce+350b59.4d23ec-SHANEME99=gmail.com@corningfcu.org"
+Return-Path: <bounce+350b59.4d23ec-SHANEME99=gmail.com@corningfcu.org>
+Received: from pc235-217.mailgun.net (pc235-217.mailgun.net. [143.55.235.217])
+        by mx.google.com with UTF8SMTPS id b2-20020a0cfb42000000b006518d869b41si2973964qvq.361.2023.09.09.18.22.53
+        for <SHANEME99@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Sat, 09 Sep 2023 18:22:54 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce+350b59.4d23ec-shaneme99=gmail.com@corningfcu.org designates 143.55.235.217 as permitted sender) client-ip=143.55.235.217;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@corningfcu.org header.s=pic header.b="iM7Vn0+/";
+       dkim=pass header.i=@mailgun.org header.s=mg header.b=JhjriFfa;
+       spf=pass (google.com: domain of bounce+350b59.4d23ec-shaneme99=gmail.com@corningfcu.org designates 143.55.235.217 as permitted sender) smtp.mailfrom="bounce+350b59.4d23ec-SHANEME99=gmail.com@corningfcu.org"
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=corningfcu.org;
+ q=dns/txt; s=pic; t=1694308973; x=1694316173; h=Content-Transfer-Encoding:
+ Content-Type: Subject: Subject: Date: Reply-To: To: To: From: From:
+ MIME-Version: Message-Id: Sender: Sender: X-Feedback-Id;
+ bh=BgeDK3FjPudw0PgM9ywHTCquc7b6qSZ3Brvj724t1b0=;
+ b=iM7Vn0+/WQkfLeknmuborba4sl0BCOC3+9+a1atITcwEcKil32B8ImYXVEUWGG28vrsdZzDYaAqybIi3gx/5HxAKUuTWE21EIcsMa4LSdYnWRzhp7vjgtsIYiLePdTmdS9QWcfYYFqo2Ac4uQeP3xmRQOOEoc209HlFkhpZKnio=
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=mailgun.org;
+ q=dns/txt; s=mg; t=1694308973; x=1694316173; h=Content-Transfer-Encoding:
+ Content-Type: Subject: Subject: Date: Reply-To: To: To: From: From:
+ MIME-Version: Message-Id: Sender: Sender: X-Feedback-Id;
+ bh=BgeDK3FjPudw0PgM9ywHTCquc7b6qSZ3Brvj724t1b0=;
+ b=JhjriFfagyg7BSIaeB9iLlx791mWWK7sGbTsPjr94SOMHkiqSSLw5ohzpQt69HjsJ42Yn2y6mRFIk/yvPIqEZCtGmENJ1pnonSvUDfjePpyIKRvUYjkAeFDxOmJQ657UjtvKEF1gJNevapSwe+iks7GLxpngaiMUFZB+YYfraOU=
+X-Feedback-Id: Notifications@corningfcu.org::5be46854fd4f690001e88357:mailgun
+X-Mailgun-Sending-Ip: 143.55.235.217
+X-Mailgun-Sid: WyJjMmVjMCIsInNoYW5lbWU5OUBnbWFpbC5jb20iLCI0ZDIzZWMiXQ==
+Received: from app16105106 (ec2-34-230-128-18.compute-1.amazonaws.com [34.230.128.18])
+ by 3d44594d102d with SMTP id 64fd1a6db042ae471d1815b5 (version=TLS1.2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256); Sun, 10 Sep 2023 01:22:53 GMT
+Sender: Notifications@corningfcu.org
+Message-Id: <20230910012253.7ef79314ac9a9de4@corningfcu.org>
+X-BID: 77797a49-03e9-4c58-ac53-09fc3eadc888
+X-HN: app16105106
+X-UID: e56a51b6-df06-4bc1-aa79-ea528a222824
+X-UCID: 1257508
+MIME-Version: 1.0
+From: "Corning Credit Union" <Notifications@Corningfcu.org>
+To: SHANEME99@GMAIL.COM
+Reply-To: "Corning CU" <Notifications@Corningfcu.org>
+Date: 10 Sep 2023 01:22:53 +0000
+Subject: Online Banking Access Alert from Corning Credit Union
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html style=3D"color: #595959; font-family: Helvetica Neue, Helve=
+tica, Arial, sans-serif; font-size: 13px; line-height: 150%; marg=
+in-top: 0; margin-right: 0; margin-left: 0; margin-bottom: 0; pad=
+ding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0=
+;">=0D=0A<head>=0D=0A    <meta http-equiv=3D"Content-Type" conten=
+t=3D"text/html; charset=3DUTF-8" />=0D=0A        <style type=3D"t=
+ext/css">=0D=0A                /*********************************=
+*=0D=0A            ********** Mobile Only ***********=0D=0A      =
+      **********************************/=0D=0A                @m=
+edia only screen and (max-width: 480px), only screen and (max-dev=
+ice-width: 480px) {=0D=0A                    table[id=3Dcontainer=
+], table#container {=0D=0A                        padding: 10px !=
+important;=0D=0A                        width: 100% !important;=0D=0A=
+                    }=0D=0A                    h1 {=0D=0A        =
+                font-size: 20px !important;=0D=0A                =
+    }=0D=0A                    span.header {=0D=0A               =
+         -webkit-text-size-adjust: none;=0D=0A                   =
+ }=0D=0A                }=0D=0A        </style>=0D=0A    </head>=0D=0A=
+    <body style=3D"color: #595959; font-family: Helvetica Neue, H=
+elvetica, Arial, sans-serif; font-size: 13px; line-height: 150%; =
+margin-top: 0; margin-right: 0; margin-left: 0; margin-bottom: 0;=
+ padding-top: 0; padding-right: 0; padding-bottom: 0; padding-lef=
+t: 0;">=0D=0A        <table id=3D"container" align=3D"center" sty=
+le=3D"color: #595959; font-family: Helvetica Neue, Helvetica, Ari=
+al, sans-serif; font-size: 13px; line-height: 150%; width: 90%; m=
+argin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: =
+auto; padding-top: 20px; padding-right: 20px; padding-bottom: 20p=
+x; padding-left: 20px;">=0D=0A            <tr style=3D"color: #59=
+5959; font-family: Helvetica Neue, Helvetica, Arial, sans-serif; =
+font-size: 13px; line-height: 150%; margin-top: 0; margin-right: =
+0; margin-left: 0; margin-bottom: 0; padding-top: 0; padding-righ=
+t: 0; padding-bottom: 0; padding-left: 0;">=0D=0A                =
+<td style=3D"color: #595959; font-family: Helvetica Neue, Helveti=
+ca, Arial, sans-serif; font-size: 13px; line-height: 150%; margin=
+-top: 0; margin-right: 0; margin-left: 0; margin-bottom: 0; paddi=
+ng-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;"=
+>=0D=0A                    <!-- HEADER -->=0D=0A                 =
+   <img src=3D"https://www.corningcu.org/images/logo_email.png" t=
+itle=3D'Corning Credit Union' alt=3D'Corning Credit Union' style=3D=
+"max-width:150px;"/>=0D=0A                    <br />=0D=0A       =
+             <br />=0D=0A                    <hr style=3D"height:=
+ 1px; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin=
+-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; pa=
+dding-left: 0; border-top-style: none; border-right-style: none; =
+border-bottom-style: none; border-left-style: none; border-top-wi=
+dth: 0; border-right-width: 0; border-bottom-width: 0; border-lef=
+t-width: 0; background-color: #D9DBDC;" />=0D=0A                 =
+   <h1 id=3D"title" style=3D"color: #595959; font-family: Helveti=
+ca Neue, Helvetica, Arial, sans-serif; font-size: 25px; line-heig=
+ht: 150%; font-weight: normal; margin-top: 0; margin-right: 0; ma=
+rgin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0;=
+ padding-bottom: 0; padding-left: 0;">=0D=0A                     =
+   Online Banking Access Alert=0D=0A                    </h1>=0D=0A=
+                    <h6 id=3D"date" style=3D"color: #999999 !impo=
+rtant; font-family: Helvetica Neue, Helvetica, Arial, sans-serif;=
+ font-size: 13px; line-height: 150%; font-weight: normal; text-tr=
+ansform: uppercase; margin-top: 0; margin-right: 0; margin-bottom=
+: 15px; margin-left: 0; padding-top: 0; padding-right: 0; padding=
+-bottom: 0; padding-left: 0;">=0D=0A                        Satur=
+day, September 09, 2023=0D=0A                    </h6>=0D=0A     =
+               <!-- END HEADER -->=0D=0A                    <!-- =
+MAIN CONTENT SETUP IN TEMPLATES FOR THE ALERT -->=0D=0A          =
+          <!-- WARNING DO NOT CHANGE THIS FORMAT AS IT IS USED TO=
+ REPLACE WITH THE ALERT TEMPLATE -->=0D=0A                     <h=
+r style=3D"height:1px;margin-top:0;margin-right:0;margin-bottom:1=
+0px;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;=
+padding-left:0;border-top-style:none;border-right-style:none;bord=
+er-bottom-style:none;border-left-style:none;border-top-width:0;bo=
+rder-right-width:0;border-bottom-width:0;border-left-width:0;back=
+ground-color:#d9dbdc">=0D=0A=0D=0A<p>Hello SHANE MENZIGIAN,</p>=0D=0A=
+<p>Your online banking username was used to access online banking=
+ on Saturday, September 09, 2023 at 9:22 PM.</p>=0D=0A           =
+         <br style=3D"color: #595959; font-family: Helvetica Neue=
+, Helvetica, Arial, sans-serif; font-size: 13px; line-height: 150=
+%; margin-top: 0; margin-right: 0; margin-left: 0; margin-bottom:=
+ 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-=
+left: 0;" />=0D=0A                    <!-- FOOTER -->=0D=0A      =
+              <table id=3D"footer" style=3D"color: #595959; font-=
+family: Helvetica Neue, Helvetica, Arial, sans-serif; font-size: =
+13px; line-height: 150%; margin-top: 0; margin-right: 0; margin-l=
+eft: 0; margin-bottom: 0; padding-top: 0; padding-right: 0; paddi=
+ng-bottom: 0; padding-left: 0; width: 100%;">=0D=0A              =
+          <tr style=3D"color: #999999; font-family: Helvetica Neu=
+e, Helvetica, Arial, sans-serif; font-size: 12px; line-height: 15=
+0%; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left=
+: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding=
+-left: 0;">=0D=0A                            <td style=3D"color: =
+#999999; font-family: Helvetica Neue, Helvetica, Arial, sans-seri=
+f; font-size: 12px; line-height: 150%; margin-top: 0; margin-righ=
+t: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-r=
+ight: 0; padding-bottom: 0; padding-left: 0;">=0D=0A             =
+                   <hr style=3D"height: 1px; margin-top: 0; margi=
+n-right: 0; margin-bottom: 10px; margin-left: 0; padding-top: 0; =
+padding-right: 0; padding-bottom: 0; padding-left: 0; border-top-=
+style: none; border-right-style: none; border-bottom-style: none;=
+ border-left-style: none; border-top-width: 0; border-right-width=
+: 0; border-bottom-width: 0; border-left-width: 0; background-col=
+or: #D9DBDC;" />=0D=0A                                =0D=0A     =
+                                       <p>=0D=0A                 =
+                               You are receiving this message bec=
+ause you signed up for Online Banking Access Alert.=0D=0A        =
+                                        Please log in to your Cor=
+ning Credit Union online banking account to manage your alert set=
+tings.=0D=0A                                            </p>=0D=0A=
+                               =0D=0A                            =
+    <p>=0D=0A                                    Corning Credit U=
+nion<br>P.O. Box 1450, Corning, NY  14830=0D=0A                  =
+              </p>=0D=0A                            </td>=0D=0A  =
+                      </tr>=0D=0A                    </table>=0D=0A=
+                    <!-- END FOOTER -->=0D=0A                </td=
+>=0D=0A            </tr>=0D=0A        </table>=0D=0A    </body>=0D=0A=
+</html>
+
